@@ -3,7 +3,7 @@ This repository is all you need for Sign Language Study!
 
 ## Table of Contents
 - [Datasets](#datasets)
-- - **[Paper Title 2024a](https://arxiv.org/abs/2024.00123)**  
+-   **ss**  
 - [Papers](#papers)
 - [Leaderboard](#leaderboard)
 
