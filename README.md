@@ -4,7 +4,7 @@ This repository is all you need for Sign Language Study!
 ## Table of Contents
 - [Datasets](#datasets)  
 - [Papers](#papers)
-- - Survey Paper
+  - [Survey Papers](#survey-papers)
 - [Leaderboard](#leaderboard)
 
 
