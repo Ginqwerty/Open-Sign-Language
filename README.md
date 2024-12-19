@@ -27,10 +27,17 @@ This repository is all you need for Sign Language Study!
 - **[ScienceDirect 2021]** Sign Language Recognition: A Deep Survey. [Paper](https://www.sciencedirect.com/science/article/pii/S095741742030614X?casa_token=P9dIGfGoMh0AAAAA:RPA7HImaRjZfsOJrJZ8INi-a9V0fJXp4hvKRRHLZMm_LySJee-lQ86zL9VcVdp2cQbkyK6zfsqM)
 ##### 2020
 - **[Arxiv 2020]** Quantitative Survey of the State of the Art in Sign Language Recognition. [Paper](https://arxiv.org/abs/2008.09918)
-- ##### 2019
+##### 2019
 - **[IEEE 2019]** Technical approaches to Chinese sign language processing: A review. [Paper](https://ieeexplore.ieee.org/abstract/document/8764391)
+- ##### 2017
+- **[IEEE 2017]** Automatic sign language recognition: A survey [Paper](https://ieeexplore.ieee.org/abstract/document/8075561?casa_token=CdoSrTyglMIAAAAA:e3KBEi9j3LO3-DUeTlb56NQlA4Hve1GWLuFKKOJce312gckmJFNrOyTatHifdIFa0XxWbkBjig)
+  
 #### SLT Survey Papers
+##### 2023
+- **[Research in Computing Science 2023]** A Comprehensive Review of Sign Language Translation Technologies Using Linguistic Approaches [Paper](https://rcs.cic.ipn.mx/2023_152_11/A%20Comprehensive%20Review%20of%20Sign%20Language%20Translation%20Technologies%20Using%20Linguistic%20Approaches.pdf)
 #### SLP Survey Papers
+
+
 ### SLR Papers
 ### SLT Papers
 #### 2020
