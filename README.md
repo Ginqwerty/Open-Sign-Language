@@ -19,6 +19,7 @@ This repository is all you need for Sign Language Study!
 ## Papers
 ### Survey Papers
 ### SLR Papers
+#### SLR Papers
 ### SLT Papers
 ### SLP Papers
 
