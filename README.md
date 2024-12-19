@@ -29,5 +29,8 @@ This repository is all you need for Sign Language Study!
 
 ## Leaderboard
 ### SLR 
+| Model Name      | Year | WER      | Model Input   | Publication    | Code                                    |
+|-----------------|------|----------|---------------|----------------|-----------------------------------------|
+|
 ### SLT
 ### SLP
