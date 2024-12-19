@@ -44,7 +44,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[Research in Computing Science 2023]** A Comprehensive Review of Sign Language Translation Technologies Using Linguistic Approaches. [Paper](https://rcs.cic.ipn.mx/2023_152_11/A%20Comprehensive%20Review%20of%20Sign%20Language%20Translation%20Technologies%20Using%20Linguistic%20Approaches.pdf)
 - **[Electronics 2023]** Sign Language Translation: A Survey of Approaches and Techniques. [Paper](https://www.mdpi.com/2079-9292/12/12/2678)
 #### SLP Survey Papers
-
+##### 2021
+- **[CVPR 2021]** Sign Language Production: A Review. [Paper](https://openaccess.thecvf.com/content/CVPR2021W/ChaLearn/html/Rastgoo_Sign_Language_Production_A_Review_CVPRW_2021_paper.html)
 
 ### SLR Papers
 ### SLT Papers
