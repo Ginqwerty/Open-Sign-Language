@@ -19,41 +19,41 @@ This repository is all you need for Sign Language Study!
 ## Papers
 ### Survey Papers
 #### Datasets Survey Papers
-##### 2022
+#### 2022
 ##### Journal
 - **[LREC 2022]** Challenges with sign language datasets for sign language recognition and translation. [Paper](https://repositori.upf.edu/items/7e5fd976-eb4f-4cc5-878b-a1d9eef5a370)
 #### SLR Survey Papers
-##### 2024
+#### 2024
 ##### Journal
 - **[Information Processing & Management 2024]** Reviewing 25 years of continuous sign language recognition research: Advances, challenges, and prospects. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001341)
-##### 2023
+#### 2023
 ##### Conference
 - **[ICCV 2023]** Unraveling a Decade: A Comprehensive Survey on Isolated Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/html/Sarhan_Unraveling_a_Decade_A_Comprehensive_Survey_on_Isolated_Sign_Language_ICCVW_2023_paper.html)
-##### 2022
+#### 2022
 ##### Arxiv
 - **[Arxiv 2022]** A Comprehensive Review of Sign Language Recognition: Different Types, Modalities, and Datasets. [Paper](https://arxiv.org/abs/2204.03328)
-##### 2021
+#### 2021
 ##### Journal
 - **[ScienceDirect 2021]** Sign Language Recognition: A Deep Survey. [Paper](https://www.sciencedirect.com/science/article/pii/S095741742030614X?casa_token=P9dIGfGoMh0AAAAA:RPA7HImaRjZfsOJrJZ8INi-a9V0fJXp4hvKRRHLZMm_LySJee-lQ86zL9VcVdp2cQbkyK6zfsqM)
-##### 2020
+#### 2020
 ##### Arxiv
 - **[Arxiv 2020]** Quantitative Survey of the State of the Art in Sign Language Recognition. [Paper](https://arxiv.org/abs/2008.09918)
-##### 2019
+#### 2019
 ##### Journal
 - **[IEEE 2019]** Technical approaches to Chinese sign language processing: A review. [Paper](https://ieeexplore.ieee.org/abstract/document/8764391)
 - **[Arch. Comput. Methods Eng. 2019]** Sign Language Recognition Systems: A Decade Systematic Literature
 Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publication/353571514_Sign_Language_Recognition_Systems_A_Decade_Systematic_Literature_Review/links/61039ff40c2bfa282a0d8a80/Sign-Language-Recognition-Systems-A-Decade-Systematic-Literature-Review.pdf)
-##### 2017
+#### 2017
 ##### Journal
 - **[IEEE 2017]** Automatic sign language recognition: A survey [Paper](https://ieeexplore.ieee.org/abstract/document/8075561?casa_token=CdoSrTyglMIAAAAA:e3KBEi9j3LO3-DUeTlb56NQlA4Hve1GWLuFKKOJce312gckmJFNrOyTatHifdIFa0XxWbkBjig)
   
 #### SLT Survey Papers
-##### 2023
+#### 2023
 ##### Journal
 - **[Research in Computing Science 2023]** A Comprehensive Review of Sign Language Translation Technologies Using Linguistic Approaches. [Paper](https://rcs.cic.ipn.mx/2023_152_11/A%20Comprehensive%20Review%20of%20Sign%20Language%20Translation%20Technologies%20Using%20Linguistic%20Approaches.pdf)
 - **[Electronics 2023]** Sign Language Translation: A Survey of Approaches and Techniques. [Paper](https://www.mdpi.com/2079-9292/12/12/2678)
 #### SLP Survey Papers
-##### 2021
+#### 2021
 ##### Conference
 - **[CVPR 2021]** Sign Language Production: A Review. [Paper](https://openaccess.thecvf.com/content/CVPR2021W/ChaLearn/html/Rastgoo_Sign_Language_Production_A_Review_CVPRW_2021_paper.html)
 
