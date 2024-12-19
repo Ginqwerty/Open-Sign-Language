@@ -21,8 +21,7 @@ This repository is all you need for Sign Language Study!
 ### SLR Papers
 ### SLT Papers
 #### 2018
-- [CVPR 2018] Neural Sign Language Translation  
-  [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html) | [Code](https://github.com/neccam/nslt)
+- [CVPR 2020] Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation. [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html) | [Code](https://github.com/neccam/nslt)
 
 ### SLP Papers
 
