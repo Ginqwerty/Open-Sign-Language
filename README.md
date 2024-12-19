@@ -19,7 +19,13 @@ This repository is all you need for Sign Language Study!
 ## Papers
 ### Survey Papers
 #### SLR Survey Papers
-#### 2020
+##### 2023
+- **[ICCV 2023]** Unraveling a Decade: A Comprehensive Survey on Isolated Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/html/Sarhan_Unraveling_a_Decade_A_Comprehensive_Survey_on_Isolated_Sign_Language_ICCVW_2023_paper.html)
+##### 2022
+- **[Arxiv 2022]** A Comprehensive Review of Sign Language Recognition: Different Types, Modalities, and Datasets. [Paper](https://arxiv.org/abs/2204.03328)
+##### 2021
+- **[ScienceDirect 2021]** Sign Language Recognition: A Deep Survey. [Paper](https://www.sciencedirect.com/science/article/pii/S095741742030614X?casa_token=P9dIGfGoMh0AAAAA:RPA7HImaRjZfsOJrJZ8INi-a9V0fJXp4hvKRRHLZMm_LySJee-lQ86zL9VcVdp2cQbkyK6zfsqM)
+##### 2020
 - **[Arxiv 2020]** Quantitative Survey of the State of the Art in Sign Language Recognition. [Paper](https://arxiv.org/abs/2008.09918)
 #### SLT Survey Papers
 #### SLP Survey Papers
