@@ -18,7 +18,11 @@ This repository is all you need for Sign Language Study!
 
 ## Papers
 ### Survey Papers
+#### Datasets Survey Papers
+- **[LREC 2022]** Challenges with sign language datasets for sign language recognition and translation. [Paper](https://repositori.upf.edu/items/7e5fd976-eb4f-4cc5-878b-a1d9eef5a370)
 #### SLR Survey Papers
+##### 2024
+- **[Information Processing & Management 2024]** Reviewing 25 years of continuous sign language recognition research: Advances, challenges, and prospects. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001341)
 ##### 2023
 - **[ICCV 2023]** Unraveling a Decade: A Comprehensive Survey on Isolated Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/html/Sarhan_Unraveling_a_Decade_A_Comprehensive_Survey_on_Isolated_Sign_Language_ICCVW_2023_paper.html)
 ##### 2022
