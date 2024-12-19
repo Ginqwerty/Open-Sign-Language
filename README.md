@@ -31,6 +31,12 @@ This repository is all you need for Sign Language Study!
 ### SLR 
 | Model Name      | Year | WER      | Model Input   | Publication    | Code                                    |
 |-----------------|------|----------|---------------|----------------|-----------------------------------------|
-|
+
 ### SLT
+#### Gloss-based
+| Model Name      | Year | BLEU-4      | Model Input   | Publication    | Code                                    |
+|-----------------|------|-------------|---------------|----------------|-----------------------------------------|
+#### Gloss-free
+| Model Name      | Year | BLEU-4      | Model Input   | Publication    | Code                                    |
+|-----------------|------|-------------|---------------|----------------|-----------------------------------------|
 ### SLP
