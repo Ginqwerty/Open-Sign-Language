@@ -18,6 +18,11 @@ This repository is all you need for Sign Language Study!
 
 ## Papers
 ### Survey Papers
+#### SLR Survey Papers
+#### 2020
+- [Arxiv 2020] Quantitative Survey of the State of the Art in Sign Language Recognition. [Paper](https://arxiv.org/abs/2008.09918)
+#### SLT Survey Papers
+#### SLP Survey Papers
 ### SLR Papers
 ### SLT Papers
 #### 2020
