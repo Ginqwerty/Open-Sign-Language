@@ -88,6 +88,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 #### SLT Survey Papers
 #### 2023
+##### ArXiv
+- **[ArXiv]** From Rule-Based Models to Deep Learning Transformers Architectures for Natural Language Processing and Sign Language Translation Systems: Survey, Taxonomy and Performance Evaluation. [Paper](https://arxiv.org/abs/2408.14825)
+
+#### 2023
 ##### Journal
 - **[Research in Computing Science]** A Comprehensive Review of Sign Language Translation Technologies Using Linguistic Approaches. [Paper](https://rcs.cic.ipn.mx/2023_152_11/A%20Comprehensive%20Review%20of%20Sign%20Language%20Translation%20Technologies%20Using%20Linguistic%20Approaches.pdf)
 - **[Electronics]** Sign Language Translation: A Survey of Approaches and Techniques. [Paper](https://www.mdpi.com/2079-9292/12/12/2678)
