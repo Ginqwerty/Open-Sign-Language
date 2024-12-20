@@ -17,6 +17,7 @@ This repository is all you need for Sign Language Study!
 - Please refer to [this page](helper/datasets.md).
 
 ## Papers
+******************************************************************************************
 ### Survey Papers
 #### Datasets Survey Papers
 #### 2022
@@ -50,12 +51,18 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2017
 ##### Journal
 - **[IEEE 2017]** Automatic sign language recognition: A survey. [Paper](https://ieeexplore.ieee.org/abstract/document/8075561?casa_token=CdoSrTyglMIAAAAA:e3KBEi9j3LO3-DUeTlb56NQlA4Hve1GWLuFKKOJce312gckmJFNrOyTatHifdIFa0XxWbkBjig)
-  
+
+
+******************************************************************************************************************
+
 #### SLT Survey Papers
 #### 2023
 ##### Journal
 - **[Research in Computing Science 2023]** A Comprehensive Review of Sign Language Translation Technologies Using Linguistic Approaches. [Paper](https://rcs.cic.ipn.mx/2023_152_11/A%20Comprehensive%20Review%20of%20Sign%20Language%20Translation%20Technologies%20Using%20Linguistic%20Approaches.pdf)
 - **[Electronics 2023]** Sign Language Translation: A Survey of Approaches and Techniques. [Paper](https://www.mdpi.com/2079-9292/12/12/2678)
+
+***********************************************************************************************************************
+
 #### SLP Survey Papers
 #### 2021
 ##### Conference
