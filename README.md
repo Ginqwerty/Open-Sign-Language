@@ -29,6 +29,7 @@ This repository is all you need for Sign Language Study!
 #### 2024
 ##### Journal
 - **[Information Processing & Management 2024]** Reviewing 25 years of continuous sign language recognition research: Advances, challenges, and prospects. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001341)
+- **[IEEE Access 2024]** Sign Language Recognition: A Comprehensive Review of Traditional and Deep Learning Approaches, Datasets, and Challenges. [Paper](https://ieeexplore.ieee.org/abstract/document/10526274) 
 
 #### 2023
 ##### Conference
@@ -73,6 +74,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Journal
 - **[Research in Computing Science 2023]** A Comprehensive Review of Sign Language Translation Technologies Using Linguistic Approaches. [Paper](https://rcs.cic.ipn.mx/2023_152_11/A%20Comprehensive%20Review%20of%20Sign%20Language%20Translation%20Technologies%20Using%20Linguistic%20Approaches.pdf)
 - **[Electronics 2023]** Sign Language Translation: A Survey of Approaches and Techniques. [Paper](https://www.mdpi.com/2079-9292/12/12/2678)
+- **[Expert Syst. Appl. 2023]** A survey on Sign Language machine translation. [Paper](https://www.sciencedirect.com/science/article/pii/S0957417422020115)
 
 ***********************************************************************************************************************
 
