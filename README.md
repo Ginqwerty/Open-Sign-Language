@@ -58,12 +58,12 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 <details>
   <summary>Earlier</summary>
-  
-  ##### Journal
+
+  #### Journal
   - **[IEEE 2017]** Automatic sign language recognition: A survey. [Paper](https://ieeexplore.ieee.org/abstract/document/8075561?casa_token=CdoSrTyglMIAAAAA:e3KBEi9j3LO3-DUeTlb56NQlA4Hve1GWLuFKKOJce312gckmJFNrOyTatHifdIFa0XxWbkBjig)
   - **[ARPN 2014]** SIGN LANGUAGE RECOGNITION: STATE OF THE ART. [Paper](https://www.researchgate.net/profile/Ashok-Sahoo-5/publication/262187093_Sign_language_recognition_State_of_the_art/links/02e7e53b246791ce2a000000/Sign-language-recognition-State-of-the-art.pdf)
 
-<details>
+</details>
 
 ******************************************************************************************************************
 
