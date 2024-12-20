@@ -42,6 +42,7 @@ This repository is all you need for Sign Language Study!
 #### 2021
 ##### Journal
 - **[ScienceDirect 2021]** Sign Language Recognition: A Deep Survey. [Paper](https://www.sciencedirect.com/science/article/pii/S095741742030614X?casa_token=P9dIGfGoMh0AAAAA:RPA7HImaRjZfsOJrJZ8INi-a9V0fJXp4hvKRRHLZMm_LySJee-lQ86zL9VcVdp2cQbkyK6zfsqM)
+- **[Sensors 2021]** Artificial Intelligence Technologies for Sign Language. [Paper](https://www.mdpi.com/1424-8220/21/17/5843)
   
 #### 2020
 ##### Journal
@@ -76,12 +77,19 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[Electronics 2023]** Sign Language Translation: A Survey of Approaches and Techniques. [Paper](https://www.mdpi.com/2079-9292/12/12/2678)
 - **[Expert Syst. Appl. 2023]** A survey on Sign Language machine translation. [Paper](https://www.sciencedirect.com/science/article/pii/S0957417422020115)
 
+#### 2021
+##### Journal
+- **[Sensors 2021]** Artificial Intelligence Technologies for Sign Language. [Paper](https://www.mdpi.com/1424-8220/21/17/5843)
+
 ***********************************************************************************************************************
 
 #### SLP Survey Papers
 #### 2021
 ##### Conference
 - **[CVPR 2021]** Sign Language Production: A Review. [Paper](https://openaccess.thecvf.com/content/CVPR2021W/ChaLearn/html/Rastgoo_Sign_Language_Production_A_Review_CVPRW_2021_paper.html)
+
+##### Journal
+- **[Sensors 2021]** Artificial Intelligence Technologies for Sign Language. [Paper](https://www.mdpi.com/1424-8220/21/17/5843)
 
 ***********************************************************************************************************************
 
