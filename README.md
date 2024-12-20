@@ -17,14 +17,14 @@ This repository is all you need for Sign Language Study!
 - Please refer to [this page](helper/datasets.md).
 
 ## Papers
-******************************************************************************************
 ### Survey Papers
+**********************************************************************************************************************
 #### Datasets Survey Papers
 #### 2022
 ##### Journal
 - **[LREC 2022]** Challenges with sign language datasets for sign language recognition and translation. [Paper](https://repositori.upf.edu/items/7e5fd976-eb4f-4cc5-878b-a1d9eef5a370)
 
-
+**********************************************************************************************************************
 #### SLR Survey Papers
 #### 2024
 ##### Journal
@@ -39,6 +39,9 @@ This repository is all you need for Sign Language Study!
 ##### Journal
 - **[ScienceDirect 2021]** Sign Language Recognition: A Deep Survey. [Paper](https://www.sciencedirect.com/science/article/pii/S095741742030614X?casa_token=P9dIGfGoMh0AAAAA:RPA7HImaRjZfsOJrJZ8INi-a9V0fJXp4hvKRRHLZMm_LySJee-lQ86zL9VcVdp2cQbkyK6zfsqM)
 #### 2020
+##### Journal
+- **[Arab. J. Sci. Eng. 2020]** A Survey on Artificial Intelligence in Chinese Sign Language
+Recognition. [Paper](https://link.springer.com/article/10.1007/s13369-020-04758-2)
 ##### Arxiv
 - **[Arxiv 2020]** Quantitative Survey of the State of the Art in Sign Language Recognition. [Paper](https://arxiv.org/abs/2008.09918)
 #### 2019
@@ -47,7 +50,6 @@ This repository is all you need for Sign Language Study!
 - **[Arch. Comput. Methods Eng. 2019]** Sign Language Recognition Systems: A Decade Systematic Literature
 Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publication/353571514_Sign_Language_Recognition_Systems_A_Decade_Systematic_Literature_Review/links/61039ff40c2bfa282a0d8a80/Sign-Language-Recognition-Systems-A-Decade-Systematic-Literature-Review.pdf)
 - **[Int. J. Mach. Learn. & Cyber. 2019]** A review of hand gesture and sign language recognition techniques. [Paper](https://link.springer.com/article/10.1007/s13042-017-0705-5)
-- 
 #### 2017
 ##### Journal
 - **[IEEE 2017]** Automatic sign language recognition: A survey. [Paper](https://ieeexplore.ieee.org/abstract/document/8075561?casa_token=CdoSrTyglMIAAAAA:e3KBEi9j3LO3-DUeTlb56NQlA4Hve1GWLuFKKOJce312gckmJFNrOyTatHifdIFa0XxWbkBjig)
