@@ -41,6 +41,7 @@ This repository is all you need for Sign Language Study!
 
 ##### Journal
 - **[Meas. Sens. 2022]** Survey on sign language recognition in context of vision-based and deep learning. [Paper](https://www.sciencedirect.com/science/article/pii/S2665917422000198)
+- **[Open Comput. Sci. 2022]** Sign language identification and recognition: A comparative study. [Paper](https://www.degruyter.com/document/doi/10.1515/comp-2022-0240/html)
 
 #### 2021
 ##### Journal
