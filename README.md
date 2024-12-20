@@ -68,6 +68,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[CVPR 2021]** Sign Language Production: A Review. [Paper](https://openaccess.thecvf.com/content/CVPR2021W/ChaLearn/html/Rastgoo_Sign_Language_Production_A_Review_CVPRW_2021_paper.html)
 
+***********************************************************************************************************************
+
 ### SLR Papers
 ### SLT Papers
 #### 2021
