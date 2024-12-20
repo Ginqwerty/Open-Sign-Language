@@ -36,6 +36,9 @@ This repository is all you need for Sign Language Study!
 - **[ICCV]** Unraveling a Decade: A Comprehensive Survey on Isolated Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/html/Sarhan_Unraveling_a_Decade_A_Comprehensive_Survey_on_Isolated_Sign_Language_ICCVW_2023_paper.html)
 - **[ICCMC]** A Extensive Survey on Sign Language Recognition Methods. [Paper](https://ieeexplore.ieee.org/abstract/document/10084111?casa_token=8ZZtp84cwlcAAAAA:xXU_dxbMEJCGnQKtg7Qmxz7UyrLxjvLYwDo_z3MULrvwVIhVriEjXHgCPlKQ3fVkg0z1IcHpfw)
 
+##### Journal
+- **[ACM TALLIP]** State of the Art of Automation in Sign Language: A Systematic Review. [Paper](https://dl.acm.org/doi/abs/10.1145/3564769?casa_token=wAEiDbMCTJQAAAAA:qOFU940hFNb5ARyCx2GaZ-jtvvUdXgNe1QSYMwXzZM9-ly2okGpTWi2Ayrqyg5zf6f_WohX6auKSkw)
+
 #### 2022
 ##### Arxiv
 - **[Arxiv]** A Comprehensive Review of Sign Language Recognition: Different Types, Modalities, and Datasets. [Paper](https://arxiv.org/abs/2204.03328)
@@ -54,6 +57,10 @@ This repository is all you need for Sign Language Study!
 - **[Sensors 2021]** Artificial Intelligence Technologies for Sign Language. [Paper](https://www.mdpi.com/1424-8220/21/17/5843)
   
 #### 2020
+##### Conference
+- **[INOCON]** Sign Language Recognition Techniques- A Review. [Paper](https://ieeexplore.ieee.org/abstract/document/9298376?casa_token=MrQiOVakC8QAAAAA:GG44e9mc7qGyzRwV07HaS_42kmNVqSN96Bu_2tI188wkiLI_KNfNwaEV7t_B81IKwh-YJlNNNw)
+
+
 ##### Journal
 - **[Arab. J. Sci. Eng.]** A Survey on Artificial Intelligence in Chinese Sign Language
 Recognition. [Paper](https://link.springer.com/article/10.1007/s13369-020-04758-2)
@@ -85,6 +92,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[Research in Computing Science]** A Comprehensive Review of Sign Language Translation Technologies Using Linguistic Approaches. [Paper](https://rcs.cic.ipn.mx/2023_152_11/A%20Comprehensive%20Review%20of%20Sign%20Language%20Translation%20Technologies%20Using%20Linguistic%20Approaches.pdf)
 - **[Electronics]** Sign Language Translation: A Survey of Approaches and Techniques. [Paper](https://www.mdpi.com/2079-9292/12/12/2678)
 - **[Expert Syst. Appl.]** A survey on Sign Language machine translation. [Paper](https://www.sciencedirect.com/science/article/pii/S0957417422020115)
+- **[ACM TALLIP]** State of the Art of Automation in Sign Language: A Systematic Review. [Paper](https://dl.acm.org/doi/abs/10.1145/3564769?casa_token=wAEiDbMCTJQAAAAA:qOFU940hFNb5ARyCx2GaZ-jtvvUdXgNe1QSYMwXzZM9-ly2okGpTWi2Ayrqyg5zf6f_WohX6auKSkw)
 
 #### 2021
 ##### Journal
@@ -93,6 +101,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 
 #### SLP Survey Papers
+#### 2023
+##### Journal
+- **[ACM TALLIP]** State of the Art of Automation in Sign Language: A Systematic Review. [Paper](https://dl.acm.org/doi/abs/10.1145/3564769?casa_token=wAEiDbMCTJQAAAAA:qOFU940hFNb5ARyCx2GaZ-jtvvUdXgNe1QSYMwXzZM9-ly2okGpTWi2Ayrqyg5zf6f_WohX6auKSkw)
+
 #### 2021
 ##### Conference
 - **[CVPR]** Sign Language Production: A Review. [Paper](https://openaccess.thecvf.com/content/CVPR2021W/ChaLearn/html/Rastgoo_Sign_Language_Production_A_Review_CVPRW_2021_paper.html)
