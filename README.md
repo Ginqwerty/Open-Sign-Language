@@ -46,6 +46,7 @@ This repository is all you need for Sign Language Study!
 ##### Journal
 - **[Arab. J. Sci. Eng. 2020]** A Survey on Artificial Intelligence in Chinese Sign Language
 Recognition. [Paper](https://link.springer.com/article/10.1007/s13369-020-04758-2)
+- **[J. Eng. Appl. Sci. 2020]** Advances, challenges and opportunities in continuous sign language recognition. [Paper](https://fci.stafpu.bu.edu.eg/Computer%20Science/1273/publications/nada%20bahaa%20ibrahim%20ahmed_1205-1227.pdf)
 ##### Arxiv
 - **[Arxiv 2020]** Quantitative Survey of the State of the Art in Sign Language Recognition. [Paper](https://arxiv.org/abs/2008.09918)
 
