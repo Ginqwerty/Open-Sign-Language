@@ -39,6 +39,9 @@ This repository is all you need for Sign Language Study!
 ##### Arxiv
 - **[Arxiv 2022]** A Comprehensive Review of Sign Language Recognition: Different Types, Modalities, and Datasets. [Paper](https://arxiv.org/abs/2204.03328)
 
+##### Journal
+- **[Meas. Sens. 2022]** Survey on sign language recognition in context of vision-based and deep learning. [Paper](https://www.sciencedirect.com/science/article/pii/S2665917422000198)
+
 #### 2021
 ##### Journal
 - **[ScienceDirect 2021]** Sign Language Recognition: A Deep Survey. [Paper](https://www.sciencedirect.com/science/article/pii/S095741742030614X?casa_token=P9dIGfGoMh0AAAAA:RPA7HImaRjZfsOJrJZ8INi-a9V0fJXp4hvKRRHLZMm_LySJee-lQ86zL9VcVdp2cQbkyK6zfsqM)
