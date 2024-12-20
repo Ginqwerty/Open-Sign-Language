@@ -34,6 +34,7 @@ This repository is all you need for Sign Language Study!
 #### 2023
 ##### Conference
 - **[ICCV]** Unraveling a Decade: A Comprehensive Survey on Isolated Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/html/Sarhan_Unraveling_a_Decade_A_Comprehensive_Survey_on_Isolated_Sign_Language_ICCVW_2023_paper.html)
+- **[ICCMC]** A Extensive Survey on Sign Language Recognition Methods. [Paper](https://ieeexplore.ieee.org/abstract/document/10084111?casa_token=8ZZtp84cwlcAAAAA:xXU_dxbMEJCGnQKtg7Qmxz7UyrLxjvLYwDo_z3MULrvwVIhVriEjXHgCPlKQ3fVkg0z1IcHpfw)
 
 #### 2022
 ##### Arxiv
@@ -45,6 +46,9 @@ This repository is all you need for Sign Language Study!
 - **[IEEE Access]** Technological Solutions for Sign Language Recognition: A Scoping Review of Research Trends, Challenges, and Opportunities. [Paper](https://ieeexplore.ieee.org/abstract/document/9739689)
 
 #### 2021
+##### Conference
+- **[ICITIIT]** ML Based Sign Language Recognition System. [Paper](https://ieeexplore.ieee.org/abstract/document/9399594?casa_token=hJN9G8JDMVwAAAAA:yOPOQyDOPQCdFOLkeiYq142UAw85bYNQFJkEqdK8ixutu8wyEMJyb9af5nMCWZE7KPtYydnYew)
+
 ##### Journal
 - **[ScienceDirect]** Sign Language Recognition: A Deep Survey. [Paper](https://www.sciencedirect.com/science/article/pii/S095741742030614X?casa_token=P9dIGfGoMh0AAAAA:RPA7HImaRjZfsOJrJZ8INi-a9V0fJXp4hvKRRHLZMm_LySJee-lQ86zL9VcVdp2cQbkyK6zfsqM)
 - **[Sensors 2021]** Artificial Intelligence Technologies for Sign Language. [Paper](https://www.mdpi.com/1424-8220/21/17/5843)
