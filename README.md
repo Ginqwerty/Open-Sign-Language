@@ -93,6 +93,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[Electronics]** Sign Language Translation: A Survey of Approaches and Techniques. [Paper](https://www.mdpi.com/2079-9292/12/12/2678)
 - **[Expert Syst. Appl.]** A survey on Sign Language machine translation. [Paper](https://www.sciencedirect.com/science/article/pii/S0957417422020115)
 - **[ACM TALLIP]** State of the Art of Automation in Sign Language: A Systematic Review. [Paper](https://dl.acm.org/doi/abs/10.1145/3564769?casa_token=wAEiDbMCTJQAAAAA:qOFU940hFNb5ARyCx2GaZ-jtvvUdXgNe1QSYMwXzZM9-ly2okGpTWi2Ayrqyg5zf6f_WohX6auKSkw)
+- **[Univ. Access Inf. Soc.]** Machine translation from text to sign language: a systematic review. [Paper](https://link.springer.com/article/10.1007/s10209-021-00823-1)
 
 #### 2021
 ##### Journal
@@ -104,6 +105,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2023
 ##### Journal
 - **[ACM TALLIP]** State of the Art of Automation in Sign Language: A Systematic Review. [Paper](https://dl.acm.org/doi/abs/10.1145/3564769?casa_token=wAEiDbMCTJQAAAAA:qOFU940hFNb5ARyCx2GaZ-jtvvUdXgNe1QSYMwXzZM9-ly2okGpTWi2Ayrqyg5zf6f_WohX6auKSkw)
+- **[Univ. Access Inf. Soc.]** Machine translation from text to sign language: a systematic review. [Paper](https://link.springer.com/article/10.1007/s10209-021-00823-1)
 
 #### 2021
 ##### Conference
