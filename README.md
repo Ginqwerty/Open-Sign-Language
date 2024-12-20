@@ -29,31 +29,37 @@ This repository is all you need for Sign Language Study!
 #### 2024
 ##### Journal
 - **[Information Processing & Management 2024]** Reviewing 25 years of continuous sign language recognition research: Advances, challenges, and prospects. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001341)
+
 #### 2023
 ##### Conference
 - **[ICCV 2023]** Unraveling a Decade: A Comprehensive Survey on Isolated Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/html/Sarhan_Unraveling_a_Decade_A_Comprehensive_Survey_on_Isolated_Sign_Language_ICCVW_2023_paper.html)
+
 #### 2022
 ##### Arxiv
 - **[Arxiv 2022]** A Comprehensive Review of Sign Language Recognition: Different Types, Modalities, and Datasets. [Paper](https://arxiv.org/abs/2204.03328)
+
 #### 2021
 ##### Journal
 - **[ScienceDirect 2021]** Sign Language Recognition: A Deep Survey. [Paper](https://www.sciencedirect.com/science/article/pii/S095741742030614X?casa_token=P9dIGfGoMh0AAAAA:RPA7HImaRjZfsOJrJZ8INi-a9V0fJXp4hvKRRHLZMm_LySJee-lQ86zL9VcVdp2cQbkyK6zfsqM)
+  
 #### 2020
 ##### Journal
 - **[Arab. J. Sci. Eng. 2020]** A Survey on Artificial Intelligence in Chinese Sign Language
 Recognition. [Paper](https://link.springer.com/article/10.1007/s13369-020-04758-2)
 ##### Arxiv
 - **[Arxiv 2020]** Quantitative Survey of the State of the Art in Sign Language Recognition. [Paper](https://arxiv.org/abs/2008.09918)
+
 #### 2019
 ##### Journal
 - **[IEEE 2019]** Technical approaches to Chinese sign language processing: A review. [Paper](https://ieeexplore.ieee.org/abstract/document/8764391)
 - **[Arch. Comput. Methods Eng. 2019]** Sign Language Recognition Systems: A Decade Systematic Literature
 Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publication/353571514_Sign_Language_Recognition_Systems_A_Decade_Systematic_Literature_Review/links/61039ff40c2bfa282a0d8a80/Sign-Language-Recognition-Systems-A-Decade-Systematic-Literature-Review.pdf)
 - **[Int. J. Mach. Learn. & Cyber. 2019]** A review of hand gesture and sign language recognition techniques. [Paper](https://link.springer.com/article/10.1007/s13042-017-0705-5)
-#### 2017
+
+#### Earlier
 ##### Journal
 - **[IEEE 2017]** Automatic sign language recognition: A survey. [Paper](https://ieeexplore.ieee.org/abstract/document/8075561?casa_token=CdoSrTyglMIAAAAA:e3KBEi9j3LO3-DUeTlb56NQlA4Hve1GWLuFKKOJce312gckmJFNrOyTatHifdIFa0XxWbkBjig)
-
+- **[ARPN 2014]** SIGN LANGUAGE RECOGNITION: STATE OF THE ART. [Paper](https://www.researchgate.net/profile/Ashok-Sahoo-5/publication/262187093_Sign_language_recognition_State_of_the_art/links/02e7e53b246791ce2a000000/Sign-language-recognition-State-of-the-art.pdf)
 
 ******************************************************************************************************************
 
