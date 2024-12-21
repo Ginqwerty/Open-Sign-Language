@@ -108,6 +108,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2024
 ##### Journal
 - **[ACM TALLIP]** A Comprehensive Review of Sign Language Production. [Paper](https://riunet.upv.es/handle/10251/212285)
+- **[Expert Syst. Appl.]** A survey on recent advances in Sign Language Production. [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423033481?casa_token=UmInOwI3diwAAAAA:bA4cZopQA1MtTfGYKQZR9QkKEUHp0rnHKLx7fepo9BFP2cSI80Xl4sEtr7p3yb4yvvmghKy8FzU)
 
 #### 2023
 ##### Journal
