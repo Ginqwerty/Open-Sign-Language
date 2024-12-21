@@ -76,7 +76,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[Int. J. Mach. Learn. & Cyber.]** A review of hand gesture and sign language recognition techniques. [Paper](https://link.springer.com/article/10.1007/s13042-017-0705-5)
 
 <details>
-  <summary>Earlier</summary>
+  <summary><b>Earlier</b></summary>
 
   ##### Journal
   - **[IEEE]** Automatic sign language recognition: A survey. [Paper](https://ieeexplore.ieee.org/abstract/document/8075561?casa_token=CdoSrTyglMIAAAAA:e3KBEi9j3LO3-DUeTlb56NQlA4Hve1GWLuFKKOJce312gckmJFNrOyTatHifdIFa0XxWbkBjig)
