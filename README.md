@@ -76,7 +76,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[Int. J. Mach. Learn. & Cyber.]** A review of hand gesture and sign language recognition techniques. [Paper](https://link.springer.com/article/10.1007/s13042-017-0705-5)
 
 <details>
-  <summary>#### Earlier</summary>
+  <summary>Earlier</summary>
 
   ##### Journal
   - **[IEEE]** Automatic sign language recognition: A survey. [Paper](https://ieeexplore.ieee.org/abstract/document/8075561?casa_token=CdoSrTyglMIAAAAA:e3KBEi9j3LO3-DUeTlb56NQlA4Hve1GWLuFKKOJce312gckmJFNrOyTatHifdIFa0XxWbkBjig)
@@ -91,7 +91,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### ArXiv
 - **[ArXiv]** From Rule-Based Models to Deep Learning Transformers Architectures for Natural Language Processing and Sign Language Translation Systems: Survey, Taxonomy and Performance Evaluation. [Paper](https://arxiv.org/abs/2408.14825)
 
-#### 2023
 ##### Journal
 - **[Research in Computing Science]** A Comprehensive Review of Sign Language Translation Technologies Using Linguistic Approaches. [Paper](https://rcs.cic.ipn.mx/2023_152_11/A%20Comprehensive%20Review%20of%20Sign%20Language%20Translation%20Technologies%20Using%20Linguistic%20Approaches.pdf)
 - **[Electronics]** Sign Language Translation: A Survey of Approaches and Techniques. [Paper](https://www.mdpi.com/2079-9292/12/12/2678)
@@ -106,10 +105,18 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 
 #### SLP Survey Papers
+#### 2024
+##### Journal
+- **[ACM TALLIP]** A Comprehensive Review of Sign Language Production. [Paper](https://riunet.upv.es/handle/10251/212285)
+
 #### 2023
 ##### Journal
 - **[ACM TALLIP]** State of the Art of Automation in Sign Language: A Systematic Review. [Paper](https://dl.acm.org/doi/abs/10.1145/3564769?casa_token=wAEiDbMCTJQAAAAA:qOFU940hFNb5ARyCx2GaZ-jtvvUdXgNe1QSYMwXzZM9-ly2okGpTWi2Ayrqyg5zf6f_WohX6auKSkw)
 - **[Univ. Access Inf. Soc.]** Machine translation from text to sign language: a systematic review. [Paper](https://link.springer.com/article/10.1007/s10209-021-00823-1)
+
+#### 2022
+##### ArXiv
+- **[ArXiv]** All You Need In Sign Language Production. [Paper](https://arxiv.org/abs/2201.01609)
 
 #### 2021
 ##### Conference
