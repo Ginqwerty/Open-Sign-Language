@@ -140,6 +140,23 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
     [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf) | [Code](https://github.com/neccam/nslt)
 
 ### SLP Papers
+#### 2022
+##### Conference
+- **[CVPR]** Signing at scale: Learning to co-articulate signs for large-scale photo-realistic sign language production. [Paper](file:///Users/yimingni/Downloads/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf)
+
+#### 2020
+##### Conference
+- **[ECCV]** Progressive transformers for end-to-end sign language production. [Paper](https://arxiv.org/abs/2004.14874)
+
+
+<details>
+  <summary><b>Earlier</b></summary>
+
+  ##### Conference
+  - **[BMVC 2018]** Sign Language Production using Neural Machine Translation and Generative Adversarial Networks. [Paper]([https://ieeexplore.ieee.org/abstract/document/8075561?casa_token=CdoSrTyglMIAAAAA:e3KBEi9j3LO3-DUeTlb56NQlA4Hve1GWLuFKKOJce312gckmJFNrOyTatHifdIFa0XxWbkBjig](https://ieeexplore.ieee.org/abstract/document/8075561?casa_token=CdoSrTyglMIAAAAA:e3KBEi9j3LO3-DUeTlb56NQlA4Hve1GWLuFKKOJce312gckmJFNrOyTatHifdIFa0XxWbkBjig))
+  
+
+</details>
 
 ## Leaderboard
 ### SLR 
