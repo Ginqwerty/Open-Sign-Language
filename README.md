@@ -54,7 +54,7 @@ This repository is all you need for Sign Language Study!
 
 ##### Journal
 - **[ScienceDirect]** Sign Language Recognition: A Deep Survey. [Paper](https://www.sciencedirect.com/science/article/pii/S095741742030614X?casa_token=P9dIGfGoMh0AAAAA:RPA7HImaRjZfsOJrJZ8INi-a9V0fJXp4hvKRRHLZMm_LySJee-lQ86zL9VcVdp2cQbkyK6zfsqM)
-- **[Sensors 2021]** Artificial Intelligence Technologies for Sign Language. [Paper](https://www.mdpi.com/1424-8220/21/17/5843)
+- **[Sensors]** Artificial Intelligence Technologies for Sign Language. [Paper](https://www.mdpi.com/1424-8220/21/17/5843)
   
 #### 2020
 ##### Conference
@@ -142,17 +142,33 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[CVPR]** Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation.  
     [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf) | [Code](https://github.com/neccam/nslt)
 
+##### ArXiv
+- **[ArXiv]** Adversarial Training for Multi-Channel Sign Language Production. [Paper](https://arxiv.org/abs/2008.12405)
+
 ***********************************************************************************************************************
 
 ### SLP Papers
+#### 2024
+##### Conference
+- **[CVPR]** Neural Sign Actors: A Diffusion Model for 3D Sign Language Production from Text. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.html)
+
+#### 2023
+##### ArXiv
+- **[ArXiv]** SignDiff: Learning Diffusion Models for American Sign Language Production. [Paper](https://www.researchgate.net/publication/373518983_SignDiff_Learning_Diffusion_Models_for_American_Sign_Language_Production) 
 
 #### 2022
 ##### Conference
 - **[CVPR]** Signing at scale: Learning to co-articulate signs for large-scale photo-realistic sign language production. [Paper](file:///Users/yimingni/Downloads/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf)
+- **[ACM]** Gloss Semantic-Enhanced Network with Online Back-Translation for Sign Language Production. [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547830?casa_token=_MlXpMYEzNoAAAAA:2L5Ktxo-G1ygXpL4LQnPcYmTPKrUiJU5wKUIYATaillFPDL90iyz5Q7egp_9_aX6WcnsCXdGIZ8gWA)
 
 #### 2021
 ##### Conference
 - **[ACM]** Towards Fast and High-Quality Sign Language Production. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475463?casa_token=anYLezVhxNYAAAAA:XaOvgclXT1VHV0vE6IbfECNS3YpPp5JbgXHb42s5KvJnG5WUD11Yh3xsXRVZDRBngQNFYExPmBvO6g)
+- **[ICCV]** Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Saunders_Mixed_SIGNals_Sign_Language_Production_via_a_Mixture_of_Motion_ICCV_2021_paper.html)
+- **[BMVC]** Non-Autoregressive Sign Language Production with Gaussian Space. [Paper](https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf)
+
+##### Journal
+- **[IJCV]** Continuous 3D Multi-Channel Sign Language Production via Progressive Transformers and Mixture Density Networks. [Paper](https://link.springer.com/article/10.1007/s11263-021-01457-9)
 
 #### 2020
 ##### Conference
