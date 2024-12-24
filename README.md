@@ -163,7 +163,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
   <summary><b>Earlier</b></summary>
 
   ##### Conference
-  - **[BMVC 2018]** Sign Language Production using Neural Machine Translation and Generative Adversarial Networks. [Paper](https://ieeexplore.ieee.org/abstract/document/8075561?casa_token=CdoSrTyglMIAAAAA:e3KBEi9j3LO3-DUeTlb56NQlA4Hve1GWLuFKKOJce312gckmJFNrOyTatHifdIFa0XxWbkBjig)
+  - **[BMVC 2018]** Sign Language Production using Neural Machine Translation and Generative Adversarial Networks. [Paper](https://d1wqtxts1xzle7.cloudfront.net/82179482/0906-libre.pdf?1647335598=&response-content-disposition=inline%3B+filename%3DSign_Language_Production_Using_Neural_Ma.pdf&Expires=1735083159&Signature=PqXBi-RC7J7Wx3towVVQfjte12~5pYISgQEePLlAMSNpdQk3mRogSC3YPPpZrHSDCUWF6JfGnGgMo-Oql050Mwz2ObfqkO6KEY6vTe3b25zUIP3HCnwWLMrxnr72LIhyO-17QE6Kt~etKxg48LzCnh9wCSN6uM5IbBkjetxtdeJ-Kw7OuXL5gcKZ-Zduxw99D7SVinzBHZ4~Z5y48SR5feBXMN7fIdqpyuzGF9MeAoauSXEfXN2xOr4m2~aI-0EP9bCvtD2M5J1SmojmbpXYL~7vT1CMqLOEKkBdULONElsrqBkImamhIsmy0paiayJblEmgjRBYlsHOG7-GJiC05w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
   
 
 </details>
