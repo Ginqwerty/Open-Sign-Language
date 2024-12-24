@@ -129,6 +129,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 
 ### SLR Papers
+
+***********************************************************************************************************************
+
 ### SLT Papers
 #### 2021
 ##### Journal
@@ -139,15 +142,22 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[CVPR]** Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation.  
     [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf) | [Code](https://github.com/neccam/nslt)
 
+***********************************************************************************************************************
+
 ### SLP Papers
+
 #### 2022
 ##### Conference
 - **[CVPR]** Signing at scale: Learning to co-articulate signs for large-scale photo-realistic sign language production. [Paper](file:///Users/yimingni/Downloads/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf)
 
+#### 2021
+##### Conference
+- **[ACM]** Towards Fast and High-Quality Sign Language Production. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475463?casa_token=anYLezVhxNYAAAAA:XaOvgclXT1VHV0vE6IbfECNS3YpPp5JbgXHb42s5KvJnG5WUD11Yh3xsXRVZDRBngQNFYExPmBvO6g)
+
 #### 2020
 ##### Conference
 - **[ECCV]** Progressive transformers for end-to-end sign language production. [Paper](https://arxiv.org/abs/2004.14874)
-
+- **[IJCV]** Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. [Paper](https://link.springer.com/article/10.1007/s11263-019-01281-2)
 
 <details>
   <summary><b>Earlier</b></summary>
