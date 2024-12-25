@@ -156,6 +156,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ECCV]** A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [Paper](https://arxiv.org/pdf/2401.04730)
 - **[ECCV]** SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [Paper](https://eccv.ecva.net/virtual/2024/poster/2581)
 - **[AAAI]** G2P-DDM: Generating Sign Pose Sequence from Gloss Sequence with Discrete Diffusion Model. [Paper](https://arxiv.org/abs/2208.09141)
+- **[IEEE FG]** A Gloss-free Sign Language Production with Discrete Representation. [Paper](https://ieeexplore.ieee.org/abstract/document/10581980?casa_token=k1MKhNXwmBAAAAAA:Zxygq6G2ane541p99NTFBF8bC_QdHDYhkNB5yNs1eUYXtDu780u19flLsGigA8j7e2iQVqlupA)
+- **[IEEE FG]** A Data-Driven Representation for Sign Language Production. [Paper](https://ieeexplore.ieee.org/document/10581995)
 
 ##### ArXiv
 - **[ArXiv]** T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text. [Paper](https://arxiv.org/abs/2406.07119)
@@ -190,7 +192,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[ECCV]** Progressive transformers for end-to-end sign language production. [Paper](https://arxiv.org/abs/2004.14874)
 - **[IJCV]** Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. [Paper](https://link.springer.com/article/10.1007/s11263-019-01281-2)
-
+- **[WACV]** Neural Sign Language Synthesis: Words Are Our Glosses. [Paper](https://ieeexplore.ieee.org/document/9093516)
+  
 <details>
   <summary><b>Earlier</b></summary>
 
