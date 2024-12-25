@@ -148,15 +148,24 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 
 ### SLP Papers
+
 #### 2024
 ##### Conference
 - **[CVPR]** Neural Sign Actors: A Diffusion Model for 3D Sign Language Production from Text. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.html)
 - **[WACV]** Sign Language Production with Latent Motion Transformer. [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.html)
+- **[ECCV]** A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [Paper](https://arxiv.org/pdf/2401.04730)
+- **[ECCV]** SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [Paper](https://eccv.ecva.net/virtual/2024/poster/2581)
+- **[AAAI]** G2P-DDM: Generating Sign Pose Sequence from Gloss Sequence with Discrete Diffusion Model. [Paper](https://arxiv.org/abs/2208.09141)
 
 ##### ArXiv
 - **[ArXiv]** T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text. [Paper](https://arxiv.org/abs/2406.07119)
+- **[ArXiv]** iSign: A Benchmark for Indian Sign Language Processing. [Paper](https://arxiv.org/abs/2407.05404)
+  
 
 #### 2023
+##### Conference
+- **[SEM]** Including Facial Expressions in Contextual Embeddings for Sign Language Generation. [Paper](https://arxiv.org/pdf/2202.05383)
+  
 ##### ArXiv
 - **[ArXiv]** SignDiff: Learning Diffusion Models for American Sign Language Production. [Paper](https://www.researchgate.net/publication/373518983_SignDiff_Learning_Diffusion_Models_for_American_Sign_Language_Production) 
 
@@ -164,6 +173,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[CVPR]** Signing at scale: Learning to co-articulate signs for large-scale photo-realistic sign language production. [Paper](file:///Users/yimingni/Downloads/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf)
 - **[ACM]** Gloss Semantic-Enhanced Network with Online Back-Translation for Sign Language Production. [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547830?casa_token=_MlXpMYEzNoAAAAA:2L5Ktxo-G1ygXpL4LQnPcYmTPKrUiJU5wKUIYATaillFPDL90iyz5Q7egp_9_aX6WcnsCXdGIZ8gWA)
+
 
 #### 2021
 ##### Conference
