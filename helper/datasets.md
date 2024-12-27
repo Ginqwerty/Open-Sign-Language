@@ -4,7 +4,6 @@ This document lists various datasets available for Sign Language research.
 
 ## FingerSpelling Sign Language Dataset
 
-                                                                 |           |                  |
 | Dataset       | Year | Language | Vocabulary Size | Duration | #Samples | #Signers | Domain         | Collection Source   | Resolution   | Modality       | Publication | Website | Available | Baseline Model Accuracy |
 |---------------|------|----------|-----------------|----------|----------|----------|----------------|---------------------|--------------|----------------|-------------|---------|-----------|--------------------------|
 | ChicagoFSWild        | 2018 | American    | 31              | \-       | 7304 sequences              | 168      | Letters + Char             | Online        | 640 × 360        | RGB      | American Sign Language fingerspelling recognition in the wild                                                            | [https://home.ttic.edu/~klivescu/ChicagoFSWild.htm](https://home.ttic.edu/~klivescu/ChicagoFSWild.htm)                                                                                               | ✅         | \-               |
