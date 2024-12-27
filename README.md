@@ -133,6 +133,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 
 ### SLT Papers
+#### 2024
+##### ArXiv
+- **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312)
+
 #### 2021
 ##### Journal
 - **[ACM Trans. Access. Comput.]** Deep Learning Methods for Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3477498)
