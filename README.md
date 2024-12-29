@@ -133,6 +133,12 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 
 ### SLT Papers
+***********************************************************************************************************************
+### Gloss-based SLT
+
+
+***********************************************************************************************************************
+### Gloss-free SLT
 #### 2024
 ##### ArXiv
 - **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312)
