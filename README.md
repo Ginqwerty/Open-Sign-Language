@@ -153,21 +153,52 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 #### 2021
 ##### Conference
-- **[ArXiv]** Improving Sign Language Translation with Monolingual Data by Sign Back-Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)
+- **[CVPR]** Improving Sign Language Translation with Monolingual Data by Sign Back-Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)
+
+##### Journal
+- **[Neurocomputing]** Enhancing neural sign language translation by highlighting the facial expression information. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012698)
+- **[IET]** How Important Is Motion in Sign Language Translation? [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.12037)
+- **[IEEE]** Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [Paper](https://ieeexplore.ieee.org/abstract/document/9354538?casa_token=i6bC3STkl88AAAAA:5cpJmkjzhXbXWrenMLHctPadd4xaj6-uA2jlqq-zwM6NHXp0n6VrTt3wkXUHg886-T7So9FYVg) 
 
 #### 2020
 ##### Conference
+- **[ACCV]** Understanding Motion in Sign Language: A New Structured Translation Dataset. [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Rodriguez_Understanding_Motion_in_Sign_Language_A_New_Structured_Translation_Dataset_ACCV_2020_paper.html)
+
+##### ArXiv
 - **[ArXiv]** Better Sign Language Translation with STMC-Transformer. [Paper](https://arxiv.org/abs/2004.00588)|[Code](https://github.com/kayoyin/transformer-slt)
+
+#### 2019
+##### Journal
+- **[MDPI]** Neural Sign Language Translation Based on Human Keypoint Estimation. [Paper](https://www.mdpi.com/2076-3417/9/13/2683)
+
 
 #### 2018
 ##### Conference
 - **[CVPR]** Neural Sign Language Translation. [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)|[Code](https://github.com/neccam/nslt)
 
 #### Gloss-free SLT
+#### 2022
+##### Journal
+- **[IEEE]** Conditional Sentence Generation and Cross-Modal Reranking for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/document/9447976)
+
+#### 2021
+##### Conference
+- **[FG]** Content4All Open Research Sign Language Translation Datasets. [Paper](https://ieeexplore.ieee.org/abstract/document/9667087?casa_token=nk-N5KAO-LoAAAAA:NuKoACOOZQuikSF5P49ckq3EgrpGET7RWEcTx8GnoxT58sCNaQRTuj7iCWAFl1OBEkhor_XYZg)
+- **[ACM MM]** SimulSLT: End-to-End Simultaneous Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475544?casa_token=a9gNRsIfavQAAAAA:-AyOjcYz8C2Q9rrOrQkYqTX2JY9nnPfdxFx9lzdM7vs53LyQr96Z4AbQYhzsSJUErgWqbyqZbhBYqw)
+- **[ACM MM]** Skeleton-Aware Neural Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475577?casa_token=OBMg4J0TsuIAAAAA:Gt-RQM15Q-0W7Y0NbepwamUTGH-JSKl0xQ_jbXZL1esAdslKB-66mlPH6V6A6uBiy2-UWVHY72SKvg) 
+
 #### 2020
 ##### Conference
 - **[CVPR]** Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation.  
     [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf) | [Code](https://github.com/neccam/nslt)
+- **[ECCV]** Multi-channel Transformers for Multi-articulatory Sign Language Translation. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-66823-5_18)
+- **[FG]** Neural Sign Language Translation by Learning Tokenization. [Paper](https://ieeexplore.ieee.org/abstract/document/9320278?casa_token=gH_yVfmcWG0AAAAA:bRns7IujaRUnpfFkh5MznP2mTlcH315MmBMBBk5-uE_4XZhd2jVNLvi8H4vlzbkFNJtHKvdpdQ)
+- **[NeurIPS]** Tspnet: Hierarchical feature learning via temporal semantic pyramid for sign language translation. [Paper](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html)|[CODE](https://github.com/verashira/TSPNet)
+- **[ICTC]** Robust Keypoint Normalization Method for Korean Sign Language Translation Using Transformer. [Paper](https://ieeexplore.ieee.org/document/9289551)
+
+##### Journal
+- **[CIN]** An Improved Sign Language Translation Model with Explainable Adaptations for Processing Long Sign Sentences. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/8816125)
+- 
 
 
 
