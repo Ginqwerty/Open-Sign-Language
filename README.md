@@ -150,6 +150,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2022
 ##### Conference
 - **[WACV]** Sign Language Translation with Hierarchical Spatio-Temporal Graph Neural Network. [Paper](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)
+- **[NeurIPS]** Two-Stream Network for Sign Language Recognition and Translation. [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)
+
+##### Journal
+- **[Applied Intelligence]** Sign language recognition and translation network based on multi-view data. [Paper](https://link.springer.com/article/10.1007/s10489-022-03407-5)
 
 #### 2021
 ##### Conference
@@ -178,6 +182,11 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 #### Gloss-free SLT
 #### 2022
+##### Conference
+- **[WMT]** Spatio-Temporal Sign Language Representation and Translation. [Paper](https://aclanthology.org/2022.wmt-1.96/)
+- **[WMT]** Experimental Machine Translation of the Swiss German Sign Language via 3D augmentation of body keypoints. [Paper](https://aclanthology.org/2022.wmt-1.95/)|[Code](https://github.com/DFKI-SignLanguage/slt)
+- **[ACL]** Prior knowledge and memory enriched transformer for sign language translation. [Paper](https://aclanthology.org/2022.findings-acl.297/)
+
 ##### Journal
 - **[IEEE]** Conditional Sentence Generation and Cross-Modal Reranking for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/document/9447976)
 
@@ -185,7 +194,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[FG]** Content4All Open Research Sign Language Translation Datasets. [Paper](https://ieeexplore.ieee.org/abstract/document/9667087?casa_token=nk-N5KAO-LoAAAAA:NuKoACOOZQuikSF5P49ckq3EgrpGET7RWEcTx8GnoxT58sCNaQRTuj7iCWAFl1OBEkhor_XYZg)
 - **[ACM MM]** SimulSLT: End-to-End Simultaneous Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475544?casa_token=a9gNRsIfavQAAAAA:-AyOjcYz8C2Q9rrOrQkYqTX2JY9nnPfdxFx9lzdM7vs53LyQr96Z4AbQYhzsSJUErgWqbyqZbhBYqw)
-- **[ACM MM]** Skeleton-Aware Neural Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475577?casa_token=OBMg4J0TsuIAAAAA:Gt-RQM15Q-0W7Y0NbepwamUTGH-JSKl0xQ_jbXZL1esAdslKB-66mlPH6V6A6uBiy2-UWVHY72SKvg) 
+- **[ACM MM]** Skeleton-Aware Neural Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475577?casa_token=OBMg4J0TsuIAAAAA:Gt-RQM15Q-0W7Y0NbepwamUTGH-JSKl0xQ_jbXZL1esAdslKB-66mlPH6V6A6uBiy2-UWVHY72SKvg)
+- **[ICCV]** Stochastic Transformer Networks with Linear Competing Units: Application to end-to-end SL Translation. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Voskou_Stochastic_Transformer_Networks_With_Linear_Competing_Units_Application_To_End-to-End_ICCV_2021_paper.html)
 
 #### 2020
 ##### Conference
