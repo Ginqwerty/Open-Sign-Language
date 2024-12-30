@@ -133,12 +133,24 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 
 ### SLT Papers
-***********************************************************************************************************************
-### Gloss-based SLT
+### Gloss to Text
+
+<details>
+  <summary><b>Earlier</b></summary>
+  
+  #### 2004
+  - **[sign-lang@LREC]** Statistical Sign Language Translation. [Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=950401689e26188b7af19390ba2f80ce67873e28)
+  
+
+</details>
+
+### Sign to Text
 
 
-***********************************************************************************************************************
-### Gloss-free SLT
+#### Gloss-based SLT
+
+
+#### Gloss-free SLT
 #### 2024
 ##### ArXiv
 - **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312)
