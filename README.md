@@ -145,12 +145,33 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 </details>
 
 ### Sign to Text
-
-
 #### Gloss-based SLT
 
+#### 2022
+##### Conference
+- **[WACV]** Sign Language Translation with Hierarchical Spatio-Temporal Graph Neural Network. [Paper](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)
+
+#### 2021
+##### Conference
+- **[ArXiv]** Improving Sign Language Translation with Monolingual Data by Sign Back-Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)
+
+#### 2020
+##### Conference
+- **[ArXiv]** Better Sign Language Translation with STMC-Transformer. [Paper](https://arxiv.org/abs/2004.00588)|[Code](https://github.com/kayoyin/transformer-slt)
+
+#### 2018
+##### Conference
+- **[CVPR]** Neural Sign Language Translation. [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)|[Code](https://github.com/neccam/nslt)
 
 #### Gloss-free SLT
+#### 2020
+##### Conference
+- **[CVPR]** Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation.  
+    [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf) | [Code](https://github.com/neccam/nslt)
+
+
+
+************************
 #### 2024
 ##### ArXiv
 - **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312)
@@ -158,11 +179,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2021
 ##### Journal
 - **[ACM Trans. Access. Comput.]** Deep Learning Methods for Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3477498)
-
-#### 2020
-##### Conference
-- **[CVPR]** Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation.  
-    [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf) | [Code](https://github.com/neccam/nslt)
 
 ##### ArXiv
 - **[ArXiv]** Adversarial Training for Multi-Channel Sign Language Production. [Paper](https://arxiv.org/abs/2008.12405)
