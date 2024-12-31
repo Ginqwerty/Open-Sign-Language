@@ -158,7 +158,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Journal
 - **[Neurocomputing]** Enhancing neural sign language translation by highlighting the facial expression information. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012698)
 - **[IET]** How Important Is Motion in Sign Language Translation? [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.12037)
-- **[IEEE TMM]** Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [Paper](https://ieeexplore.ieee.org/abstract/document/9354538?casa_token=i6bC3STkl88AAAAA:5cpJmkjzhXbXWrenMLHctPadd4xaj6-uA2jlqq-zwM6NHXp0n6VrTt3wkXUHg886-T7So9FYVg) 
+- **[IEEE TMM]** `STMC-T` Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [Paper](https://ieeexplore.ieee.org/abstract/document/9354538?casa_token=i6bC3STkl88AAAAA:5cpJmkjzhXbXWrenMLHctPadd4xaj6-uA2jlqq-zwM6NHXp0n6VrTt3wkXUHg886-T7So9FYVg) 
 
 #### 2020
 ##### Conference
@@ -250,7 +250,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 #### 2018
 ##### Conference
-- **[CVPR]** Neural Sign Language Translation. [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)|[Code](https://github.com/neccam/nslt)
+- **[CVPR]** `NSLT` Neural Sign Language Translation. [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)|[Code](https://github.com/neccam/nslt)
 - **[AAAI]** Hierarchical LSTM for Sign Language Translation. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12235)
 
 
@@ -326,10 +326,16 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### Gloss-based
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal     | Code    |
 |-----------------|------|-------------|---------------|------------------------|---------|
-|[LLM-SLT](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)          |2024  |23.40        |RGB-Frames     | CVPR                   |-        |
+|[STMC-T](https://ieeexplore.ieee.org/abstract/document/9354538?casa_token=i6bC3STkl88AAAAA:5cpJmkjzhXbXWrenMLHctPadd4xaj6-uA2jlqq-zwM6NHXp0n6VrTt3wkXUHg886-T7So9FYVg)          |2021  |23.65        |RGB-Frames     | IEEE TMM          |-        |
+
 #### Gloss-free
-| Model Name      | Year | BLEU-4      | Model Input   | Publication    | Code                                    |
-|-----------------|------|-------------|---------------|----------------|-----------------------------------------|
+| Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal    | Code     |
+|-----------------|------|-------------|---------------|-----------------------|----------|
+|[LLM-SLT](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)          |2024  |23.40        |RGB-Frames     | CVPR                   |-        |
+|[Tspnet](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html)         |2020  |13.41        |RGB-Frames     | NeurIPS               |[Avaliable](https://github.com/verashira/TSPNet)        |
+|[NSLT](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)         |2018  |8.35        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
+
+
 **********************************************************************************************************************
 ### Results on CSL-Daily dataset
 #### Gloss-based
