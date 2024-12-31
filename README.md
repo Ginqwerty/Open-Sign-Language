@@ -198,8 +198,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 #### 2023
 ##### Conference
-- **[CVPR]** Gloss Attention for Gloss-Free Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)|[Code](https://github.com/YinAoXiong/GASLT)
-- **[ICCV]** Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)|[Code](https://github.com/zhoubenjia/GFSLT-VLP)
+- **[CVPR]** `GASLT` Gloss Attention for Gloss-Free Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)|[Code](https://github.com/YinAoXiong/GASLT)
+- **[ICCV]** `GFSLT-VLP` Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)|[Code](https://github.com/zhoubenjia/GFSLT-VLP)
 - **[ICLR]** SLTUNET: A Simple Unified Model for Sign Language Translation. [Paper](https://arxiv.org/abs/2305.01778)|[Code](https://github.com/bzhangGo/sltunet)
 - **[IJCAI]** Efficient Sign Language Translation with a Curriculum-Based Non-Autoregressive Decoder. [Paper](https://www.ijcai.org/proceedings/2023/0584.pdf)|[Code](https://github.com/yp20000921/CND)
 - **[ICASSP]** A Token-Level Contrastive Framework for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/document/10095466)|[Code](https://github.com/biaofuxmu/ConSLT)
@@ -216,7 +216,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[EMNLP]** Open-Domain Sign Language Translation Learned from Online Video. [Paper](https://arxiv.org/abs/2205.12870)|[Code](https://github.com/chevalierNoir/OpenASL)
 
 ##### Journal
-- **[IEEE]** Conditional Sentence Generation and Cross-Modal Reranking for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/document/9447976)
+- **[IEEE]** `CSGCR` Conditional Sentence Generation and Cross-Modal Reranking for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/document/9447976)
 - **[TPAMI]** SignNet II: A Transformer-Based Two-Way Sign Language Translation Model. [Paper](https://ieeexplore.ieee.org/abstract/document/9999492?casa_token=xMAJ5BjvkxcAAAAA:5vE39AHI9I_VQhm_63DHaGq5QDWnsqkakWZk_wZHknNkJ5U0OHzspyjJlTh66R6A9MIa_nMN9g)
 
 ##### ArXiv
@@ -238,7 +238,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
     [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf) | [Code](https://github.com/neccam/nslt)
 - **[ECCV]** Multi-channel Transformers for Multi-articulatory Sign Language Translation. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-66823-5_18)
 - **[FG]** Neural Sign Language Translation by Learning Tokenization. [Paper](https://ieeexplore.ieee.org/abstract/document/9320278?casa_token=gH_yVfmcWG0AAAAA:bRns7IujaRUnpfFkh5MznP2mTlcH315MmBMBBk5-uE_4XZhd2jVNLvi8H4vlzbkFNJtHKvdpdQ)
-- **[NeurIPS]** Tspnet: Hierarchical feature learning via temporal semantic pyramid for sign language translation. [Paper](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html)|[CODE](https://github.com/verashira/TSPNet)
+- **[NeurIPS]** `Tspnet` Tspnet: Hierarchical feature learning via temporal semantic pyramid for sign language translation. [Paper](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html)|[CODE](https://github.com/verashira/TSPNet)
 - **[ICTC]** Robust Keypoint Normalization Method for Korean Sign Language Translation Using Transformer. [Paper](https://ieeexplore.ieee.org/document/9289551)
 
 ##### Journal
@@ -332,6 +332,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal    | Code     |
 |-----------------|------|-------------|---------------|-----------------------|----------|
 |[LLM-SLT](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)          |2024  |23.40        |RGB-Frames     | CVPR                   |-        |
+|[GFSLT-VLP](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)         |2023  |21.44        |RGB-Frames     | ICCV                   |[Avaliable](https://github.com/zhoubenjia/GFSLT-VLP)        |
+|[GASLT](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)         |2023  |15.74        |RGB-Frames     | CVPR            |[Avaliable](https://github.com/YinAoXiong/GASLT)       |
+|[CSGCR](https://ieeexplore.ieee.org/document/9447976)         |2022  |15.18        |RGB-Frames     | IEEE            |-       |
 |[Tspnet](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html)         |2020  |13.41        |RGB-Frames     | NeurIPS               |[Avaliable](https://github.com/verashira/TSPNet)        |
 |[NSLT](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)         |2018  |8.35        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 
