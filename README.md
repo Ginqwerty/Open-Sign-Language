@@ -232,11 +232,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Journal
 - **[ACM TACCESS]** Deep Learning Methods for Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3477498)
 
-#### 2019
-##### Journal
-- **[MDPI AS]** Neural Sign Language Translation based on Human Keypoint Estimation. [Paper](https://www.mdpi.com/2076-3417/9/13/2683)
-
-
 #### 2020
 ##### Conference
 - **[CVPR]** Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation.  
@@ -249,15 +244,15 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Journal
 - **[CIN]** An Improved Sign Language Translation Model with Explainable Adaptations for Processing Long Sign Sentences. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/8816125)
 
+#### 2019
+##### Journal
+- **[MDPI AS]** Neural Sign Language Translation based on Human Keypoint Estimation. [Paper](https://www.mdpi.com/2076-3417/9/13/2683)
+
 #### 2018
 ##### Conference
 - **[CVPR]** Neural Sign Language Translation. [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)|[Code](https://github.com/neccam/nslt)
 - **[AAAI]** Hierarchical LSTM for Sign Language Translation. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12235)
 
-************************
-
-##### ArXiv
-- **[ArXiv]** Adversarial Training for Multi-Channel Sign Language Production. [Paper](https://arxiv.org/abs/2008.12405)
 
 ***********************************************************************************************************************
 
@@ -307,6 +302,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ECCV]** Progressive transformers for end-to-end sign language production. [Paper](https://arxiv.org/abs/2004.14874)
 - **[IJCV]** Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. [Paper](https://link.springer.com/article/10.1007/s11263-019-01281-2)
 - **[WACV]** Neural Sign Language Synthesis: Words Are Our Glosses. [Paper](https://ieeexplore.ieee.org/document/9093516)
+
+##### ArXiv
+- **[ArXiv]** Adversarial Training for Multi-Channel Sign Language Production. [Paper](https://arxiv.org/abs/2008.12405)
   
 <details>
   <summary><b>Earlier</b></summary>
