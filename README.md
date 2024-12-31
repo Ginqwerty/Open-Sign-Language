@@ -132,28 +132,24 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ***********************************************************************************************************************
 
-### SLT Papers
-### Gloss to Text
-
-<details>
-  <summary><b>Earlier</b></summary>
+### SLT Papers (Sign to Text)
+### Gloss-based SLT
+#### 2024
+##### Conference
+- **[ECCV]** EVSign: Sign Language Recognition and Translation with Streaming Events. [Paper](https://arxiv.org/pdf/2407.12593)
   
-  #### 2004
-  - **[sign-lang@LREC]** Statistical Sign Language Translation. [Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=950401689e26188b7af19390ba2f80ce67873e28)
-  
-
-</details>
-
-### Sign to Text
-#### Gloss-based SLT
-
 #### 2022
 ##### Conference
 - **[WACV]** Sign Language Translation with Hierarchical Spatio-Temporal Graph Neural Network. [Paper](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)
 - **[NeurIPS]** Two-Stream Network for Sign Language Recognition and Translation. [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)
+- **[CVPR]** A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)
 
 ##### Journal
 - **[Applied Intelligence]** Sign language recognition and translation network based on multi-view data. [Paper](https://link.springer.com/article/10.1007/s10489-022-03407-5)
+
+##### ArXiv
+- **[ArXiv]** Leveraging Graph-based Cross-modal Information Fusion for Neural Sign Language Translation. [Paper](https://arxiv.org/abs/2211.00526)
+
 
 #### 2021
 ##### Conference
@@ -180,15 +176,48 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[CVPR]** Neural Sign Language Translation. [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)|[Code](https://github.com/neccam/nslt)
 
-#### Gloss-free SLT
+### Gloss-free SLT
+#### 2024
+##### Conference
+- **[ACL]** Sign Language Translation with Sentence Embedding Supervision. [Paper](https://aclanthology.org/2024.acl-short.40/)
+- **[ECCV]** Visual Alignment Pre-training for Sign Language Translation. [Paper](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)
+- **[CVPR]** LLMs Are Good Sign Language Translators. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)
+- **[LREC-COLING]** Adaptive Simultaneous Sign Language Translation with Confident Translation Length Estimation. [Paper](https://aclanthology.org/2024.lrec-main.34/)
+- **[LREC-COLING]** Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation. [Paper](https://arxiv.org/abs/2403.12556)
+- **[AAAI]** Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29937)|[Code](https://github.com/rzhao-zhsq/CV-SLT)
+- **[ICASSP]** An Explicit Multi-Modal Fusion Method for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/abstract/document/10446966?casa_token=n9nZhBsV_rQAAAAA:udlmgkU8simclxDuSQQ4tbVgLOHa_ha8fkp128G7YtzvbZnhDHbuZJTeJGD1op_RFerAgPlFAg)
+  
+##### ArXiv
+- **[ArXiv]** Towards Privacy-Aware Sign Language Translation at Scale. [Paper](https://arxiv.org/abs/2402.09611)
+- **[ArXiv]** Unsupervised Sign Language Translation and Generation. [Paper](https://arxiv.org/abs/2402.07726)
+- **[ArXiv]** American Sign Language Video to Text Translation. [Paper](https://arxiv.org/abs/2402.07255)
+- **[ArXiv]** Towards Online Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2401.05336)
+- **[ArXiv]** Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [Paper](https://arxiv.org/abs/2405.04164)
+
+#### 2023
+##### Conference
+- **[CVPR]** Gloss Attention for Gloss-Free Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)|[Code](https://github.com/YinAoXiong/GASLT)
+- **[ICCV]** Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)|[Code](https://github.com/zhoubenjia/GFSLT-VLP)
+- **[ICLR]** SLTUNET: A Simple Unified Model for Sign Language Translation. [Paper](https://arxiv.org/abs/2305.01778)|[Code](https://github.com/bzhangGo/sltunet)
+- **[IJCAI]** Efficient Sign Language Translation with a Curriculum-Based Non-Autoregressive Decoder. [Paper](https://www.ijcai.org/proceedings/2023/0584.pdf)|[Code](https://github.com/yp20000921/CND)
+- **[ICASSP]** A Token-Level Contrastive Framework for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/document/10095466)|[Code](https://github.com/biaofuxmu/ConSLT)
+  
 #### 2022
 ##### Conference
 - **[WMT]** Spatio-Temporal Sign Language Representation and Translation. [Paper](https://aclanthology.org/2022.wmt-1.96/)
 - **[WMT]** Experimental Machine Translation of the Swiss German Sign Language via 3D augmentation of body keypoints. [Paper](https://aclanthology.org/2022.wmt-1.95/)|[Code](https://github.com/DFKI-SignLanguage/slt)
 - **[ACL]** Prior knowledge and memory enriched transformer for sign language translation. [Paper](https://aclanthology.org/2022.findings-acl.297/)
+- **[ACM MM]** MC-SLT: Towards Low-Resource Signer-Adaptive Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548069?casa_token=L598dOYlqkoAAAAA:xQFoL2cNaUDHi8ZJBUrvwH0wwADx0tcYYP5AsYjAaRyMGOWA0I9fjIwgSelOuHgmPQTvKPPx-z3Faw)
+- **[CVPR]** MLSLT: Towards Multilingual Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.html)
+- **[CVPR]** A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)
+- **[NAACL]** Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. [Paper](https://arxiv.org/abs/2204.05953)|[Code](https://github.com/yongcaoplus/TIN-SLT)
 
 ##### Journal
 - **[IEEE]** Conditional Sentence Generation and Cross-Modal Reranking for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/document/9447976)
+- **[TPAMI]** SignNet II: A Transformer-Based Two-Way Sign Language Translation Model. [Paper](https://ieeexplore.ieee.org/abstract/document/9999492?casa_token=xMAJ5BjvkxcAAAAA:5vE39AHI9I_VQhm_63DHaGq5QDWnsqkakWZk_wZHknNkJ5U0OHzspyjJlTh66R6A9MIa_nMN9g)
+
+##### ArXiv
+- **[ArXiv]** Tackling low-resourced sign language translation: Upc at wmt-slt 22. [Paper](https://arxiv.org/abs/2212.01140)
 
 #### 2021
 ##### Conference
