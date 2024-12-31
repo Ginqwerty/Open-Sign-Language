@@ -182,7 +182,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[ACL]** Sign Language Translation with Sentence Embedding Supervision. [Paper](https://aclanthology.org/2024.acl-short.40/)
 - **[ECCV]** Visual Alignment Pre-training for Sign Language Translation. [Paper](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)
-- **[CVPR]** LLMs Are Good Sign Language Translators. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)
+- **[CVPR]** LLMs Are Good Sign Language Translators (LLM-SLT) [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)
 - **[LREC-COLING]** Adaptive Simultaneous Sign Language Translation with Confident Translation Length Estimation. [Paper](https://aclanthology.org/2024.lrec-main.34/)
 - **[LREC-COLING]** Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation. [Paper](https://arxiv.org/abs/2403.12556)
 - **[AAAI]** Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29937)|[Code](https://github.com/rzhao-zhsq/CV-SLT)
@@ -317,10 +317,21 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ## Leaderboard
 ### SLR 
-| Model Name      | Year | WER      | Model Input   | Publication    | Code                                    |
-|-----------------|------|----------|---------------|----------------|-----------------------------------------|
+| Model Name      | Year | WER      | Model Input   | Conference/Journal	    | Code                                    |
+|-----------------|------|----------|---------------|-------------------------|-----------------------------------------|
 
 ### SLT
+**********************************************************************************************************************
+### Results on Phoenix-2014T dataset
+#### Gloss-based
+| Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal     | Code    |
+|-----------------|------|-------------|---------------|------------------------|---------|
+|[LLM-SLT](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)          |2024  |23.40        |RGB-Frames     | CVPR                   |-        |
+#### Gloss-free
+| Model Name      | Year | BLEU-4      | Model Input   | Publication    | Code                                    |
+|-----------------|------|-------------|---------------|----------------|-----------------------------------------|
+**********************************************************************************************************************
+### Results on CSL-Daily dataset
 #### Gloss-based
 | Model Name      | Year | BLEU-4      | Model Input   | Publication    | Code                                    |
 |-----------------|------|-------------|---------------|----------------|-----------------------------------------|
