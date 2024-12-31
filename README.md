@@ -19,13 +19,13 @@ This repository is all you need for Sign Language Study!
 ## Papers
 ### Survey Papers
 **********************************************************************************************************************
-#### Datasets Survey Papers
+### Datasets Survey Papers
 #### 2022
 ##### Journal
 - **[LREC 2022]** Challenges with sign language datasets for sign language recognition and translation. [Paper](https://repositori.upf.edu/items/7e5fd976-eb4f-4cc5-878b-a1d9eef5a370)
 
 **********************************************************************************************************************
-#### SLR Survey Papers
+### SLR Survey Papers
 #### 2024
 ##### Journal
 - **[Information Processing & Management]** Reviewing 25 years of continuous sign language recognition research: Advances, challenges, and prospects. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001341)
@@ -86,7 +86,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ******************************************************************************************************************
 
-#### SLT Survey Papers
+### SLT Survey Papers
 #### 2023
 ##### ArXiv
 - **[ArXiv]** From Rule-Based Models to Deep Learning Transformers Architectures for Natural Language Processing and Sign Language Translation Systems: Survey, Taxonomy and Performance Evaluation. [Paper](https://arxiv.org/abs/2408.14825)
@@ -158,7 +158,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Journal
 - **[Neurocomputing]** Enhancing neural sign language translation by highlighting the facial expression information. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012698)
 - **[IET]** How Important Is Motion in Sign Language Translation? [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.12037)
-- **[IEEE]** Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [Paper](https://ieeexplore.ieee.org/abstract/document/9354538?casa_token=i6bC3STkl88AAAAA:5cpJmkjzhXbXWrenMLHctPadd4xaj6-uA2jlqq-zwM6NHXp0n6VrTt3wkXUHg886-T7So9FYVg) 
+- **[IEEE TMM]** Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [Paper](https://ieeexplore.ieee.org/abstract/document/9354538?casa_token=i6bC3STkl88AAAAA:5cpJmkjzhXbXWrenMLHctPadd4xaj6-uA2jlqq-zwM6NHXp0n6VrTt3wkXUHg886-T7So9FYVg) 
 
 #### 2020
 ##### Conference
@@ -175,6 +175,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2018
 ##### Conference
 - **[CVPR]** Neural Sign Language Translation. [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)|[Code](https://github.com/neccam/nslt)
+- **[ACM MM]** Connectionist Temporal Fusion for Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3240508.3240671?casa_token=V4-a-LYLGbIAAAAA:2xoc5DhlkaP8cnsupWmoajZxBdQdwVUJXdCs_vZxmfIDIVEavWC1SWCCwBMxdSbVHSPBrneFyRzGCw)
 
 ### Gloss-free SLT
 #### 2024
@@ -193,6 +194,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** American Sign Language Video to Text Translation. [Paper](https://arxiv.org/abs/2402.07255)
 - **[ArXiv]** Towards Online Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2401.05336)
 - **[ArXiv]** Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [Paper](https://arxiv.org/abs/2405.04164)
+- **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312) 
 
 #### 2023
 ##### Conference
@@ -227,6 +229,14 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ACM MM]** Skeleton-Aware Neural Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475577?casa_token=OBMg4J0TsuIAAAAA:Gt-RQM15Q-0W7Y0NbepwamUTGH-JSKl0xQ_jbXZL1esAdslKB-66mlPH6V6A6uBiy2-UWVHY72SKvg)
 - **[ICCV]** Stochastic Transformer Networks with Linear Competing Units: Application to end-to-end SL Translation. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Voskou_Stochastic_Transformer_Networks_With_Linear_Competing_Units_Application_To_End-to-End_ICCV_2021_paper.html)
 
+##### Journal
+- **[ACM TACCESS]** Deep Learning Methods for Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3477498)
+
+#### 2019
+##### Journal
+- **[MDPI AS]** Neural Sign Language Translation based on Human Keypoint Estimation. [Paper](https://www.mdpi.com/2076-3417/9/13/2683)
+
+
 #### 2020
 ##### Conference
 - **[CVPR]** Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation.  
@@ -238,18 +248,13 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ##### Journal
 - **[CIN]** An Improved Sign Language Translation Model with Explainable Adaptations for Processing Long Sign Sentences. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/8816125)
-- 
 
-
+#### 2018
+##### Conference
+- **[CVPR]** Neural Sign Language Translation. [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)|[Code](https://github.com/neccam/nslt)
+- **[AAAI]** Hierarchical LSTM for Sign Language Translation. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12235)
 
 ************************
-#### 2024
-##### ArXiv
-- **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312)
-
-#### 2021
-##### Journal
-- **[ACM Trans. Access. Comput.]** Deep Learning Methods for Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3477498)
 
 ##### ArXiv
 - **[ArXiv]** Adversarial Training for Multi-Channel Sign Language Production. [Paper](https://arxiv.org/abs/2008.12405)
