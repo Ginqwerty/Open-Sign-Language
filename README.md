@@ -207,7 +207,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ICCV]** `IP-SLT` Sign Language Translation with Iterative Prototype. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)
 - **[ICLR]** `SLTUNET` SLTUNET: A Simple Unified Model for Sign Language Translation. [Paper](https://arxiv.org/abs/2305.01778)|[Code](https://github.com/bzhangGo/sltunet)
 - **[IJCAI]** Efficient Sign Language Translation with a Curriculum-Based Non-Autoregressive Decoder. [Paper](https://www.ijcai.org/proceedings/2023/0584.pdf)|[Code](https://github.com/yp20000921/CND)
-- **[ICASSP]** A Token-Level Contrastive Framework for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/document/10095466)|[Code](https://github.com/biaofuxmu/ConSLT)
+- **[ICASSP]** `ConSLT` A Token-Level Contrastive Framework for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/document/10095466)|[Code](https://github.com/biaofuxmu/ConSLT)
 
   
 #### 2022
@@ -334,6 +334,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |-----------------|------|-------------|---------------|------------------------|---------|
 |[TwoStream-SLT](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)          |2022  |26.71       |RGB-Frames, Skeleton-Keypoints     | NeurIPS          |-        |
 |[SLTUNET](https://arxiv.org/abs/2305.01778)         |2023  |26.00        |RGB-Frames     | ICLR                   |[Avaliable](https://github.com/bzhangGo/sltunet)         |
+|[ConSLT](https://ieeexplore.ieee.org/document/10095466)         |2023  |25.48        |RGB-Frames     | ICASSP                  |[Avaliable](https://github.com/biaofuxmu/ConSLT)       |
 |[MMTLB](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)          |2022  |24.60        |RGB-Frames     | CVPR          |-        |
 |[STMC-Transf](https://arxiv.org/abs/2004.00588)         |2020  |24.00        |RGB-Frames     | ArXiv                   |[Avaliable](https://github.com/kayoyin/transformer-slt)         |
 |[STMC-T](https://ieeexplore.ieee.org/abstract/document/9354538?casa_token=i6bC3STkl88AAAAA:5cpJmkjzhXbXWrenMLHctPadd4xaj6-uA2jlqq-zwM6NHXp0n6VrTt3wkXUHg886-T7So9FYVg)          |2021  |23.65        |RGB-Frames     | IEEE TMM          |-        |
@@ -363,6 +364,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[FLa-LLM](https://arxiv.org/abs/2403.12556)          |2024  |23.09        |RGB-Frames     | LREC-COLING           |-        |
 |[Sign2GPT](https://arxiv.org/abs/2405.04164)          |2024  |22.52        |RGB-Frames     | ArXiv                |-        |
 |[BN-TIN-Transf](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |21.68        |RGB-Frames     | CVPR          |-        |
+|[ConSLT](https://ieeexplore.ieee.org/document/10095466)         |2023  |21.59        |RGB-Frames     | ICASSP                  |[Avaliable](https://github.com/biaofuxmu/ConSLT)       |
 |[GFSLT-VLP](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)         |2023  |21.44        |RGB-Frames     | ICCV                   |[Avaliable](https://github.com/zhoubenjia/GFSLT-VLP)        |
 |[SL-Transf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf)         |2020  |21.32        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 |[GASLT](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)         |2023  |15.74        |RGB-Frames     | CVPR            |[Avaliable](https://github.com/YinAoXiong/GASLT)       |
