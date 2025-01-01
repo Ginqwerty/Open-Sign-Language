@@ -212,7 +212,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[WMT]** Spatio-Temporal Sign Language Representation and Translation. [Paper](https://aclanthology.org/2022.wmt-1.96/)
 - **[WMT]** Experimental Machine Translation of the Swiss German Sign Language via 3D augmentation of body keypoints. [Paper](https://aclanthology.org/2022.wmt-1.95/)|[Code](https://github.com/DFKI-SignLanguage/slt)
-- **[ACL]** Prior knowledge and memory enriched transformer for sign language translation. [Paper](https://aclanthology.org/2022.findings-acl.297/)
+- **[ACL]** `PET` Prior knowledge and memory enriched transformer for sign language translation. [Paper](https://aclanthology.org/2022.findings-acl.297/)
 - **[ACM MM]** MC-SLT: Towards Low-Resource Signer-Adaptive Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548069?casa_token=L598dOYlqkoAAAAA:xQFoL2cNaUDHi8ZJBUrvwH0wwADx0tcYYP5AsYjAaRyMGOWA0I9fjIwgSelOuHgmPQTvKPPx-z3Faw)
 - **[CVPR]** MLSLT: Towards Multilingual Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.html)
 - **[CVPR]** A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)
@@ -340,7 +340,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### Gloss-free
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal    | Code     |
 |-----------------|------|-------------|---------------|-----------------------|----------|
-|[SLTUNET](https://arxiv.org/abs/2305.01778)|[Code](https://github.com/bzhangGo/sltunet)          |2023  |28.47        |RGB-Frames     | ICLR           |[Avaliable](https://github.com/bzhangGo/sltunet)         |
+|[SLTUNET](https://arxiv.org/abs/2305.01778)          |2023  |28.47        |RGB-Frames     | ICLR           |[Avaliable](https://github.com/bzhangGo/sltunet)         |
+|[PET](https://aclanthology.org/2022.findings-acl.297/)          |2022  |24.02        |RGB-Frames     | ICLR           |-         |
 |[LLM-SLT](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)          |2024  |23.40        |RGB-Frames     | CVPR                   |-        |
 |[GFSLT-VLP](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)         |2023  |21.44        |RGB-Frames     | ICCV                   |[Avaliable](https://github.com/zhoubenjia/GFSLT-VLP)        |
 |[SL-Transf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf)         |2020  |21.32        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
