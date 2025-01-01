@@ -144,7 +144,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 #### 2022
 ##### Conference
-- **[WACV]** Sign Language Translation with Hierarchical Spatio-Temporal Graph Neural Network. [Paper](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)
+- **[WACV]** `HST-GNN` Sign Language Translation with Hierarchical Spatio-Temporal Graph Neural Network. [Paper](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)
 - **[NeurIPS]** `TwoStream-SLT` Two-Stream Network for Sign Language Recognition and Translation. [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)
 - **[CVPR]** `MMTLB` A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)
 
@@ -342,6 +342,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[SimulSLT](https://dl.acm.org/doi/abs/10.1145/3474085.3475544?casa_token=a9gNRsIfavQAAAAA:-AyOjcYz8C2Q9rrOrQkYqTX2JY9nnPfdxFx9lzdM7vs53LyQr96Z4AbQYhzsSJUErgWqbyqZbhBYqw)        |2021  |23.14        |RGB-Frames     | ACM MM            |-       |
 |[BN-TIN-Transf](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |22.54        |RGB-Frames     | CVPR          |-        |
 |[SL-Transf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf)         |2020  |22.45        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
+[HST-GNN](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)         |2022  |22.3       |RGB-Frames     | WACV                   |-        |
 [NSLT](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)         |2018  |18.13       |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 
 
