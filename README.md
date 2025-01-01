@@ -146,7 +146,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[WACV]** Sign Language Translation with Hierarchical Spatio-Temporal Graph Neural Network. [Paper](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)
 - **[NeurIPS]** Two-Stream Network for Sign Language Recognition and Translation. [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)
-- **[CVPR]** A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)
+- **[CVPR]** `MMTLB` A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)
 
 ##### Journal
 - **[Applied Intelligence]** Sign language recognition and translation network based on multi-view data. [Paper](https://link.springer.com/article/10.1007/s10489-022-03407-5)
@@ -215,7 +215,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ACL]** `PET` Prior knowledge and memory enriched transformer for sign language translation. [Paper](https://aclanthology.org/2022.findings-acl.297/)
 - **[ACM MM]** MC-SLT: Towards Low-Resource Signer-Adaptive Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548069?casa_token=L598dOYlqkoAAAAA:xQFoL2cNaUDHi8ZJBUrvwH0wwADx0tcYYP5AsYjAaRyMGOWA0I9fjIwgSelOuHgmPQTvKPPx-z3Faw)
 - **[CVPR]** MLSLT: Towards Multilingual Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.html)
-- **[CVPR]** A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)
+- **[CVPR]** `MMTLB` A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)
 - **[NAACL]** Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. [Paper](https://arxiv.org/abs/2204.05953)|[Code](https://github.com/yongcaoplus/TIN-SLT)
 - **[EMNLP]** Open-Domain Sign Language Translation Learned from Online Video. [Paper](https://arxiv.org/abs/2205.12870)|[Code](https://github.com/chevalierNoir/OpenASL)
 
@@ -331,6 +331,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal     | Code    |
 |-----------------|------|-------------|---------------|------------------------|---------|
 |[SLTUNET](https://arxiv.org/abs/2305.01778)         |2023  |26.00        |RGB-Frames     | ICLR                   |[Avaliable](https://github.com/bzhangGo/sltunet)         |
+|[MMTLB](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)          |2022  |24.60        |RGB-Frames     | CVPR          |-        |
 |[STMC-Transf](https://arxiv.org/abs/2004.00588)         |2020  |24.00        |RGB-Frames     | ArXiv                   |[Avaliable](https://github.com/kayoyin/transformer-slt)         |
 |[STMC-T](https://ieeexplore.ieee.org/abstract/document/9354538?casa_token=i6bC3STkl88AAAAA:5cpJmkjzhXbXWrenMLHctPadd4xaj6-uA2jlqq-zwM6NHXp0n6VrTt3wkXUHg886-T7So9FYVg)          |2021  |23.65        |RGB-Frames     | IEEE TMM          |-        |
 |[BN-TIN-Transf + BT](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |23.51        |RGB-Frames     | CVPR          |-        |
@@ -343,6 +344,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal    | Code     |
 |-----------------|------|-------------|---------------|-----------------------|----------|
 |[SLTUNET](https://arxiv.org/abs/2305.01778)          |2023  |28.47        |RGB-Frames     | ICLR           |[Avaliable](https://github.com/bzhangGo/sltunet)         |
+|[MMTLB](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)          |2022  |28.39        |RGB-Frames     | CVPR          |-        |
 |[BN-TIN-Transf + BT](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |24.32        |RGB-Frames     | CVPR          |-        |
 |[PET](https://aclanthology.org/2022.findings-acl.297/)          |2022  |24.02        |RGB-Frames     | ICLR           |-         |
 |[LLM-SLT](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)          |2024  |23.40        |RGB-Frames     | CVPR                   |-        |
