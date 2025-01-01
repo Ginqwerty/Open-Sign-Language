@@ -371,7 +371,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[CSGCR](https://ieeexplore.ieee.org/document/9447976)        |2022  |15.18        |RGB-Frames     | IEEE            |-       |
 |[Tspnet](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html)         |2020  |13.41        |RGB-Frames     | NeurIPS               |[Avaliable](https://github.com/verashira/TSPNet)        |
 |[Tokenization-SLT](https://ieeexplore.ieee.org/abstract/document/9320278?casa_token=gH_yVfmcWG0AAAAA:bRns7IujaRUnpfFkh5MznP2mTlcH315MmBMBBk5-uE_4XZhd2jVNLvi8H4vlzbkFNJtHKvdpdQ)        |2020  |13.25        |RGB-Frames     | FG            |-       |
-|[SimulSLT]([https://ieeexplore.ieee.org/document/9447976](https://dl.acm.org/doi/abs/10.1145/3474085.3475544?casa_token=a9gNRsIfavQAAAAA:-AyOjcYz8C2Q9rrOrQkYqTX2JY9nnPfdxFx9lzdM7vs53LyQr96Z4AbQYhzsSJUErgWqbyqZbhBYqw))        |2021  |12.27        |RGB-Frames     | ACM MM            |-       |
+|[SimulSLT](https://dl.acm.org/doi/abs/10.1145/3474085.3475544?casa_token=a9gNRsIfavQAAAAA:-AyOjcYz8C2Q9rrOrQkYqTX2JY9nnPfdxFx9lzdM7vs53LyQr96Z4AbQYhzsSJUErgWqbyqZbhBYqw)       |2021  |12.27        |RGB-Frames     | ACM MM            |-       |
 |[NSLT](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)         |2018  |9.58        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 
   
