@@ -432,7 +432,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[SL-Transf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf)  &#x2749;       |2020  |3.03       |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 |[Tspnet](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html) &#x2605;        |2020  |2.97        |RGB-Frames     | NeurIPS               |[Avaliable](https://github.com/verashira/TSPNet)        |
 
-CSL-Daily Gloss-Free Table Notation:
+##### CSL-Daily Gloss-Free Table Notation:
 
 &#x2726; denotes results reproduced by [`BN-TIN-Transf`](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)
 
