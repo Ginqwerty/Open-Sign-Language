@@ -242,7 +242,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[CVPR]** `SL-Transf` Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation.  
     [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf) | [Code](https://github.com/neccam/nslt)
-- **[ECCV]** Multi-channel Transformers for Multi-articulatory Sign Language Translation. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-66823-5_18)
+- **[ECCV]** `MCT-SLT` Multi-channel Transformers for Multi-articulatory Sign Language Translation. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-66823-5_18)
 - **[FG]** `Tokenization-SLT` Neural Sign Language Translation by Learning Tokenization. [Paper](https://ieeexplore.ieee.org/abstract/document/9320278?casa_token=gH_yVfmcWG0AAAAA:bRns7IujaRUnpfFkh5MznP2mTlcH315MmBMBBk5-uE_4XZhd2jVNLvi8H4vlzbkFNJtHKvdpdQ)
 - **[NeurIPS]** `Tspnet` Tspnet: Hierarchical feature learning via temporal semantic pyramid for sign language translation. [Paper](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html)|[CODE](https://github.com/verashira/TSPNet)
 - **[ICTC]** Robust Keypoint Normalization Method for Korean Sign Language Translation Using Transformer. [Paper](https://ieeexplore.ieee.org/document/9289551)
@@ -371,6 +371,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[ConSLT](https://ieeexplore.ieee.org/document/10095466)         |2023  |21.59        |RGB-Frames     | ICASSP                  |[Avaliable](https://github.com/biaofuxmu/ConSLT)       |
 |[GFSLT-VLP](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)         |2023  |21.44        |RGB-Frames     | ICCV                   |[Avaliable](https://github.com/zhoubenjia/GFSLT-VLP)        |
 |[SL-Transf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf)         |2020  |21.32        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
+|[MCT-SLT](https://link.springer.com/chapter/10.1007/978-3-030-66823-5_18)         |2020  |18.30        |RGB-Frames     | ECCV                 |-      |
 |[GASLT](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)         |2023  |15.74        |RGB-Frames     | CVPR            |[Avaliable](https://github.com/YinAoXiong/GASLT)       |
 |[CSGCR](https://ieeexplore.ieee.org/document/9447976)        |2022  |15.18        |RGB-Frames     | IEEE            |-       |
 |[Tspnet](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html)         |2020  |13.41        |RGB-Frames     | NeurIPS               |[Avaliable](https://github.com/verashira/TSPNet)        |
