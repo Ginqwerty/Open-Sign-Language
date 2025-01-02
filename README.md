@@ -158,6 +158,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2021
 ##### Conference
 - **[CVPR]** `BN-TIN-Transf` Improving Sign Language Translation with Monolingual Data by Sign Back-Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)
+- **[MT Summit]** `BERT2RND` Frozen Pretrained Transformers for Neural Sign Language Translation. [Paper](https://biblio.ugent.be/publication/8719287) | [Code](https://github.com/m-decoster/fpt4slt)
 
 ##### Journal
 - **[Neurocomputing]** `Facial-SLT` Enhancing neural sign language translation by highlighting the facial expression information. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012698)
@@ -198,7 +199,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** American Sign Language Video to Text Translation. [Paper](https://arxiv.org/abs/2402.07255) | [Code](https://github.com/jiSilverH/idlf23-aslt)
 - **[ArXiv]** `Online-CSLRT` Towards Online Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2401.05336) | [Code](https://github.com/FangyunWei/SLRT)
 - **[ArXiv]** `Sign2GPT` Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [Paper](https://arxiv.org/abs/2405.04164)
-- **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312) 
+- **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312)
+- **[ArXiv]** `MSKA-SLT` Multi-Stream Keypoint Attention Network for Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2405.05672) | [Code](https://github.com/sutwangyan/MSKA)
 
 #### 2023
 ##### Conference
@@ -283,6 +285,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[SEM]** Including Facial Expressions in Contextual Embeddings for Sign Language Generation. [Paper](https://arxiv.org/pdf/2202.05383)
   
+##### Journal
+- **[TPAMI]** `SignBERT+` SignBERT+: Hand-Model-Aware Self-Supervised Pre-Training for Sign Language Understanding. [Paper](https://ieeexplore.ieee.org/abstract/document/10109128?casa_token=4tAMXuomxmYAAAAA:b__eqgfzL1o-6nOkZjKl8LKb4D4PCghwglhvyAPrtISy584_JQsCH76IB0_D0uSgW5cr76YC1w)
+  
 ##### ArXiv
 - **[ArXiv]** SignDiff: Learning Diffusion Models for American Sign Language Production. [Paper](https://www.researchgate.net/publication/373518983_SignDiff_Learning_Diffusion_Models_for_American_Sign_Language_Production) 
 
@@ -326,6 +331,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | Model Name      | Year | WER      | Model Input   | Conference/Journal	    | Code                                    |
 |-----------------|------|----------|---------------|-------------------------|-----------------------------------------|
 
+
+
 ### SLT
 **********************************************************************************************************************
 ### Results on Phoenix-2014T dataset
@@ -341,6 +348,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[BN-TIN-Transf + BT](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |23.51        |RGB-Frames     | CVPR          |-        |
 |[SimulSLT](https://dl.acm.org/doi/abs/10.1145/3474085.3475544?casa_token=a9gNRsIfavQAAAAA:-AyOjcYz8C2Q9rrOrQkYqTX2JY9nnPfdxFx9lzdM7vs53LyQr96Z4AbQYhzsSJUErgWqbyqZbhBYqw)        |2021  |23.14        |RGB-Frames     | ACM MM            |-       |
 |[BN-TIN-Transf](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |22.54        |RGB-Frames     | CVPR          |-        |
+|[BERT2RND](https://biblio.ugent.be/publication/8719287)         |2021  |22.47        |RGB-Frames     | MT Summit                   |[Avaliable](https://github.com/m-decoster/fpt4slt)        |
 |[SL-Transf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf)         |2020  |22.45        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 [HST-GNN](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)         |2022  |22.3       |RGB-Frames     | WACV                   |-        |
 [NSLT](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)         |2018  |18.13       |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
@@ -351,12 +359,14 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal    | Code     |
 |-----------------|------|-------------|---------------|-----------------------|----------|
 |[CV-SLT](https://ojs.aaai.org/index.php/AAAI/article/view/29937)          |2022  |29.27       |RGB-Frames    | AAAI          |[Avaliable](https://github.com/rzhao-zhsq/CV-SLT)        |
+|[MSKA-SLT](https://arxiv.org/abs/2405.05672)          |2024  |29.03       |Skeleton-Keypoints    | ArXiv          |[Avaliable](https://github.com/sutwangyan/MSKA)        |
 |[TwoStream-SLT](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)          |2022  |28.95       |RGB-Frames, Skeleton-Keypoints     | NeurIPS          |-        |
 |[SLTUNET](https://arxiv.org/abs/2305.01778)          |2023  |28.47        |RGB-Frames     | ICLR           |[Avaliable](https://github.com/bzhangGo/sltunet)         |
 |[MMTLB](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)          |2022  |28.39        |RGB-Frames     | CVPR          |-        |
 |[IP-SLT](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)          |2023  |27.97        |RGB-Frames     | ICCV          |-        |
 |[VAP](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)          |2024  |26.16        |RGB-Frames     | ECCV          |-        |
 |[EMF-SLT](https://ieeexplore.ieee.org/abstract/document/10446966?casa_token=n9nZhBsV_rQAAAAA:udlmgkU8simclxDuSQQ4tbVgLOHa_ha8fkp128G7YtzvbZnhDHbuZJTeJGD1op_RFerAgPlFAg)          |2024  |26.01        |RGB-Frames     | ICASSP          |-        |
+|[SignBERT+](https://ieeexplore.ieee.org/abstract/document/10109128?casa_token=4tAMXuomxmYAAAAA:b__eqgfzL1o-6nOkZjKl8LKb4D4PCghwglhvyAPrtISy584_JQsCH76IB0_D0uSgW5cr76YC1w)          |2023  |26.70        |RGB-Frames     | TPAMI          |-        |
 |[SLT-CND](https://www.ijcai.org/proceedings/2023/0584.pdf)          |2023  |24.71        |RGB-Frames     | IJCAI          |[Avaliable](https://github.com/yp20000921/CND)        |
 |[BN-TIN-Transf + BT](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |24.32        |RGB-Frames     | CVPR          |-        |
 |[SimulSLT-CTL](https://aclanthology.org/2024.lrec-main.34/)          |2024  |24.20        |RGB-Frames     | LREC-COLING           |[Avaliable](https://github.com/tongsun99/CTL)         |
