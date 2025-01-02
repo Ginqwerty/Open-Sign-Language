@@ -418,11 +418,12 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[BN-TIN-Transf + BT](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |21. 34       |RGB-Frames     | CVPR          |-        |
 |[VAP](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)          |2024  |20.85        |RGB-Frames     | ECCV          |-        |
 |[IP-SLT](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)          |2023  |16.72      |RGB-Frames     | ICCV          |-        |
+|[LLM-SLT](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)          |2024  |15.75       |RGB-Frames     | CVPR                   |-        |
 |[Sign2GPT](https://arxiv.org/abs/2405.04164)          |2024  |15.40        |RGB-Frames     | ArXiv                |-        |
 |[ConSLT](https://ieeexplore.ieee.org/document/10095466)         |2023  |14.53        |RGB-Frames     | ICASSP                  |[Avaliable](https://github.com/biaofuxmu/ConSLT)       |
 |[FLa-LLM](https://arxiv.org/abs/2403.12556)          |2024  |14.20        |RGB-Frames     | LREC-COLING           |-        |
 |[BN-TIN-Transf](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |13.19        |RGB-Frames     | CVPR          |-        |
 |[GASLT](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)         |2023  |4.07        |RGB-Frames     | CVPR            |[Avaliable](https://github.com/YinAoXiong/GASLT)       |
-
+|[Tspnet](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html)         |2020  |2.97        |RGB-Frames     | NeurIPS               |[Avaliable](https://github.com/verashira/TSPNet)        |
 
 ### SLP
