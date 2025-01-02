@@ -193,7 +193,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ICASSP]** `EMF-SLT` An Explicit Multi-Modal Fusion Method for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/abstract/document/10446966?casa_token=n9nZhBsV_rQAAAAA:udlmgkU8simclxDuSQQ4tbVgLOHa_ha8fkp128G7YtzvbZnhDHbuZJTeJGD1op_RFerAgPlFAg)
   
 ##### ArXiv
-- **[ArXiv]** Towards Privacy-Aware Sign Language Translation at Scale. [Paper](https://arxiv.org/abs/2402.09611)
+- **[ArXiv]** Towards Privacy-Aware Sign Language Translation at Scale. [Paper](https://arxiv.org/abs/2402.09611) | [Code](https://github.com/facebookresearch/ssvp_slt)
 - **[ArXiv]** Unsupervised Sign Language Translation and Generation. [Paper](https://arxiv.org/abs/2402.07726)
 - **[ArXiv]** American Sign Language Video to Text Translation. [Paper](https://arxiv.org/abs/2402.07255) | [Code](https://github.com/jiSilverH/idlf23-aslt)
 - **[ArXiv]** Towards Online Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2401.05336)
