@@ -392,6 +392,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[Tspnet](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html)         |2020  |13.41        |RGB-Frames     | NeurIPS               |[Avaliable](https://github.com/verashira/TSPNet)        |
 |[Tokenization-SLT](https://ieeexplore.ieee.org/abstract/document/9320278?casa_token=gH_yVfmcWG0AAAAA:bRns7IujaRUnpfFkh5MznP2mTlcH315MmBMBBk5-uE_4XZhd2jVNLvi8H4vlzbkFNJtHKvdpdQ)        |2020  |13.25        |RGB-Frames     | FG            |-       |
 |[SimulSLT](https://dl.acm.org/doi/abs/10.1145/3474085.3475544?casa_token=a9gNRsIfavQAAAAA:-AyOjcYz8C2Q9rrOrQkYqTX2JY9nnPfdxFx9lzdM7vs53LyQr96Z4AbQYhzsSJUErgWqbyqZbhBYqw)       |2021  |12.27        |RGB-Frames     | ACM MM            |-       |
+|[SL-Transf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf)  &#x2749;       |2020  |11.79      |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 |[NSLT](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)         |2018  |9.58        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 
   
@@ -406,6 +407,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[BN-TIN-Transf + BT](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |19.67       |RGB-Frames     | CVPR          |-        |
 [HST-GNN](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)         |2022  |17.8       |RGB-Frames     | WACV                   |-        |
 |[BN-TIN-Transf](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |16.25        |RGB-Frames     | CVPR          |-        |
+|[NSLT + Luong](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html) 	&#x2726;        |2018  |11.03        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
+
 
 #### Gloss-free
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal     | Code                                    |
@@ -424,11 +427,13 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[FLa-LLM](https://arxiv.org/abs/2403.12556)          |2024  |14.20        |RGB-Frames     | LREC-COLING           |-        |
 |[BN-TIN-Transf](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |13.19        |RGB-Frames     | CVPR          |-        |
 |[GFSLT-VLP](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)         |2023  |11.00        |RGB-Frames     | ICCV                   |[Avaliable](https://github.com/zhoubenjia/GFSLT-VLP)        |
+|[NSLT + Luong](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html) 	&#x2726;        |2018  |7.56        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 |[GASLT](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)         |2023  |4.07        |RGB-Frames     | CVPR            |[Avaliable](https://github.com/YinAoXiong/GASLT)       |
 |[SL-Transf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf)  &#x2749;       |2020  |3.03       |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 |[Tspnet](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html) &#x2605;        |2020  |2.97        |RGB-Frames     | NeurIPS               |[Avaliable](https://github.com/verashira/TSPNet)        |
 
 Notation:
+&#x2726; denotes results reproduced by [`BN-TIN-Transf`](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)
 &#x2749; denotes results reproduced by [`GFSLT-VLP`](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)
 &#x2605; denotes results reproduced by [`GASLT`](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)|[Code](https://github.com/YinAoXiong/GASLT)
 ### SLP
