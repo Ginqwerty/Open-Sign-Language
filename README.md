@@ -132,11 +132,11 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ***********************************************************************************************************************
 
-### SLT Papers (Sign to Text)
+### SLT Papers
 ### Gloss-based SLT
 #### 2024
 ##### Conference
-- **[ECCV]** EVSign: Sign Language Recognition and Translation with Streaming Events. [Paper](https://arxiv.org/pdf/2407.12593) | [Code]()
+- **[ECCV]** EVSign: Sign Language Recognition and Translation with Streaming Events. [Paper](https://arxiv.org/pdf/2407.12593)
 
 #### 2023
 ##### Conference
