@@ -201,6 +201,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** `Sign2GPT` Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [Paper](https://arxiv.org/abs/2405.04164)
 - **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312)
 - **[ArXiv]** `MSKA-SLT` Multi-Stream Keypoint Attention Network for Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2405.05672) | [Code](https://github.com/sutwangyan/MSKA)
+- **[ArXiv]** `Signformer` Signformer is all you need: Towards Edge AI for Sign Language. [Paper](https://arxiv.org/abs/2411.12901) 
 
 #### 2023
 ##### Conference
@@ -374,6 +375,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[PET](https://aclanthology.org/2022.findings-acl.297/)          |2022  |24.02        |RGB-Frames     | ICLR           |-         |
 |[SimulSLT-CTL++](https://aclanthology.org/2024.lrec-main.34/)          |2024  |23.75        |RGB-Frames     | LREC-COLING           |[Avaliable](https://github.com/tongsun99/CTL)         |
 |[Online-CSLRT](https://arxiv.org/abs/2401.05336)          |2024  |23.69        |RGB-Frames     | ArXiv           |[Avaliable](https://github.com/FangyunWei/SLRT)         |
+|[Signformer](https://arxiv.org/abs/2411.12901)          |2024  |23.43        |RGB-Frames     | ArXiv           |-        |
 |[LLM-SLT](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)          |2024  |23.40        |RGB-Frames     | CVPR                   |-        |
 |[FLa-LLM](https://arxiv.org/abs/2403.12556)          |2024  |23.09        |RGB-Frames     | LREC-COLING           |-        |
 |[Sign2GPT](https://arxiv.org/abs/2405.04164)          |2024  |22.52        |RGB-Frames     | ArXiv                |-        |
