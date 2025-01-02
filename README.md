@@ -196,7 +196,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** Towards Privacy-Aware Sign Language Translation at Scale. [Paper](https://arxiv.org/abs/2402.09611) | [Code](https://github.com/facebookresearch/ssvp_slt)
 - **[ArXiv]** Unsupervised Sign Language Translation and Generation. [Paper](https://arxiv.org/abs/2402.07726)
 - **[ArXiv]** American Sign Language Video to Text Translation. [Paper](https://arxiv.org/abs/2402.07255) | [Code](https://github.com/jiSilverH/idlf23-aslt)
-- **[ArXiv]** Towards Online Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2401.05336)
+- **[ArXiv]** `Online-CSLRT` Towards Online Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2401.05336) | [Code](https://github.com/FangyunWei/SLRT)
 - **[ArXiv]** `Sign2GPT` Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [Paper](https://arxiv.org/abs/2405.04164)
 - **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312) 
 
@@ -347,7 +347,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 [Facial-SLT](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012698)         |2021  |10.89       |RGB-Frames     | Neurocomputing                |-        |
 
 
-
 #### Gloss-free
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal    | Code     |
 |-----------------|------|-------------|---------------|-----------------------|----------|
@@ -364,6 +363,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[SLT-SEM](https://aclanthology.org/2024.acl-short.40/)          |2024  |24.12        |RGB-Frames     | ACL           |-         |
 |[PET](https://aclanthology.org/2022.findings-acl.297/)          |2022  |24.02        |RGB-Frames     | ICLR           |-         |
 |[SimulSLT-CTL++](https://aclanthology.org/2024.lrec-main.34/)          |2024  |23.75        |RGB-Frames     | LREC-COLING           |[Avaliable](https://github.com/tongsun99/CTL)         |
+|[Online-CSLRT](https://arxiv.org/abs/2401.05336)          |2024  |23.69        |RGB-Frames     | ArXiv           |[Avaliable](https://github.com/FangyunWei/SLRT)         |
 |[LLM-SLT](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)          |2024  |23.40        |RGB-Frames     | CVPR                   |-        |
 |[FLa-LLM](https://arxiv.org/abs/2403.12556)          |2024  |23.09        |RGB-Frames     | LREC-COLING           |-        |
 |[Sign2GPT](https://arxiv.org/abs/2405.04164)          |2024  |22.52        |RGB-Frames     | ArXiv                |-        |
