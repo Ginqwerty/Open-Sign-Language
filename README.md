@@ -212,7 +212,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
   
 #### 2022
 ##### Conference
-- **[WMT]** Spatio-Temporal Sign Language Representation and Translation. [Paper](https://aclanthology.org/2022.wmt-1.96/)
+- **[WMT]** Spatio-Temporal Sign Language Representation and Translation. [Paper](https://aclanthology.org/2022.wmt-1.94/)
 - **[WMT]** Experimental Machine Translation of the Swiss German Sign Language via 3D augmentation of body keypoints. [Paper](https://aclanthology.org/2022.wmt-1.95/)|[Code](https://github.com/DFKI-SignLanguage/slt)
 - **[ACL]** `PET` Prior knowledge and memory enriched transformer for sign language translation. [Paper](https://aclanthology.org/2022.findings-acl.297/)
 - **[ACM MM]** MC-SLT: Towards Low-Resource Signer-Adaptive Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548069?casa_token=L598dOYlqkoAAAAA:xQFoL2cNaUDHi8ZJBUrvwH0wwADx0tcYYP5AsYjAaRyMGOWA0I9fjIwgSelOuHgmPQTvKPPx-z3Faw)
