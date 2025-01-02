@@ -218,7 +218,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ACM MM]** MC-SLT: Towards Low-Resource Signer-Adaptive Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548069?casa_token=L598dOYlqkoAAAAA:xQFoL2cNaUDHi8ZJBUrvwH0wwADx0tcYYP5AsYjAaRyMGOWA0I9fjIwgSelOuHgmPQTvKPPx-z3Faw)
 - **[CVPR]** MLSLT: Towards Multilingual Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.html)
 - **[CVPR]** `MMTLB` A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)
-- **[NAACL]** Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. [Paper](https://arxiv.org/abs/2204.05953)|[Code](https://github.com/yongcaoplus/TIN-SLT)
+- **[NAACL]** `TIN-SLT` Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. [Paper](https://arxiv.org/abs/2204.05953)|[Code](https://github.com/yongcaoplus/TIN-SLT)
 - **[EMNLP]** Open-Domain Sign Language Translation Learned from Online Video. [Paper](https://arxiv.org/abs/2205.12870)|[Code](https://github.com/chevalierNoir/OpenASL)
 
 ##### Journal
