@@ -211,7 +211,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ICLR]** `SLTUNET` SLTUNET: A Simple Unified Model for Sign Language Translation. [Paper](https://arxiv.org/abs/2305.01778)|[Code](https://github.com/bzhangGo/sltunet)
 - **[IJCAI]** `SLT-CND` Efficient Sign Language Translation with a Curriculum-Based Non-Autoregressive Decoder. [Paper](https://www.ijcai.org/proceedings/2023/0584.pdf)|[Code](https://github.com/yp20000921/CND)
 - **[ICASSP]** `ConSLT` A Token-Level Contrastive Framework for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/document/10095466)|[Code](https://github.com/biaofuxmu/ConSLT)
-- **[CVPRW]** `SLT-Instructional` Sign Language Translation from Instructional Videos. [Paper](https://openaccess.thecvf.com/content/CVPR2023W/WiCV/html/Tarres_Sign_Language_Translation_from_Instructional_Videos_CVPRW_2023_paper.html) | [Code](https://imatge-upc.github.io/slt_how2sign_wicv2023/)
+- **[CVPRW]** `SLT-IV` Sign Language Translation from Instructional Videos. [Paper](https://openaccess.thecvf.com/content/CVPR2023W/WiCV/html/Tarres_Sign_Language_Translation_from_Instructional_Videos_CVPRW_2023_paper.html) | [Code](https://imatge-upc.github.io/slt_how2sign_wicv2023/)
 
 ##### ArXiv
 - **[ArXiv]** `XmDA` Cross-modality Data Augmentation for End-to-End Sign Language Translation. [Paper](https://arxiv.org/abs/2305.11096) ｜ [Code](https://github.com/Atrewin/SignXmDA)
@@ -446,7 +446,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal     | Code                                    |
 |-----------------|------|-------------|---------------|------------------------|-----------------------------------------|
 |[FLa-LLM](https://arxiv.org/abs/2403.12556)          |2024  |9.66        |RGB-Frames     | LREC-COLING           |-        |
-|[SLT-Instructional](https://openaccess.thecvf.com/content/CVPR2023W/WiCV/html/Tarres_Sign_Language_Translation_from_Instructional_Videos_CVPRW_2023_paper.html)        |2023  |8.03        |RGB-Frames     | CVPRW              |[Avaliable](https://imatge-upc.github.io/slt_how2sign_wicv2023/)        |
+|[SLT-IV](https://openaccess.thecvf.com/content/CVPR2023W/WiCV/html/Tarres_Sign_Language_Translation_from_Instructional_Videos_CVPRW_2023_paper.html)        |2023  |8.03        |RGB-Frames     | CVPRW              |[Avaliable](https://imatge-upc.github.io/slt_how2sign_wicv2023/)        |
 
 **********************************************************************************************************************
 
