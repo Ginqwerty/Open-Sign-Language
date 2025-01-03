@@ -19,4 +19,4 @@ We aim to collect CSLR study papers from the past 25 years (starting from the ye
      [Conference/Journal]   `Model-Name`   Paper-Title.   [Paper Source] | [Source Code Website]
      ```
 
-3. For the collected CSLR articles, please update the recognition performance of the proposed models in the Rank Table. Sort the entries in ascending order based on their WER (Word Error Rate) results, from low to high.
+3. For the collected CSLR articles, please update the recognition performance of the proposed models to the SLR Leaderboard. Sort the results by WER (Word Error Rate) in ascending order (from low to high). Note: Please categorize the results by different datasets (refer to the SLT Leaderboard Section for guidance).
