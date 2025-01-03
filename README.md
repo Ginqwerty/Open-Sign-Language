@@ -215,6 +215,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ##### ArXiv
 - **[ArXiv]** `XmDA` Cross-modality Data Augmentation for End-to-End Sign Language Translation. [Paper](https://arxiv.org/abs/2305.11096) ｜ [Code](https://github.com/Atrewin/SignXmDA)
+- **[ArXiv]** `GloFE` Gloss-Free End-to-End Sign Language Translation. [Paper](https://arxiv.org/abs/2305.12876) | [Code](https://github.com/HenryLittle/GloFE)
   
 #### 2022
 ##### Conference
@@ -233,6 +234,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ##### ArXiv
 - **[ArXiv]** Tackling low-resourced sign language translation: Upc at wmt-slt 22. [Paper](https://arxiv.org/abs/2212.01140)
+
+##### Others
+- `TF-H2S` Sign Language Translation based on Transformers for the How2Sign Dataset. [Paper](https://imatge.upc.edu/web/sites/default/files/pub/xCabot22.pdf) 
 
 #### 2021
 ##### Conference
@@ -440,6 +444,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 &#x2605; denotes results reproduced by [`GASLT`](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)
 
+
 **********************************************************************************************************************
 ### Results on How2Sign dataset
 #### Gloss-free
@@ -447,6 +452,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |-----------------|------|-------------|---------------|------------------------|-----------------------------------------|
 |[FLa-LLM](https://arxiv.org/abs/2403.12556)          |2024  |9.66        |RGB-Frames     | LREC-COLING           |-        |
 |[SLT-IV](https://openaccess.thecvf.com/content/CVPR2023W/WiCV/html/Tarres_Sign_Language_Translation_from_Instructional_Videos_CVPRW_2023_paper.html)        |2023  |8.03        |RGB-Frames     | CVPRW              |[Avaliable](https://imatge-upc.github.io/slt_how2sign_wicv2023/)        |
+|[GloFE](https://arxiv.org/abs/2305.12876)        |2023  |2.24        |RGB-Frames     | ArXiv              |[Avaliable](https://github.com/HenryLittle/GloFE)        |
+|[TF-H2S](https://imatge.upc.edu/web/sites/default/files/pub/xCabot22.pdf)          |2022  |2.21        |RGB-Frames     | -           | -        |
+
 
 **********************************************************************************************************************
 
