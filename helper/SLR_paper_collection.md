@@ -10,9 +10,9 @@ We aim to collect CSLR study papers from the past 25 years (starting from the ye
 
 2. Please update the collected CSLR articles in the "SLR Papers" section of the Readme.md file. Refer to the update method used for "SLT Papers" to organize the SLR articles.
 
--2.1. **Classify articles by year**.
--2.2. **For articles from the same year**, categorize them into Conference, Journal, and ArXiv.
--2.3. **Use the following format for updates**:
+  -2.1. **Classify articles by year**.
+  -2.2. **For articles from the same year**, categorize them into Conference, Journal, and ArXiv.
+  -2.3. **Use the following format for updates**:
    ```markdown
    [Conference/Journal]   `Model-Name`   Paper-Title.   [Paper Source] | [Source Code Website]
    ```
