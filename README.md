@@ -437,5 +437,5 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 &#x2749; denotes results reproduced by [`GFSLT-VLP`](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)
 
-&#x2605; denotes results reproduced by [`GASLT`](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)|[Code](https://github.com/YinAoXiong/GASLT)
+&#x2605; denotes results reproduced by [`GASLT`](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)
 ### SLP
