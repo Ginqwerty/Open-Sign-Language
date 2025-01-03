@@ -7,7 +7,12 @@ This document provides the process for collecting research papers related to Con
 In addition to survey papers, please search for recent SLR articles from the past two years using the following three platforms: Google Scholar, IEEEXplore, and UWT Library. Recommended search keyword: Continuous Sign Language Recognition.
 We aim to collect CSLR study papers from the past 25 years (starting from the year 2000) as comprehensively as possible.
 
+
 2. Please update the collected CSLR articles in the "SLR Papers" section of the Readme.md file. Refer to the update method used for "SLT Papers" to organize the SLR articles.
-  2.1 Classify articles by year.
-  2.2 For articles from the same year, categorize them into Conference, Journal, and ArXiv.
-  2.3 Use the following format for updates
+
+1. **Classify articles by year**.
+2. **For articles from the same year**, categorize them into Conference, Journal, and ArXiv.
+3. **Use the following format for updates**:
+   ```markdown
+   [Conference/Journal]   `Model-Name`   Paper-Title.   [Paper Source] | [Source Code Website]
+   ```
