@@ -228,7 +228,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[CVPR]** `MLSLT` MLSLT: Towards Multilingual Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.html)
 - **[CVPR]** `MMTLB` A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)
 - **[NAACL]** `TIN-SLT` Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. [Paper](https://arxiv.org/abs/2204.05953)|[Code](https://github.com/yongcaoplus/TIN-SLT)
-- **[EMNLP]** Open-Domain Sign Language Translation Learned from Online Video. [Paper](https://arxiv.org/abs/2205.12870)|[Code](https://github.com/chevalierNoir/OpenASL)
+- **[EMNLP]** `OpenASL` Open-Domain Sign Language Translation Learned from Online Video. [Paper](https://arxiv.org/abs/2205.12870)|[Code](https://github.com/chevalierNoir/OpenASL)
 
 ##### Journal
 - **[IEEE]** `CSGCR` Conditional Sentence Generation and Cross-Modal Reranking for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/document/9447976)
@@ -464,5 +464,18 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 
 **********************************************************************************************************************
+### Results on OpenASL dataset
+#### Gloss-free
+| Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal     | Code                                    |
+|-----------------|------|-------------|---------------|------------------------|-----------------------------------------|
+|[C²RL](https://arxiv.org/abs/2408.09949)          |2024  |13.21        |RGB-Frames      | ArXiv          |-        |
+|[GloFE-VN](https://arxiv.org/abs/2305.12876)        |2023  |7.06        |RGB-Frames     | ArXiv              |[Avaliable](https://github.com/HenryLittle/GloFE)        |
+|[OpenASL](https://arxiv.org/abs/2205.12870)        |2022  |6.72        |RGB-Frames     | EMNLP              |[Avaliable](https://github.com/chevalierNoir/OpenASL)        |
+|[I3D-Transformer](https://arxiv.org/abs/2205.12870)        |2022  |5.66        |RGB-Frames     |-              |-        |
+|[NSLT](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html) &#10066;        |2018  |4.58        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 
+##### OpenASL Gloss-Free Table Notation:
+
+&#10066; denotes results reproduced by `OpenASL`(https://arxiv.org/abs/2205.12870)
+**********************************************************************************************************************
 ### SLP
