@@ -374,9 +374,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[SLTUNET](https://arxiv.org/abs/2305.01778)          |2023  |28.47        |RGB-Frames     | ICLR           |[Avaliable](https://github.com/bzhangGo/sltunet)         |
 |[MMTLB](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)          |2022  |28.39        |RGB-Frames     | CVPR          |-        |
 |[IP-SLT](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)          |2023  |27.97        |RGB-Frames     | ICCV          |-        |
+|[C²RL](https://arxiv.org/abs/2408.09949)          |2024  |26.75        |RGB-Frames      | ArXiv          |-        |
+|[SignBERT+](https://ieeexplore.ieee.org/abstract/document/10109128?casa_token=4tAMXuomxmYAAAAA:b__eqgfzL1o-6nOkZjKl8LKb4D4PCghwglhvyAPrtISy584_JQsCH76IB0_D0uSgW5cr76YC1w)          |2023  |26.70        |Skeleton-Keypoints      | TPAMI          |-        |
 |[VAP](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)          |2024  |26.16        |RGB-Frames     | ECCV          |-        |
 |[EMF-SLT](https://ieeexplore.ieee.org/abstract/document/10446966?casa_token=n9nZhBsV_rQAAAAA:udlmgkU8simclxDuSQQ4tbVgLOHa_ha8fkp128G7YtzvbZnhDHbuZJTeJGD1op_RFerAgPlFAg)          |2024  |26.01        |RGB-Frames     | ICASSP          |-        |
-|[SignBERT+](https://ieeexplore.ieee.org/abstract/document/10109128?casa_token=4tAMXuomxmYAAAAA:b__eqgfzL1o-6nOkZjKl8LKb4D4PCghwglhvyAPrtISy584_JQsCH76IB0_D0uSgW5cr76YC1w)          |2023  |26.70        |Skeleton-Keypoints      | TPAMI          |-        |
 |[XmDA](https://arxiv.org/abs/2305.11096)          |2023  |25.36        |RGB-Frames     | ArXiv          |[Avaliable](https://github.com/Atrewin/SignXmDA)        |
 |[SLT-CND](https://www.ijcai.org/proceedings/2023/0584.pdf)          |2023  |24.71        |RGB-Frames     | IJCAI          |[Avaliable](https://github.com/yp20000921/CND)        |
 |[BN-TIN-Transf + BT](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |24.32        |RGB-Frames     | CVPR          |-        |
@@ -423,6 +424,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[TwoStream-SLT](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)          |2022  |25.42       |RGB-Frames, Skeleton-Keypoints     | NeurIPS          |-        |
 |[SLTUNET](https://arxiv.org/abs/2305.01778)         |2023  |25.01        |RGB-Frames     | ICLR                   |[Avaliable](https://github.com/bzhangGo/sltunet) |
 |[MMTLB](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)          |2022  |23.92        |RGB-Frames     | CVPR          |-        |
+|[C²RL](https://arxiv.org/abs/2408.09949)          |2024  |21.61        |RGB-Frames      | ArXiv          |-        |
 |[XmDA](https://arxiv.org/abs/2305.11096)          |2023  |21.58        |RGB-Frames     | ArXiv          |[Avaliable](https://github.com/Atrewin/SignXmDA)        |
 |[BN-TIN-Transf + BT](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |21. 34       |RGB-Frames     | CVPR          |-        |
 |[VAP](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)          |2024  |20.85        |RGB-Frames     | ECCV          |-        |
