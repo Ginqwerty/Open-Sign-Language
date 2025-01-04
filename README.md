@@ -136,6 +136,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 
 ### SLR Papers
+#### 2019
+##### Journal
+- **[IEEE TM]** `IterativeTrain` A Deep Neural Framework for Continuous Sign Language Recognition by Iterative Training. [Paper](https://ieeexplore.ieee.org/document/8598757)
+
 #### 2017
 ##### Conference
 - **[CVPR]** `ReSign` Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs. [Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)
@@ -346,18 +350,25 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
   
 
 </details>
+- **[IEEE TM]** `IterativeTrain` A Deep Neural Framework for Continuous Sign Language Recognition by Iterative Training. [Paper](https://ieeexplore.ieee.org/document/8598757)
 
 ## Leaderboard
 ### SLR
 ### Results on SIGNUM dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
-|[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN-BLSTM-HMM    |4.8      |RGB-Frames     |CVPR                     |-            |
+|[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)          |2019  |CNN-BLSTM    |2.8%      |RGB-Frames     |IEEE TM                  |-            |
+|[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN-BLSTM-HMM    |4.8%      |RGB-Frames     |CVPR                     |-            |
 
-### Results on SIGNUM dataset
+### Results on PHOENIX-2014 dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
-|[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN-BLSTM-HMM    |26.8     |RGB-Frames     |CVPR                     |-            |
+|[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)          |2019  |CNN-BLSTM    |22.86%      |RGB-Frames     |IEEE TM                  |-            |
+|[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN-BLSTM-HMM    |26.8%     |RGB-Frames     |CVPR                     |-            |
+
+### Results on PHOENIX-2014T dataset
+| Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
+|-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
 
 ### SLT
 **********************************************************************************************************************
