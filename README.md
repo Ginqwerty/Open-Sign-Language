@@ -476,6 +476,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ##### OpenASL Gloss-Free Table Notation:
 
-&#10066; denotes results reproduced by [OpenASL](https://arxiv.org/abs/2205.12870)
+&#10066; denotes results reproduced by [`OpenASL`](https://arxiv.org/abs/2205.12870)
 **********************************************************************************************************************
 ### SLP
