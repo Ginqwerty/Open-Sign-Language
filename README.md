@@ -30,6 +30,8 @@ This repository is all you need for Sign Language Study!
 ##### Journal
 - **[Information Processing & Management]** Reviewing 25 years of continuous sign language recognition research: Advances, challenges, and prospects. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001341)
 - **[IEEE Access]** Sign Language Recognition: A Comprehensive Review of Traditional and Deep Learning Approaches, Datasets, and Challenges. [Paper](https://ieeexplore.ieee.org/abstract/document/10526274) 
+- **[Advanced Robotics]** A Review of Deep Learning-Based Approaches to Sign Language Processing. [Paper](https://www.tandfonline.com/doi/full/10.1080/01691864.2024.2442721)
+
 
 #### 2023
 ##### Conference
@@ -87,6 +89,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ******************************************************************************************************************
 
 ### SLT Survey Papers
+#### 2024
+##### Journal
+- **[Advanced Robotics]** A Review of Deep Learning-Based Approaches to Sign Language Processing. [Paper](https://www.tandfonline.com/doi/full/10.1080/01691864.2024.2442721)
+
 #### 2023
 ##### ArXiv
 - **[ArXiv]** From Rule-Based Models to Deep Learning Transformers Architectures for Natural Language Processing and Sign Language Translation Systems: Survey, Taxonomy and Performance Evaluation. [Paper](https://arxiv.org/abs/2408.14825)
@@ -109,6 +115,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Journal
 - **[ACM TALLIP]** A Comprehensive Review of Sign Language Production. [Paper](https://riunet.upv.es/handle/10251/212285)
 - **[Expert Syst. Appl.]** A survey on recent advances in Sign Language Production. [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423033481?casa_token=UmInOwI3diwAAAAA:bA4cZopQA1MtTfGYKQZR9QkKEUHp0rnHKLx7fepo9BFP2cSI80Xl4sEtr7p3yb4yvvmghKy8FzU)
+- **[Advanced Robotics]** A Review of Deep Learning-Based Approaches to Sign Language Processing. [Paper](https://www.tandfonline.com/doi/full/10.1080/01691864.2024.2442721)
 
 #### 2023
 ##### Journal
