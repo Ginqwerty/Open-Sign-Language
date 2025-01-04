@@ -202,7 +202,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312)
 - **[ArXiv]** `MSKA-SLT` Multi-Stream Keypoint Attention Network for Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2405.05672) | [Code](https://github.com/sutwangyan/MSKA)
 - **[ArXiv]** `Signformer` Signformer is all you need: Towards Edge AI for Sign Language. [Paper](https://arxiv.org/abs/2411.12901)
-- **[ArXiv]** `C²RL` C<sup>2</sup>RL: Content and Context Representation Learning for Gloss-free Sign Language Translation and Retrieval. [Paper](https://arxiv.org/abs/2408.09949) 
+- **[ArXiv]** `C²RL` C<sup>2</sup>RL: Content and Context Representation Learning for Gloss-free Sign Language Translation and Retrieval. [Paper](https://arxiv.org/abs/2408.09949)
+- **[ArXiv]** `UniGloR` A Spatio-Temporal Representation Learning as an Alternative to Traditional Glosses in Sign Language Translation and Production. [Paper](https://arxiv.org/abs/2407.02854) | [Code](https://github.com/eddie-euijun-hwang/UniGloR)
 
 #### 2023
 ##### Conference
@@ -289,6 +290,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### ArXiv
 - **[ArXiv]** T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text. [Paper](https://arxiv.org/abs/2406.07119)
 - **[ArXiv]** iSign: A Benchmark for Indian Sign Language Processing. [Paper](https://arxiv.org/abs/2407.05404)
+- **[ArXiv]** `UniGloR` A Spatio-Temporal Representation Learning as an Alternative to Traditional Glosses in Sign Language Translation and Production. [Paper](https://arxiv.org/abs/2407.02854) | [Code](https://github.com/eddie-euijun-hwang/UniGloR)
   
 
 #### 2023
@@ -399,10 +401,11 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[CSGCR](https://ieeexplore.ieee.org/document/9447976)        |2022  |15.18        |RGB-Frames     | IEEE            |-       |
 |[Tspnet](https://proceedings.neurips.cc/paper/2020/hash/8c00dee24c9878fea090ed070b44f1ab-Abstract.html)         |2020  |13.41        |RGB-Frames     | NeurIPS               |[Avaliable](https://github.com/verashira/TSPNet)        |
 |[Tokenization-SLT](https://ieeexplore.ieee.org/abstract/document/9320278?casa_token=gH_yVfmcWG0AAAAA:bRns7IujaRUnpfFkh5MznP2mTlcH315MmBMBBk5-uE_4XZhd2jVNLvi8H4vlzbkFNJtHKvdpdQ)        |2020  |13.25        |RGB-Frames     | FG            |-       |
+|[UniGloR](https://arxiv.org/abs/2407.02854)       |2024  |12.86        |RGB-Frames     | ArXiv            |-       |
 |[SimulSLT](https://dl.acm.org/doi/abs/10.1145/3474085.3475544?casa_token=a9gNRsIfavQAAAAA:-AyOjcYz8C2Q9rrOrQkYqTX2JY9nnPfdxFx9lzdM7vs53LyQr96Z4AbQYhzsSJUErgWqbyqZbhBYqw)       |2021  |12.27        |RGB-Frames     | ACM MM            |-       |
 |[NSLT](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)         |2018  |9.58        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 
-  
+
 **********************************************************************************************************************
 ### Results on CSL-Daily dataset
 #### Gloss-based
@@ -460,6 +463,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[FLa-LLM](https://arxiv.org/abs/2403.12556)          |2024  |9.66        |RGB-Frames     | LREC-COLING           |-        |
 |[SLT-IV](https://openaccess.thecvf.com/content/CVPR2023W/WiCV/html/Tarres_Sign_Language_Translation_from_Instructional_Videos_CVPRW_2023_paper.html)        |2023  |8.03        |RGB-Frames     | CVPRW              |[Avaliable](https://imatge-upc.github.io/slt_how2sign_wicv2023/)        |
 |[GloFE-VN](https://arxiv.org/abs/2305.12876)        |2023  |2.24        |RGB-Frames     | ArXiv              |[Avaliable](https://github.com/HenryLittle/GloFE)        |
+|[UniGloR](https://arxiv.org/abs/2407.02854)       |2024  |2.22        |RGB-Frames     | ArXiv            |-       |
 |[TF-H2S](https://imatge.upc.edu/web/sites/default/files/pub/xCabot22.pdf)          |2022  |2.21        |RGB-Frames     | -           | -        |
 
 
