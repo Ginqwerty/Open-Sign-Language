@@ -136,7 +136,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 
 ### SLR Papers
-
+#### 2017
+##### Conference
+- **[CVPR]** `ReSign` Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs. [Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)
 ***********************************************************************************************************************
 
 ### SLT Papers
@@ -346,11 +348,16 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 </details>
 
 ## Leaderboard
-### SLR 
-| Model Name      | Year | WER      | Model Input   | Conference/Journal	    | Code                                    |
-|-----------------|------|----------|---------------|-------------------------|-----------------------------------------|
+### SLR
+### Results on SIGNUM dataset
+| Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
+|-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
+|[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN-BLSTM-HMM    |4.8      |RGB-Frames     |CVPR                     |-            |
 
-
+### Results on SIGNUM dataset
+| Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
+|-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
+|[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN-BLSTM-HMM    |26.8     |RGB-Frames     |CVPR                     |-            |
 
 ### SLT
 **********************************************************************************************************************
