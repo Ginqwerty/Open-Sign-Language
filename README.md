@@ -201,7 +201,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** `Sign2GPT` Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [Paper](https://arxiv.org/abs/2405.04164)
 - **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312)
 - **[ArXiv]** `MSKA-SLT` Multi-Stream Keypoint Attention Network for Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2405.05672) | [Code](https://github.com/sutwangyan/MSKA)
-- **[ArXiv]** `Signformer` Signformer is all you need: Towards Edge AI for Sign Language. [Paper](https://arxiv.org/abs/2411.12901) 
+- **[ArXiv]** `Signformer` Signformer is all you need: Towards Edge AI for Sign Language. [Paper](https://arxiv.org/abs/2411.12901)
+- **[ArXiv]** `C ${^ 2} $ RL` C ${^ 2} $ RL: Content and Context Representation Learning for Gloss-free Sign Language Translation and Retrieval. [Paper](https://arxiv.org/abs/2408.09949) 
 
 #### 2023
 ##### Conference
