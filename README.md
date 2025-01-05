@@ -417,8 +417,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[SubUNets](https://openaccess.thecvf.com/content_iccv_2017/html/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.html)          |2017  |CNN + BLSTM    |40.7     |RGB-Frames     |ICCV                    |[Avaliable](https://github.com/neccam/SubUNets)            |
 |[HamNoSys CSLR](https://www.researchgate.net/profile/Oscar-Koller/publication/299634721_Automatic_Alignment_of_HamNoSys_Subunits_for_Continuous_Sign_Language_Recognition/links/57038dd108ae646a9da99e79/Automatic-Alignment-of-HamNoSys-Subunits-for-Continuous-Sign-Language-Recognition.pdf)          |2016  |CNN + HMM    |45.1     |RGB-Frames     |LREC                     |-            |
 
-- **[ECAI]** `SAFI` Self-Attention-Based Fully-Inception Networks for Continuous Sign Language Recognition. [Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA200425)
-
 
 ### Results on PHOENIX-2014T dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
