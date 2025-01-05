@@ -141,10 +141,14 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ICPR]** `ISFT` Continuous Sign Language Recognition with Iterative Spatiotemporal Fine-Tuning. [Paper](https://ieeexplore.ieee.org/abstract/document/9412364?casa_token=aPxqQhLKsmAAAAAA:lZzpfURV_LnCzObhw5IOGXJwQDhCl-zuFJNF13_YO1nVZFIfbDcmnQccBGaE_LBCnJVhm3BclA)
 - **[ECAI]** `SAFI` Self-Attention-Based Fully-Inception Networks for Continuous Sign Language Recognition. [Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA200425)
 - **[ICPR]** `SAN` Context Matters: Self-Attention for Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/9412916)
+- **[ECCV]** `SMS` Stochastic Fine-Grained Labeling of Multi-State Sign Glosses for Continuous Sign Language Recognition. [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610171.pdf)
+- **[ECCV]** `FCN` Fully Convolutional Networks for Continuous Sign Language Recognition. [Paper](https://arxiv.org/pdf/2007.12402)
+- **[ACM MM]** `CMA` Boosting Continuous Sign Language Recognition via Cross Modality Augmentation. [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413931?casa_token=xSfegIdlgFMAAAAA:L5yZ-ien9d5yA8W9IT_Uxt_b_qUyySG_mvaM49cgDNKAGnzTH7i6gH1E1oTmtm5DlWpYjGRZxMUufQ)
 
 ##### Journal
 - **[JCR]** Skeleton-Based Chinese Sign Language Recognition and Generation for Bidirectional Communication Between Deaf and Hearing People. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802030040X?casa_token=ja72CdvWb00AAAAA:ffcRBH9Whu94gknblx4W1SeLSGOW14SBo7U0OIBKokL-xkekUmbBoY5o62zVxFfpSojBno150hk)
 - **[TPAMI]** `Multi-Stream CLH` Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos. [Paper](https://ieeexplore.ieee.org/abstract/document/8691602?casa_token=lP-Fkwedp_EAAAAA:dvSygKGlDR60MWhvjK7e3vClHtNB3mrLVCRp_Yov2z5ElEIpBRz-b_b9ge23QRLRFxi7DGku1Q)
+- **[IEEE Access]** `CMA-TE` Continuous Sign Language Recognition through Cross-Modal Alignment of Video and Text Embeddings in a Joint-Latent Space. [Paper](https://ieeexplore.ieee.org/abstract/document/9090828)
 
 #### 2019
 ##### Conference
@@ -384,7 +388,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
   
 
 </details>
-- **[IEEE TM]** `IterativeTrain` A Deep Neural Framework for Continuous Sign Language Recognition by Iterative Training. [Paper](https://ieeexplore.ieee.org/document/8598757)
 
 ## Leaderboard
 ### SLR
@@ -396,10 +399,14 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[Deep Sign](https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44SUR_INST/storage/alma/11/B1/D7/EE/FE/33/9E/97/1B/8D/FF/9F/13/80/87/67/Koller_BMVC2016.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250104T222933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20250104%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d93fb750a40df90faad98c2a45f3ce2ffeebf0f93247af6f03ed51b2a7ac6a9f)          |2016  |CNN + HMM    |7.4     |RGB-Frames     |BMVC                     |-            |
 
 
+
 ### Results on PHOENIX-2014 dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
 |[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)          |2019  |CNN + BLSTM    |22.86      |RGB-Frames     |IEEE TM                  |-            |
+|[FCN](https://arxiv.org/pdf/2007.12402)          |2020  |FCN + GFE   |23.9      |RGB-Frames     |ECCV             |-            |
+|[CMA-TE](https://ieeexplore.ieee.org/abstract/document/9090828)          |2020  |CNN + BLSTM    |24.00      |RGB-Frames     |IEEE Access             |-            |
+|[SMS]([https://ieeexplore.ieee.org/document/8598757](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610171.pdf))          |2020  |2DCNN + Transformer    |25.3      |RGB-Frames     |ECCV                  |-            |
 |[Multi-Stream CLH](https://ieeexplore.ieee.org/abstract/document/8691602?casa_token=lP-Fkwedp_EAAAAA:dvSygKGlDR60MWhvjK7e3vClHtNB3mrLVCRp_Yov2z5ElEIpBRz-b_b9ge23QRLRFxi7DGku1Q)          |2020  | Multi-Stream CNN-LSTM-HMM    |26.0    |RGB-Frames     |TPAMI         |-            |
 |[SAN](https://ieeexplore.ieee.org/document/9412916)          |2020  |2D-CNN + Transformer    |29.7     |RGB-Frames     |ICPR         |-            |
 |[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN + BLSTM + HMM    |26.8     |RGB-Frames     |CVPR                     |-            |
