@@ -136,12 +136,18 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ### SLR Papers
 
 #### 2021
+##### Conference
+- **[ICCV]** `VAC` Visual Alignment Constraint for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)
+- **[ICCV]** `SMKD` Self-Mutual Distillation Learning for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Hao_Self-Mutual_Distillation_Learning_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html)
+
 ##### Journal
 - **[TCSVT]** `SBD-RL` Semantic Boundary Detection With Reinforcement Learning for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/9106402)
 - **[Sensors]** `SLRGAN` Continuous Sign Language Recognition through a Context-Aware Generative Adversarial Network. [Paper](https://www.mdpi.com/1424-8220/21/7/2437)
 - **[IEEE TM]** `PiSLTRc` PiSLTRc: Position-Informed Sign Language Transformer with Content-Aware Convolution. [Paper](https://ieeexplore.ieee.org/abstract/document/9528010?casa_token=BGggtyj1xRwAAAAA:J9CxdVukp4J_Pqj_6A0Y_F0YYm9OgmHkHleLFaQ5TG9BI6gHVrHI_DdUkqvZC3LXPTqzAaVYDQ)
 - **[ESA]** `H-GAN` An optimized Generative Adversarial Network based continuous sign language classification. [Paper](https://www.sciencedirect.com/science/article/pii/S0957417421007077?casa_token=s44ja4hAVuIAAAAA:eM-qEtKbXx13wXSGe1uvnBaaeHpq2nE2qHalvgiPMnnid9ZsBJD6Fmv1Juou0cmoDT4VQxSIEG4)
-- **[ICCV]** `VAC` Visual Alignment Constraint for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)
+- **[IEEE TM]** `STMC-SLRT` Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [Paper](https://ieeexplore.ieee.org/abstract/document/9354538?casa_token=6GwJXPuM4KoAAAAA:voN-SsfLLaRZes_Z_ZoHow552I41YujlhVuoDxNLnl-ObGZfEPhHbUm7iOb5F-5J9GsYNEbo7g)
+- **[IEEE Access]** `SignBERT` SignBERT: A BERT-Based Deep Learning Framework for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/abstract/document/9635818) 
+
 
 #### 2020
 ##### Conference
@@ -406,10 +412,14 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[Deep Sign](https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44SUR_INST/storage/alma/11/B1/D7/EE/FE/33/9E/97/1B/8D/FF/9F/13/80/87/67/Koller_BMVC2016.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250104T222933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20250104%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d93fb750a40df90faad98c2a45f3ce2ffeebf0f93247af6f03ed51b2a7ac6a9f)          |2016  |CNN + HMM    |7.4     |RGB-Frames     |BMVC                     |-            |
 
 
-
+ 
 ### Results on PHOENIX-2014 dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
+|[MultiModal SignBERT](https://ieeexplore.ieee.org/abstract/document/9635818)          |2021  | (3+2+1)DCNN + BERT + LSTM   |20.2      |RGB-Frames     |IEEE Access                  |-            |
+|[STMC-SLRT](https://ieeexplore.ieee.org/abstract/document/9354538?casa_token=6GwJXPuM4KoAAAAA:voN-SsfLLaRZes_Z_ZoHow552I41YujlhVuoDxNLnl-ObGZfEPhHbUm7iOb5F-5J9GsYNEbo7g)          |2021  |2D-CNN + TempConv + BLSTM + CTC    |20.7      |RGB-Frames     |IEEE TM                  |-            |
+|[SMKD](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)          |2021  |CNN + BLSTM + CTC    |21.0      |RGB-Frames     |ICCV                  |-            |
+|[SignBERT](https://ieeexplore.ieee.org/abstract/document/9635818)          |2021  | (3+2+1)DCNN + BERT + LSTM   |21.4      |RGB-Frames     |IEEE Access                  |-            |
 |[CMAug](https://dl.acm.org/doi/abs/10.1145/3394171.3413931?casa_token=xSfegIdlgFMAAAAA:L5yZ-ien9d5yA8W9IT_Uxt_b_qUyySG_mvaM49cgDNKAGnzTH7i6gH1E1oTmtm5DlWpYjGRZxMUufQ)          |2020  |CNN-TCN + LSTM    |21.9      |RGB-Frames     |ACM MM                  |-            |
 |[VAC](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)          |2021  |CNN + BLSTM + CTC    |22.3      |RGB-Frames     |ICCV                  |-            |
 |[PiSLTRc](https://ieeexplore.ieee.org/abstract/document/9528010?casa_token=BGggtyj1xRwAAAAA:J9CxdVukp4J_Pqj_6A0Y_F0YYm9OgmHkHleLFaQ5TG9BI6gHVrHI_DdUkqvZC3LXPTqzAaVYDQ)          |2021  |CNN + Transformer    |23.2      |RGB-Frames     |IEEE TM          |-            |
