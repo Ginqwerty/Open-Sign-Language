@@ -390,7 +390,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
 |[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)          |2019  |CNN + BLSTM    |22.86      |RGB-Frames     |IEEE TM                  |-            |
 |[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN + BLSTM + HMM    |26.8     |RGB-Frames     |CVPR                     |-            |
-|[DPLD](https://ieeexplore.ieee.org/abstract/document/8784863?casa_token=PB1_yvyZouwAAAAA:lnaTKwd2UfJDjWkk2vkd08RMgtnDfbuWoE3eMNwjTHYGsYgK74XPlDS2osPhVvQaC2QdvKJHmA)          |2019  | I3D-BGRU-CTC    |34.5     |RGB-Frames     |ICME                     |-            |
+|[DPLD + TEM](https://ieeexplore.ieee.org/abstract/document/8784863?casa_token=PB1_yvyZouwAAAAA:lnaTKwd2UfJDjWkk2vkd08RMgtnDfbuWoE3eMNwjTHYGsYgK74XPlDS2osPhVvQaC2QdvKJHmA)          |2019  | I3D-BGRU-CTC    |34.5     |RGB-Frames     |ICME                     |-            |
 |[SF-Net(ResNet-18)](https://arxiv.org/abs/1908.01341)          |2019  | 2D3DCNN + LSTM + BLSTM   |34.9     |RGB-Frames     |ArXiv                     |-            |
 |[Align-iOpt](https://ieeexplore.ieee.org/document/8954236)          |2019  | 3D-ResNet + BLSTM + Attention-LSTM + CTC|36.7     |RGB-Frames     |CVPR                     |-            |
 |[DCN-IterativeOpt](https://pujunfu.github.io/publications/IJCAI2018Dilated/paper.pdf)          |2019  |3DCNN + CTC    |37.3     |RGB-Frames     |IJCAI                     |-            |
