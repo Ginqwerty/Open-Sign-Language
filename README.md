@@ -109,7 +109,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[Sensors]** Artificial Intelligence Technologies for Sign Language. [Paper](https://www.mdpi.com/1424-8220/21/17/5843)
 
 ***********************************************************************************************************************
-
 #### SLP Survey Papers
 #### 2024
 ##### Journal
@@ -135,7 +134,13 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ***********************************************************************************************************************
 ### SLR Papers
-**********************************************************************************************************************
+
+#### 2021
+##### Journal
+- **[TCSVT]** `SBD-RL` Semantic Boundary Detection With Reinforcement Learning for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/9106402)
+- **[Sensors]** `SLRGAN` Continuous Sign Language Recognition through a Context-Aware Generative Adversarial Network. [Paper](https://www.mdpi.com/1424-8220/21/7/2437)
+- **[IEEE TM]** `PiSLTRc` PiSLTRc: Position-Informed Sign Language Transformer with Content-Aware Convolution. [Paper](https://ieeexplore.ieee.org/abstract/document/9528010?casa_token=BGggtyj1xRwAAAAA:J9CxdVukp4J_Pqj_6A0Y_F0YYm9OgmHkHleLFaQ5TG9BI6gHVrHI_DdUkqvZC3LXPTqzAaVYDQ)
+
 #### 2020
 ##### Conference
 - **[ICPR]** `ISFT` Continuous Sign Language Recognition with Iterative Spatiotemporal Fine-Tuning. [Paper](https://ieeexplore.ieee.org/abstract/document/9412364?casa_token=aPxqQhLKsmAAAAAA:lZzpfURV_LnCzObhw5IOGXJwQDhCl-zuFJNF13_YO1nVZFIfbDcmnQccBGaE_LBCnJVhm3BclA)
@@ -403,12 +408,16 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ### Results on PHOENIX-2014 dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
-|[CMAug]([https://ieeexplore.ieee.org/document/8598757](https://dl.acm.org/doi/abs/10.1145/3394171.3413931?casa_token=xSfegIdlgFMAAAAA:L5yZ-ien9d5yA8W9IT_Uxt_b_qUyySG_mvaM49cgDNKAGnzTH7i6gH1E1oTmtm5DlWpYjGRZxMUufQ))          |2020  |CNN-TCN + LSTM    |21.9      |RGB-Frames     |ACM MM                  |-            |
+|[CMAug](https://dl.acm.org/doi/abs/10.1145/3394171.3413931?casa_token=xSfegIdlgFMAAAAA:L5yZ-ien9d5yA8W9IT_Uxt_b_qUyySG_mvaM49cgDNKAGnzTH7i6gH1E1oTmtm5DlWpYjGRZxMUufQ)          |2020  |CNN-TCN + LSTM    |21.9      |RGB-Frames     |ACM MM                  |-            |
 |[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)          |2019  |CNN + BLSTM    |22.86      |RGB-Frames     |IEEE TM                  |-            |
+|[PiSLTRc](https://ieeexplore.ieee.org/abstract/document/9528010?casa_token=BGggtyj1xRwAAAAA:J9CxdVukp4J_Pqj_6A0Y_F0YYm9OgmHkHleLFaQ5TG9BI6gHVrHI_DdUkqvZC3LXPTqzAaVYDQ)          |2021  |CNN + Transformer    |23.2      |RGB-Frames     |IEEE TM          |-            |
+|[SLRGAN](https://www.mdpi.com/1424-8220/21/7/2437)          |2021  |GAN    |23.4      |RGB-Frames     |Sensors |-            |
+|[IterativeTrain + SBD-RL](https://ieeexplore.ieee.org/document/9106402)          |2021  | - | 23.5    |RGB-Frames     |TCSVT         |-            |
 |[FCN](https://arxiv.org/pdf/2007.12402)          |2020  |FCN + GFE   |23.9      |RGB-Frames     |ECCV             |-            |
 |[CMA-TE](https://ieeexplore.ieee.org/abstract/document/9090828)          |2020  |CNN + BLSTM    |24.00      |RGB-Frames     |IEEE Access             |-            |
-|[SMS]([https://ieeexplore.ieee.org/document/8598757](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610171.pdf))          |2020  |2DCNN + Transformer    |25.3      |RGB-Frames     |ECCV                  |-            |
+|[SMS](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610171.pdf)          |2020  |2DCNN + Transformer    |25.3      |RGB-Frames     |ECCV                  |-            |
 |[Multi-Stream CLH](https://ieeexplore.ieee.org/abstract/document/8691602?casa_token=lP-Fkwedp_EAAAAA:dvSygKGlDR60MWhvjK7e3vClHtNB3mrLVCRp_Yov2z5ElEIpBRz-b_b9ge23QRLRFxi7DGku1Q)          |2020  | Multi-Stream CNN-LSTM-HMM    |26.0    |RGB-Frames     |TPAMI         |-            |
+|[SBD-RL](https://ieeexplore.ieee.org/document/9106402)          |2021  | CNN + BLSTM + CTC + RL |28.6    |RGB-Frames     |TCSVT         |-            |
 |[SAN](https://ieeexplore.ieee.org/document/9412916)          |2020  |2D-CNN + Transformer    |29.7     |RGB-Frames     |ICPR         |-            |
 |[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN + BLSTM + HMM    |26.8     |RGB-Frames     |CVPR                     |-            |
 |[SAFI](https://ebooks.iospress.nl/doi/10.3233/FAIA200425)          |2020  | (2+1)D-CNN + Self-Attention   |31.3     |RGB-Frames     | ECAI                    |-            |
