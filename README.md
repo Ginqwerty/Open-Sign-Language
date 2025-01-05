@@ -135,6 +135,11 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 ### SLR Papers
 
+#### 2022
+##### ArXiv
+- **[ArXiv]** `MSTN` Multi-View Spatial-Temporal Network for Continuous Sign Language Recognition. [Paper](https://arxiv.org/abs/2204.08747)
+
+  
 #### 2021
 ##### Conference
 - **[ICCV]** `VAC` Visual Alignment Constraint for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)
@@ -412,7 +417,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[Deep Sign](https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44SUR_INST/storage/alma/11/B1/D7/EE/FE/33/9E/97/1B/8D/FF/9F/13/80/87/67/Koller_BMVC2016.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250104T222933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20250104%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d93fb750a40df90faad98c2a45f3ce2ffeebf0f93247af6f03ed51b2a7ac6a9f)          |2016  |CNN + HMM    |7.4     |RGB-Frames     |BMVC                     |-            |
 
 
- 
+ - **[ArXiv]** `MSTN` Multi-View Spatial-Temporal Network for Continuous Sign Language Recognition. [Paper](https://arxiv.org/abs/2204.08747)
 ### Results on PHOENIX-2014 dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
@@ -422,6 +427,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[SignBERT](https://ieeexplore.ieee.org/abstract/document/9635818)          |2021  | (3+2+1)DCNN + BERT + LSTM   |21.4      |RGB-Frames     |IEEE Access                  |-            |
 |[CMAug](https://dl.acm.org/doi/abs/10.1145/3394171.3413931?casa_token=xSfegIdlgFMAAAAA:L5yZ-ien9d5yA8W9IT_Uxt_b_qUyySG_mvaM49cgDNKAGnzTH7i6gH1E1oTmtm5DlWpYjGRZxMUufQ)          |2020  |CNN-TCN + LSTM    |21.9      |RGB-Frames     |ACM MM                  |-            |
 |[VAC](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)          |2021  |CNN + BLSTM + CTC    |22.3      |RGB-Frames     |ICCV                  |-            |
+|[MSTN](https://arxiv.org/abs/2204.08747)          |2022  |Vit + GCN + Transformer + CTC    |22.8      |RGB-Frames, Skelenton-Keypoints     |ICCV                  |-            |
 |[PiSLTRc](https://ieeexplore.ieee.org/abstract/document/9528010?casa_token=BGggtyj1xRwAAAAA:J9CxdVukp4J_Pqj_6A0Y_F0YYm9OgmHkHleLFaQ5TG9BI6gHVrHI_DdUkqvZC3LXPTqzAaVYDQ)          |2021  |CNN + Transformer    |23.2      |RGB-Frames     |IEEE TM          |-            |
 |[SLRGAN](https://www.mdpi.com/1424-8220/21/7/2437)          |2021  |GAN    |23.4      |RGB-Frames     |Sensors |-            |
 |[IterativeTrain + SBD-RL](https://ieeexplore.ieee.org/document/9106402)          |2021  | - | 23.5    |RGB-Frames     |TCSVT         |-            |
