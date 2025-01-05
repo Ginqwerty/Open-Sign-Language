@@ -137,12 +137,16 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ### SLR Papers
 #### 2019
+##### Conference
+- **[MAHCI]** `CSLR-PL` Continuous Sign Language Recognition Based on Pseudo-Supervised Learning. [Paper](https://dl.acm.org/doi/abs/10.1145/3347319.3356837?casa_token=WD5tRGP4LhgAAAAA:3eMfuqCSDBd1DveZEyWaWyKiWHK-AMaWXh3JOc5N3a8fy1a28mcU7YCxThBLymSORu2BaLmH_WUrhg)
+
 ##### Journal
 - **[IEEE TM]** `IterativeTrain` A Deep Neural Framework for Continuous Sign Language Recognition by Iterative Training. [Paper](https://ieeexplore.ieee.org/document/8598757)
 
 #### 2018
 ##### Conference
 - **[IJCAI]** `DCN-IterativeOpt` Dilated Convolutional Network with Iterative Optimization for Continuous Sign Language Recognition. [Paper](https://pujunfu.github.io/publications/IJCAI2018Dilated/paper.pdf)
+- **[AAAI]** `LS-HAN` Video-based Sign Language Recognition Without Temporal Segmentation. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11903)
 
 #### 2017
 ##### Conference
@@ -382,6 +386,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[DCN-IterativeOpt](https://pujunfu.github.io/publications/IJCAI2018Dilated/paper.pdf)          |2019  |3DCNN-CTC    |37.3     |RGB-Frames     |IJCAI                     |-            |
 |[StagedOpt](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Recurrent_Convolutional_Neural_CVPR_2017_paper.html)          |2017  |CNN-BLSTM    |38.7     |RGB-Frames     |CVPR                    |-           |
 |[Deep Sign](https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44SUR_INST/storage/alma/11/B1/D7/EE/FE/33/9E/97/1B/8D/FF/9F/13/80/87/67/Koller_BMVC2016.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250104T222933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20250104%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d93fb750a40df90faad98c2a45f3ce2ffeebf0f93247af6f03ed51b2a7ac6a9f)          |2016  |CNN-HMM    |38.8     |RGB-Frames     |BMVC                     |-            |
+|[CSLR-PL](https://dl.acm.org/doi/abs/10.1145/3347319.3356837?casa_token=WD5tRGP4LhgAAAAA:3eMfuqCSDBd1DveZEyWaWyKiWHK-AMaWXh3JOc5N3a8fy1a28mcU7YCxThBLymSORu2BaLmH_WUrhg)          |2019  |3DCNN-BGRU-CTC    |40.6     |RGB-Frames     |MAHCI                    |-            |
 |[SubUNets](https://openaccess.thecvf.com/content_iccv_2017/html/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.html)          |2017  |CNN-BLSTM    |40.7     |RGB-Frames     |ICCV                    |[Avaliable](https://github.com/neccam/SubUNets)            |
 |[HamNoSys CSLR](https://www.researchgate.net/profile/Oscar-Koller/publication/299634721_Automatic_Alignment_of_HamNoSys_Subunits_for_Continuous_Sign_Language_Recognition/links/57038dd108ae646a9da99e79/Automatic-Alignment-of-HamNoSys-Subunits-for-Continuous-Sign-Language-Recognition.pdf)          |2016  |CNN-HMM    |45.1     |RGB-Frames     |LREC                     |-            |
 
