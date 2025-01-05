@@ -134,8 +134,18 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[Sensors]** Artificial Intelligence Technologies for Sign Language. [Paper](https://www.mdpi.com/1424-8220/21/17/5843)
 
 ***********************************************************************************************************************
-
 ### SLR Papers
+
+#### 2020
+##### Conference
+- **[ICPR]** `ISFT` Continuous Sign Language Recognition with Iterative Spatiotemporal Fine-Tuning. [Paper](https://ieeexplore.ieee.org/abstract/document/9412364?casa_token=aPxqQhLKsmAAAAAA:lZzpfURV_LnCzObhw5IOGXJwQDhCl-zuFJNF13_YO1nVZFIfbDcmnQccBGaE_LBCnJVhm3BclA)
+- **[ECAI]** `SAFI` Self-Attention-Based Fully-Inception Networks for Continuous Sign Language Recognition. [Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA200425)
+- **[ICPR]** `SAN` Context Matters: Self-Attention for Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/9412916)
+
+##### Journal
+- **[JCR]** Skeleton-Based Chinese Sign Language Recognition and Generation for Bidirectional Communication Between Deaf and Hearing People. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802030040X?casa_token=ja72CdvWb00AAAAA:ffcRBH9Whu94gknblx4W1SeLSGOW14SBo7U0OIBKokL-xkekUmbBoY5o62zVxFfpSojBno150hk)
+- **[TPAMI]** `Multi-Stream CLH` Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos. [Paper](https://ieeexplore.ieee.org/abstract/document/8691602?casa_token=lP-Fkwedp_EAAAAA:dvSygKGlDR60MWhvjK7e3vClHtNB3mrLVCRp_Yov2z5ElEIpBRz-b_b9ge23QRLRFxi7DGku1Q)
+
 #### 2019
 ##### Conference
 - **[MAHCI]** `CSLR-PL` Continuous Sign Language Recognition Based on Pseudo-Supervised Learning. [Paper](https://dl.acm.org/doi/abs/10.1145/3347319.3356837?casa_token=WD5tRGP4LhgAAAAA:3eMfuqCSDBd1DveZEyWaWyKiWHK-AMaWXh3JOc5N3a8fy1a28mcU7YCxThBLymSORu2BaLmH_WUrhg)
@@ -385,22 +395,30 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN + BLSTM + HMM    |4.8      |RGB-Frames     |CVPR                     |-            |
 |[Deep Sign](https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44SUR_INST/storage/alma/11/B1/D7/EE/FE/33/9E/97/1B/8D/FF/9F/13/80/87/67/Koller_BMVC2016.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250104T222933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20250104%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d93fb750a40df90faad98c2a45f3ce2ffeebf0f93247af6f03ed51b2a7ac6a9f)          |2016  |CNN + HMM    |7.4     |RGB-Frames     |BMVC                     |-            |
 
+
 ### Results on PHOENIX-2014 dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
 |[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)          |2019  |CNN + BLSTM    |22.86      |RGB-Frames     |IEEE TM                  |-            |
+|[Multi-Stream CLH](https://ieeexplore.ieee.org/abstract/document/8691602?casa_token=lP-Fkwedp_EAAAAA:dvSygKGlDR60MWhvjK7e3vClHtNB3mrLVCRp_Yov2z5ElEIpBRz-b_b9ge23QRLRFxi7DGku1Q)          |2020  | Multi-Stream
+CNN-LSTM-HMM    |26.0    |RGB-Frames     |TPAMI         |-            |
+|[SAN](https://ieeexplore.ieee.org/document/9412916)          |2020  |2D-CNN + Transformer    |29.7     |RGB-Frames     |ICPR         |-            |
 |[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN + BLSTM + HMM    |26.8     |RGB-Frames     |CVPR                     |-            |
+|[SAFI](https://ebooks.iospress.nl/doi/10.3233/FAIA200425)          |2020  | (2+1)D-CNN + Self-Attention   |31.3     |RGB-Frames     | ECAI                    |-            |
+[ISFT](https://ieeexplore.ieee.org/abstract/document/9412364?casa_token=aPxqQhLKsmAAAAAA:lZzpfURV_LnCzObhw5IOGXJwQDhCl-zuFJNF13_YO1nVZFIfbDcmnQccBGaE_LBCnJVhm3BclA)          |2020  | (2+1)D-CNN + BLSTM   |34.4    |RGB-Frames     |ICPR                     |-            |
 |[DPLD + TEM](https://ieeexplore.ieee.org/abstract/document/8784863?casa_token=PB1_yvyZouwAAAAA:lnaTKwd2UfJDjWkk2vkd08RMgtnDfbuWoE3eMNwjTHYGsYgK74XPlDS2osPhVvQaC2QdvKJHmA)          |2019  | I3D-BGRU-CTC    |34.5     |RGB-Frames     |ICME                     |-            |
 |[SF-Net(ResNet-18)](https://arxiv.org/abs/1908.01341)          |2019  | 2D3DCNN + LSTM + BLSTM   |34.9     |RGB-Frames     |ArXiv                     |-            |
 |[Align-iOpt](https://ieeexplore.ieee.org/document/8954236)          |2019  | 3D-ResNet + BLSTM + Attention-LSTM + CTC|36.7     |RGB-Frames     |CVPR                     |-            |
 |[DCN-IterativeOpt](https://pujunfu.github.io/publications/IJCAI2018Dilated/paper.pdf)          |2019  |3DCNN + CTC    |37.3     |RGB-Frames     |IJCAI                     |-            |
 |[CSLR-RL](https://ieeexplore.ieee.org/abstract/document/8802972?casa_token=AqKmDYqrWu0AAAAA:SIAqXsquMqEz3cqHHGiRdwghEW5pYApCEVFA5Fi-smg6yqBiI0DpuXN5EMbPinmI_w_15v7Ljg)          |2019  | 3D-ResNet + Transformer   |38.3     |RGB-Frames     |ICIP                    |-           |
+|[LS-HAN](https://ojs.aaai.org/index.php/AAAI/article/view/11903)          |2018  | CNN + LS + HAN  |38.3     |RGB-Frames     |AAAI                    |-           |
 |[StagedOpt](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Recurrent_Convolutional_Neural_CVPR_2017_paper.html)          |2017  |CNN + BLSTM    |38.7     |RGB-Frames     |CVPR                    |-           |
 |[Deep Sign](https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44SUR_INST/storage/alma/11/B1/D7/EE/FE/33/9E/97/1B/8D/FF/9F/13/80/87/67/Koller_BMVC2016.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250104T222933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20250104%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d93fb750a40df90faad98c2a45f3ce2ffeebf0f93247af6f03ed51b2a7ac6a9f)          |2016  |CNN + HMM    |38.8     |RGB-Frames     |BMVC                     |-            |
 |[CSLR-PL](https://dl.acm.org/doi/abs/10.1145/3347319.3356837?casa_token=WD5tRGP4LhgAAAAA:3eMfuqCSDBd1DveZEyWaWyKiWHK-AMaWXh3JOc5N3a8fy1a28mcU7YCxThBLymSORu2BaLmH_WUrhg)          |2019  |3DCNN + BGRU + CTC    |40.6     |RGB-Frames     |MAHCI                    |-            |
 |[SubUNets](https://openaccess.thecvf.com/content_iccv_2017/html/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.html)          |2017  |CNN + BLSTM    |40.7     |RGB-Frames     |ICCV                    |[Avaliable](https://github.com/neccam/SubUNets)            |
 |[HamNoSys CSLR](https://www.researchgate.net/profile/Oscar-Koller/publication/299634721_Automatic_Alignment_of_HamNoSys_Subunits_for_Continuous_Sign_Language_Recognition/links/57038dd108ae646a9da99e79/Automatic-Alignment-of-HamNoSys-Subunits-for-Continuous-Sign-Language-Recognition.pdf)          |2016  |CNN + HMM    |45.1     |RGB-Frames     |LREC                     |-            |
 
+- **[ECAI]** `SAFI` Self-Attention-Based Fully-Inception Networks for Continuous Sign Language Recognition. [Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA200425)
 
 
 ### Results on PHOENIX-2014T dataset
