@@ -140,6 +140,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[MAHCI]** `CSLR-PL` Continuous Sign Language Recognition Based on Pseudo-Supervised Learning. [Paper](https://dl.acm.org/doi/abs/10.1145/3347319.3356837?casa_token=WD5tRGP4LhgAAAAA:3eMfuqCSDBd1DveZEyWaWyKiWHK-AMaWXh3JOc5N3a8fy1a28mcU7YCxThBLymSORu2BaLmH_WUrhg)
 - **[ICIP]** `CSLR-RL` Continuous Sign Language Recognition via Reinforcement Learning. [Paper](https://ieeexplore.ieee.org/abstract/document/8802972?casa_token=AqKmDYqrWu0AAAAA:SIAqXsquMqEz3cqHHGiRdwghEW5pYApCEVFA5Fi-smg6yqBiI0DpuXN5EMbPinmI_w_15v7Ljg)
+- **[CVPR]** `Align-iOpt` Iterative Alignment Network for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/8954236) 
 
 ##### Journal
 - **[IEEE TM]** `IterativeTrain` A Deep Neural Framework for Continuous Sign Language Recognition by Iterative Training. [Paper](https://ieeexplore.ieee.org/document/8598757)
@@ -384,6 +385,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
 |[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)          |2019  |CNN + BLSTM    |22.86      |RGB-Frames     |IEEE TM                  |-            |
 |[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN + BLSTM + HMM    |26.8     |RGB-Frames     |CVPR                     |-            |
+|[Align-iOpt](https://ieeexplore.ieee.org/document/8954236)          |2019  | 3D-ResNet + BLSTM(Encoder) + LSTM(Decoder) + CTC   |36.7     |RGB-Frames     |CVPR                     |-            |
 |[DCN-IterativeOpt](https://pujunfu.github.io/publications/IJCAI2018Dilated/paper.pdf)          |2019  |3DCNN + CTC    |37.3     |RGB-Frames     |IJCAI                     |-            |
 |[CSLR-RL](https://ieeexplore.ieee.org/abstract/document/8802972?casa_token=AqKmDYqrWu0AAAAA:SIAqXsquMqEz3cqHHGiRdwghEW5pYApCEVFA5Fi-smg6yqBiI0DpuXN5EMbPinmI_w_15v7Ljg)          |2019  | 3D-ResNet + Transformer   |38.3     |RGB-Frames     |ICIP                    |-           |
 |[StagedOpt](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Recurrent_Convolutional_Neural_CVPR_2017_paper.html)          |2017  |CNN + BLSTM    |38.7     |RGB-Frames     |CVPR                    |-           |
@@ -393,6 +395,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[HamNoSys CSLR](https://www.researchgate.net/profile/Oscar-Koller/publication/299634721_Automatic_Alignment_of_HamNoSys_Subunits_for_Continuous_Sign_Language_Recognition/links/57038dd108ae646a9da99e79/Automatic-Alignment-of-HamNoSys-Subunits-for-Continuous-Sign-Language-Recognition.pdf)          |2016  |CNN + HMM    |45.1     |RGB-Frames     |LREC                     |-            |
 
 
+- **[CVPR]** `Align-iOpt` Iterative Alignment Network for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/8954236) 
 
 ### Results on PHOENIX-2014T dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
