@@ -385,7 +385,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
 |[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)          |2019  |CNN + BLSTM    |22.86      |RGB-Frames     |IEEE TM                  |-            |
 |[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN + BLSTM + HMM    |26.8     |RGB-Frames     |CVPR                     |-            |
-|[Align-iOpt](https://ieeexplore.ieee.org/document/8954236)          |2019  | 3D-ResNet + BLSTM(Encoder) + LSTM(Decoder) + CTC   |36.7     |RGB-Frames     |CVPR                     |-            |
+|[Align-iOpt](https://ieeexplore.ieee.org/document/8954236)          |2019  | 3D-ResNet + BLSTM + LSTM + CTC|36.7     |RGB-Frames     |CVPR                     |-            |
 |[DCN-IterativeOpt](https://pujunfu.github.io/publications/IJCAI2018Dilated/paper.pdf)          |2019  |3DCNN + CTC    |37.3     |RGB-Frames     |IJCAI                     |-            |
 |[CSLR-RL](https://ieeexplore.ieee.org/abstract/document/8802972?casa_token=AqKmDYqrWu0AAAAA:SIAqXsquMqEz3cqHHGiRdwghEW5pYApCEVFA5Fi-smg6yqBiI0DpuXN5EMbPinmI_w_15v7Ljg)          |2019  | 3D-ResNet + Transformer   |38.3     |RGB-Frames     |ICIP                    |-           |
 |[StagedOpt](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Recurrent_Convolutional_Neural_CVPR_2017_paper.html)          |2017  |CNN + BLSTM    |38.7     |RGB-Frames     |CVPR                    |-           |
