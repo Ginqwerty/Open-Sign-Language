@@ -143,7 +143,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ICPR]** `SAN` Context Matters: Self-Attention for Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/9412916)
 - **[ECCV]** `SMS` Stochastic Fine-Grained Labeling of Multi-State Sign Glosses for Continuous Sign Language Recognition. [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610171.pdf)
 - **[ECCV]** `FCN` Fully Convolutional Networks for Continuous Sign Language Recognition. [Paper](https://arxiv.org/pdf/2007.12402)
-- **[ACM MM]** `CMA` Boosting Continuous Sign Language Recognition via Cross Modality Augmentation. [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413931?casa_token=xSfegIdlgFMAAAAA:L5yZ-ien9d5yA8W9IT_Uxt_b_qUyySG_mvaM49cgDNKAGnzTH7i6gH1E1oTmtm5DlWpYjGRZxMUufQ)
+- **[ACM MM]** `CMAug` Boosting Continuous Sign Language Recognition via Cross Modality Augmentation. [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413931?casa_token=xSfegIdlgFMAAAAA:L5yZ-ien9d5yA8W9IT_Uxt_b_qUyySG_mvaM49cgDNKAGnzTH7i6gH1E1oTmtm5DlWpYjGRZxMUufQ)
 
 ##### Journal
 - **[JCR]** Skeleton-Based Chinese Sign Language Recognition and Generation for Bidirectional Communication Between Deaf and Hearing People. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802030040X?casa_token=ja72CdvWb00AAAAA:ffcRBH9Whu94gknblx4W1SeLSGOW14SBo7U0OIBKokL-xkekUmbBoY5o62zVxFfpSojBno150hk)
@@ -403,6 +403,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ### Results on PHOENIX-2014 dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
+|[CMAug]([https://ieeexplore.ieee.org/document/8598757](https://dl.acm.org/doi/abs/10.1145/3394171.3413931?casa_token=xSfegIdlgFMAAAAA:L5yZ-ien9d5yA8W9IT_Uxt_b_qUyySG_mvaM49cgDNKAGnzTH7i6gH1E1oTmtm5DlWpYjGRZxMUufQ))          |2020  |CNN-TCN + LSTM    |21.9      |RGB-Frames     |ACM MM                  |-            |
 |[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)          |2019  |CNN + BLSTM    |22.86      |RGB-Frames     |IEEE TM                  |-            |
 |[FCN](https://arxiv.org/pdf/2007.12402)          |2020  |FCN + GFE   |23.9      |RGB-Frames     |ECCV             |-            |
 |[CMA-TE](https://ieeexplore.ieee.org/abstract/document/9090828)          |2020  |CNN + BLSTM    |24.00      |RGB-Frames     |IEEE Access             |-            |
