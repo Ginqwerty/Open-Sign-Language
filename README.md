@@ -400,8 +400,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
 |[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)          |2019  |CNN + BLSTM    |22.86      |RGB-Frames     |IEEE TM                  |-            |
-|[Multi-Stream CLH](https://ieeexplore.ieee.org/abstract/document/8691602?casa_token=lP-Fkwedp_EAAAAA:dvSygKGlDR60MWhvjK7e3vClHtNB3mrLVCRp_Yov2z5ElEIpBRz-b_b9ge23QRLRFxi7DGku1Q)          |2020  | Multi-Stream
-CNN-LSTM-HMM    |26.0    |RGB-Frames     |TPAMI         |-            |
+|[Multi-Stream CLH](https://ieeexplore.ieee.org/abstract/document/8691602?casa_token=lP-Fkwedp_EAAAAA:dvSygKGlDR60MWhvjK7e3vClHtNB3mrLVCRp_Yov2z5ElEIpBRz-b_b9ge23QRLRFxi7DGku1Q)          |2020  | Multi-Stream CNN-LSTM-HMM    |26.0    |RGB-Frames     |TPAMI         |-            |
 |[SAN](https://ieeexplore.ieee.org/document/9412916)          |2020  |2D-CNN + Transformer    |29.7     |RGB-Frames     |ICPR         |-            |
 |[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN + BLSTM + HMM    |26.8     |RGB-Frames     |CVPR                     |-            |
 |[SAFI](https://ebooks.iospress.nl/doi/10.3233/FAIA200425)          |2020  | (2+1)D-CNN + Self-Attention   |31.3     |RGB-Frames     | ECAI                    |-            |
