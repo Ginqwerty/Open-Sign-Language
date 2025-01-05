@@ -135,7 +135,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ***********************************************************************************************************************
 ### SLR Papers
-
+**********************************************************************************************************************
 #### 2020
 ##### Conference
 - **[ICPR]** `ISFT` Continuous Sign Language Recognition with Iterative Spatiotemporal Fine-Tuning. [Paper](https://ieeexplore.ieee.org/abstract/document/9412364?casa_token=aPxqQhLKsmAAAAAA:lZzpfURV_LnCzObhw5IOGXJwQDhCl-zuFJNF13_YO1nVZFIfbDcmnQccBGaE_LBCnJVhm3BclA)
