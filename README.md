@@ -444,6 +444,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 </details>
 
 ## Leaderboard
+**********************************************************************************************************************
 ### SLR
 ### Results on SIGNUM dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
@@ -451,7 +452,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)          |2019  |CNN + BLSTM    |2.8      |RGB-Frames     |IEEE TM                  |-            |
 |[Re-Sign](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)          |2017  |CNN + BLSTM + HMM    |4.8      |RGB-Frames     |CVPR                     |-            |
 |[Deep Sign](https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44SUR_INST/storage/alma/11/B1/D7/EE/FE/33/9E/97/1B/8D/FF/9F/13/80/87/67/Koller_BMVC2016.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250104T222933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20250104%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d93fb750a40df90faad98c2a45f3ce2ffeebf0f93247af6f03ed51b2a7ac6a9f)          |2016  |CNN + HMM    |7.4     |RGB-Frames     |BMVC                     |-            |
-
 
 
 ### Results on PHOENIX-2014 dataset
@@ -532,9 +532,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[PA-CMA](https://ieeexplore.ieee.org/abstract/document/10105511)          |2023  | CNN-TCN + BLSTM + CTC   | 28.7     |RGB-Frames     |IEEE TM       |-            |
 |[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 30.1     |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
 
-
-### SLT
 **********************************************************************************************************************
+### SLT
+
 ### Results on Phoenix-2014T dataset
 #### Gloss-based
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal     | Code    |
