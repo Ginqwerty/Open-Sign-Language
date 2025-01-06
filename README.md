@@ -136,16 +136,30 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 ### SLR Papers
 
+#### 2024
+##### Journal
+- **[PR]** Scalable Frame Resolution for Efficient Continuous Sign Language Recognition. [Paper](https://dl.acm.org/doi/abs/10.1016/j.patcog.2023.109903)
+
 #### 2023
 ##### Conference
 - **[AAAI]** `SEN` Self-Emphasizing Network for Continuous Sign Language Recognition. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25164)
 - **[ACM MM]** `AdaBrowse` AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition. [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611745)
 - **[ICASSP]** `DFConv` Self-Sufficient Framework for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/abstract/document/10095732)
 - **[CVPR]** `CTCA` Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)
+- **[CVPR]** `CVT-SLR` CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) | [Code](https://github.com/binbinjiang/CVT-SLR)
+- **[ICCV]** `CoSign` CoSign: Exploring Co-Occurrence Signals in Skeleton-Based Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)
+- **[ICCV]** `C²ST` C<sup>2</sup>2ST: Cross-Modal Contextualized Sequence Transduction for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)
+- **[ICCV]** `Cross-Ling` Improving Continuous Sign Language Recognition with Cross-Lingual Signs. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Improving_Continuous_Sign_Language_Recognition_with_Cross-Lingual_Signs_ICCV_2023_paper.html) 
+- **[NeurIPS]** `TwoStream-SLT` Two-Stream Network for Sign Language Recognition and Translation. [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)
+
 
 ##### Journal
 - **[AJSE]** `TSRNet` Continuous Sign Language Recognition via Temporal Super-Resolution Network. [Paper](https://arxiv.org/pdf/2207.00928)
 - **[PR]** `mLTSF-Net` Multi-Scale Local-Temporal Similarity Fusion for Continuous Sign Language Recognition. [Paper](https://arxiv.org/pdf/2107.12762)
+- **[IEEE TM]** `Multilingual-CSLR` Collaborative Multilingual Continuous Sign Language Recognition: A Unified Framework. [Paper](https://ieeexplore.ieee.org/abstract/document/9954921)
+- **[IEEE TM]** `PA-CMA` Prior-Aware Cross Modality Augmentation Learning for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/abstract/document/10105511)
+- **[CIS]** `STTN` Spatial–Temporal Transformer for End-to-End Sign Language Recognition. [Paper](https://link.springer.com/content/pdf/10.1007/s40747-023-00977-w.pdf)
+
 
 #### 2022
 ##### Conference
@@ -300,6 +314,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2023
 ##### Conference
 - **[CVPR]** `GASLT` Gloss Attention for Gloss-Free Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)|[Code](https://github.com/YinAoXiong/GASLT)
+- **[CVPR]** `CorrNet` Continuous Sign Language Recognition with Correlation Network. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html) | [Code](https://github.com/hulianyuyy/CorrNet)
 - **[ICCV]** `GFSLT-VLP` Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)|[Code](https://github.com/zhoubenjia/GFSLT-VLP)
 - **[ICCV]** `IP-SLT` Sign Language Translation with Iterative Prototype. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)
 - **[ICLR]** `SLTUNET` SLTUNET: A Simple Unified Model for Sign Language Translation. [Paper](https://arxiv.org/abs/2305.01778)|[Code](https://github.com/bzhangGo/sltunet)
@@ -425,7 +440,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
   ##### Conference
   - **[BMVC 2018]** Sign Language Production using Neural Machine Translation and Generative Adversarial Networks. [Paper](https://d1wqtxts1xzle7.cloudfront.net/82179482/0906-libre.pdf?1647335598=&response-content-disposition=inline%3B+filename%3DSign_Language_Production_Using_Neural_Ma.pdf&Expires=1735083159&Signature=PqXBi-RC7J7Wx3towVVQfjte12~5pYISgQEePLlAMSNpdQk3mRogSC3YPPpZrHSDCUWF6JfGnGgMo-Oql050Mwz2ObfqkO6KEY6vTe3b25zUIP3HCnwWLMrxnr72LIhyO-17QE6Kt~etKxg48LzCnh9wCSN6uM5IbBkjetxtdeJ-Kw7OuXL5gcKZ-Zduxw99D7SVinzBHZ4~Z5y48SR5feBXMN7fIdqpyuzGF9MeAoauSXEfXN2xOr4m2~aI-0EP9bCvtD2M5J1SmojmbpXYL~7vT1CMqLOEKkBdULONElsrqBkImamhIsmy0paiayJblEmgjRBYlsHOG7-GJiC05w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
-  
 
 </details>
 
@@ -440,11 +454,18 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 
 
-
 ### Results on PHOENIX-2014 dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
+|[Cross-Ling](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Improving_Continuous_Sign_Language_Recognition_with_Cross-Lingual_Signs_ICCV_2023_paper.html)       |2023  | -  |16.7     |RGB-Frames     |ICCV            |-            |
+|[C²ST](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)       |2023  | -  |17.7     |RGB-Frames     |ICCV            |-            |
 |[CA-SignBERT](https://ieeexplore.ieee.org/abstract/document/9860060)          |2022  |  (3+2+1)D ResNet + BERT + BLSTM + CTC  |18.6     |RGB-Frames     |IEEE SPL             |-            |
+|[TwoStream-SLT](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)          |2023  | S3D + CTC  |18.8     |RGB-Frames, Skeleton-Keypoints     |  NeurIPS     |-            |
+|[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 19.4     |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
+|[STTN](https://link.springer.com/content/pdf/10.1007/s40747-023-00977-w.pdf)          |2023  | Transformer   | 19.98     |RGB-Frames     |CIS             |-            |
+|[PA-CMA](https://ieeexplore.ieee.org/abstract/document/10105511)          |2023  | CNN-TCN + BLSTM + CTC   | 20.0     |RGB-Frames     |IEEE TM       |-            |
+|[CoSign-2s](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)          |2023  | GCN + CNN + BLSTM   |20.1     |RGB-Frames, Skeleton-Keypoints     |ICCV             |-            |
+|[CVT-SLR](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html)          |2023  | CNN + MLP + Self-Attention + CTC  |20.1     |RGB-Frames   |CVPR      |  [Available](https://github.com/binbinjiang/CVT-SLR)          |
 |[RadialCTC](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660234.pdf)          |2022  | -  |20.2      |RGB-Frames     |ECCV             |-            |
 |[MultiModal SignBERT](https://ieeexplore.ieee.org/abstract/document/9635818)          |2021  | (3+2+1)DCNN + BERT + LSTM   |20.2      |RGB-Frames     |IEEE Access                  |-            |
 |[CTCA](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)          |2023  | CNN + 1D-TCN + BLSTM + CTC  | 20.3      |RGB-Frames     |CVPR         |-            |
@@ -453,11 +474,12 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[AdaBrowse](https://dl.acm.org/doi/abs/10.1145/3581783.3611745)          |2023  |CNN + BLSTM    |20.7      |RGB-Frames     |ACM MM             |-            |
 |[DFConv](https://ieeexplore.ieee.org/abstract/document/10095732)          |2023  | CNN + ME + BLSTM |20.8      |RGB-Frames     |ICASSP                 |-            |
 |[TLP](https://arxiv.org/pdf/2207.08734)          |2022  | CNN + BLSTM + CTC    |20.8      |RGB-Frames     |ECCV                 |[Available](https://github.com/hulianyuyy/Temporal-Lift-Pooling)            |
+|[Multilingual-CSLR](https://ieeexplore.ieee.org/abstract/document/9954921)          |2023  | CNN + BLSTM + CTC |20.9      |RGB-Frames     |IEEE TM      |-            |
 |[SEN](https://ojs.aaai.org/index.php/AAAI/article/view/25164)         |2023  |CNN + BLSTM  |21.0      |RGB-Frames     |AAAI                |-            |
 |[SMKD](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)          |2021  |CNN + BLSTM + CTC    |21.0      |RGB-Frames     |ICCV                |-            |
 |[SignBERT](https://ieeexplore.ieee.org/abstract/document/9635818)          |2021  | (3+2+1)DCNN + BERT + LSTM   |21.4      |RGB-Frames     |IEEE Access                  |-            |
 |[MSTNet](https://ui.adsabs.harvard.edu/abs/2024JEI....33b3059Z/abstract)          |2022  | CNN + Transformer   |21.4      |RGB-Frames     |ArXiv           |-            |
-|[STAMF](https://www.mdpi.com/1424-8220/22/17/6452)          |2022  |CNN + MHA + BLSTM + CTC|21.5      |RGB-Frames, Skeleton-Keypoints     |Sensors                  |-            |
+|[STAMF](https://www.mdpi.com/1424-8220/22/17/6452)          |2022  |CNN + MHA + BLSTM + CTC| 21.5      |RGB-Frames, Skeleton-Keypoints     |Sensors                  |-            |
 |[LCSA](https://drive.google.com/file/d/1lMWfTHN_iE2uzimMy3dLO-W-jm9YRm9f/view)          |2022  |VGGNet + Transformer   |21.9      |RGB-Frames     |ISCA                 |-            |
 |[CMAug](https://dl.acm.org/doi/abs/10.1145/3394171.3413931?casa_token=xSfegIdlgFMAAAAA:L5yZ-ien9d5yA8W9IT_Uxt_b_qUyySG_mvaM49cgDNKAGnzTH7i6gH1E1oTmtm5DlWpYjGRZxMUufQ)          |2020  |CNN-TCN + LSTM    |21.9      |RGB-Frames     |ACM MM                  |-            |
 |[VAC](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)          |2021  |CNN + BLSTM + CTC    |22.3      |RGB-Frames     |ICCV                  |-            |
@@ -494,6 +516,22 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ### Results on PHOENIX-2014T dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
+|[C²ST](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)       |2023  | -  |18.9     |RGB-Frames     |ICCV            |-            |
+|[TwoStream-SLT](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)          |2023  | S3D + CTC  |19.3     |RGB-Frames, Skeleton-Keypoints     |  NeurIPS     |-            |
+|[PA-CMA](https://ieeexplore.ieee.org/abstract/document/10105511)          |2023  | CNN-TCN + BLSTM + CTC   | 20.0     |RGB-Frames     |IEEE TM       |-            |
+|[CoSign-2s](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)          |2023  | GCN + CNN + BLSTM   |20.1     |RGB-Frames, Skeleton-Keypoints     |ICCV             |-            |
+|[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 20.5     |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
+
+
+### Results on CSL-Daily dataset
+| Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
+|-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
+|[TwoStream-SLT](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)          |2023  | S3D + CTC  |25.3     |RGB-Frames, Skeleton-Keypoints     |  NeurIPS     |-            |
+|[C²ST](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)       |2023  | -  | 25.8     |RGB-Frames     |ICCV            |-            |
+|[CoSign-2s](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)          |2023  | GCN + CNN + BLSTM   |27.2     |RGB-Frames, Skeleton-Keypoints     |ICCV             |-            |
+|[PA-CMA](https://ieeexplore.ieee.org/abstract/document/10105511)          |2023  | CNN-TCN + BLSTM + CTC   | 28.7     |RGB-Frames     |IEEE TM       |-            |
+|[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 30.1     |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
+
 
 ### SLT
 **********************************************************************************************************************
