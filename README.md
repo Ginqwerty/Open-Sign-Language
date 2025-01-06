@@ -446,8 +446,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
 |[CA-SignBERT](https://ieeexplore.ieee.org/abstract/document/9860060)          |2022  |  (3+2+1)D ResNet + BERT + BLSTM + CTC  |18.6     |RGB-Frames     |IEEE SPL             |-            |
 |[RadialCTC](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660234.pdf)          |2022  | -  |20.2      |RGB-Frames     |ECCV             |-            |
-|[CTCA](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)          |2023  | CNN + 1D-TCN + BLSTM + CTC  | 20.3      |RGB-Frames     |CVPR         |-            |
 |[MultiModal SignBERT](https://ieeexplore.ieee.org/abstract/document/9635818)          |2021  | (3+2+1)DCNN + BERT + LSTM   |20.2      |RGB-Frames     |IEEE Access                  |-            |
+|[CTCA](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)          |2023  | CNN + 1D-TCN + BLSTM + CTC  | 20.3      |RGB-Frames     |CVPR         |-            |
 |[C²SLR](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html)          |2022  | -   |20.4      |RGB-Frames     |CVPR                |-            |
 |[STMC-SLRT](https://ieeexplore.ieee.org/abstract/document/9354538?casa_token=6GwJXPuM4KoAAAAA:voN-SsfLLaRZes_Z_ZoHow552I41YujlhVuoDxNLnl-ObGZfEPhHbUm7iOb5F-5J9GsYNEbo7g)          |2021  |2D-CNN + TempConv + BLSTM + CTC    |20.7      |RGB-Frames     |IEEE TM                  |-            |
 |[AdaBrowse](https://dl.acm.org/doi/abs/10.1145/3581783.3611745)          |2023  |CNN + BLSTM    |20.7      |RGB-Frames     |ACM MM             |-            |
