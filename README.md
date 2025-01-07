@@ -557,7 +557,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
 |[C²SLR + SRM](https://dl.acm.org/doi/pdf/10.1145/3640815)          |2024  | -   |0.68     |RGB-Frames     |ACM TOMM                |[Available](https://github.com/2000ZRL/LCSA_C2SLR_SRM)           |
 |[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 0.8    |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
-|[SEN](https://ojs.aaai.org/index.php/AAAI/article/view/25164)         |2023  |CNN + BLSTM  |21.0      |RGB-Frames     |AAAI                |-            |
+|[SEN](https://ojs.aaai.org/index.php/AAAI/article/view/25164)         |2023  |CNN + BLSTM  |0.8  |RGB-Frames     |AAAI                |-            |
 |[C²SLR](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html)          |2022  | -   |0.9     |RGB-Frames     |CVPR                |-            |
 |[VAC](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)          |2021  |CNN + BLSTM + CTC    |1.6      |RGB-Frames     |ICCV                  |-            |
 |[STMC](https://ojs.aaai.org/index.php/AAAI/article/view/7001)          |2020  |CNN + BLSTM + CTC    |2.1      |RGB-Frames     |AAAI                  |-            |
