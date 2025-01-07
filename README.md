@@ -139,6 +139,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2024
 ##### Journal
 - **[PR]** Scalable Frame Resolution for Efficient Continuous Sign Language Recognition. [Paper](https://dl.acm.org/doi/abs/10.1016/j.patcog.2023.109903)
+- **[ACM TOMM]**  `SRM` Improving Continuous Sign Language Recognition with Consistency Constraints and Signer Removal. [Paper](https://dl.acm.org/doi/pdf/10.1145/3640815) | [Code](https://github.com/2000ZRL/LCSA_C2SLR_SRM)
 
 #### 2023
 ##### Conference
@@ -231,6 +232,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[CVPR]** `ReSign` Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs. [Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html)
 - **[ICCV]** `SubUNets` SubUNets: End-to-End Hand Shape and Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content_iccv_2017/html/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.html) | [Code](https://github.com/neccam/SubUNets)
 - **[CVPR]** `StagedOpt` Recurrent Convolutional Neural Networks for Continuous Sign Language Recognition by Staged Optimization. [Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Recurrent_Convolutional_Neural_CVPR_2017_paper.html)
+
+##### Journal
+- **[CMRA]** `Openpose-LSTM` Towards Continuous Sign Language Recognition with Deep Learning. [Paper](https://homepages.inf.ed.ac.uk/hhastie2/pubs/humanoids.pdf)
+
 
 #### 2016
 ##### Conference
