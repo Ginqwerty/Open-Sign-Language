@@ -550,9 +550,12 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[PA-CMA](https://ieeexplore.ieee.org/abstract/document/10105511)          |2023  | CNN-TCN + BLSTM + CTC   | 28.7     |RGB-Frames     |IEEE TM       |-            |
 |[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 30.1     |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
 
+
+
 ### Results on CSL-Split I dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
+|[C²SLR + SRM](https://dl.acm.org/doi/pdf/10.1145/3640815)          |2024  | -   |0.68     |RGB-Frames     |ACM TOMM                |[Available](https://github.com/2000ZRL/LCSA_C2SLR_SRM)           |
 |[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 0.8    |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
 |[C²SLR](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html)          |2022  | -   |0.9     |RGB-Frames     |CVPR                |-            |
 |[VAC](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)          |2021  |CNN + BLSTM + CTC    |1.6      |RGB-Frames     |ICCV                  |-            |
