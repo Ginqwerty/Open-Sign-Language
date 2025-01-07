@@ -202,6 +202,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ACM MM]** `CMAug` Boosting Continuous Sign Language Recognition via Cross Modality Augmentation. [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413931?casa_token=xSfegIdlgFMAAAAA:L5yZ-ien9d5yA8W9IT_Uxt_b_qUyySG_mvaM49cgDNKAGnzTH7i6gH1E1oTmtm5DlWpYjGRZxMUufQ)
 - **[CVPR]** `SL-Transf` Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation.  
     [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf) | [Code](https://github.com/neccam/nslt)
+- **[AAAI]** `STMC` Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/7001) 
 
 ##### Journal
 - **[JCR]** Skeleton-Based Chinese Sign Language Recognition and Generation for Bidirectional Communication Between Deaf and Hearing People. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802030040X?casa_token=ja72CdvWb00AAAAA:ffcRBH9Whu94gknblx4W1SeLSGOW14SBo7U0OIBKokL-xkekUmbBoY5o62zVxFfpSojBno150hk)
@@ -214,6 +215,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ICIP]** `CSLR-RL` Continuous Sign Language Recognition via Reinforcement Learning. [Paper](https://ieeexplore.ieee.org/abstract/document/8802972?casa_token=AqKmDYqrWu0AAAAA:SIAqXsquMqEz3cqHHGiRdwghEW5pYApCEVFA5Fi-smg6yqBiI0DpuXN5EMbPinmI_w_15v7Ljg)
 - **[CVPR]** `Align-iOpt` Iterative Alignment Network for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/8954236)
 -  **[ICME]** `DPLD` Dynamic Pseudo Label Decoding for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/abstract/document/8784863?casa_token=PB1_yvyZouwAAAAA:lnaTKwd2UfJDjWkk2vkd08RMgtnDfbuWoE3eMNwjTHYGsYgK74XPlDS2osPhVvQaC2QdvKJHmA)
+-  **[BigMM]** `WIC-NGC` Deep Grammatical Multi-classifier for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/8919458)
 
 ##### Journal
 - **[IEEE TM]** `IterativeTrain` A Deep Neural Framework for Continuous Sign Language Recognition by Iterative Training. [Paper](https://ieeexplore.ieee.org/document/8598757)
@@ -547,6 +549,29 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[CoSign-2s](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)          |2023  | GCN + CNN + BLSTM   |27.2     |RGB-Frames, Skeleton-Keypoints     |ICCV             |-            |
 |[PA-CMA](https://ieeexplore.ieee.org/abstract/document/10105511)          |2023  | CNN-TCN + BLSTM + CTC   | 28.7     |RGB-Frames     |IEEE TM       |-            |
 |[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 30.1     |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
+
+### Results on CSL-Split I dataset
+| Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
+|-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
+|[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 0.8    |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
+|[C²SLR](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html)          |2022  | -   |0.9     |RGB-Frames     |CVPR                |-            |
+|[VAC](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)          |2021  |CNN + BLSTM + CTC    |1.6      |RGB-Frames     |ICCV                  |-            |
+|[STMC](https://ojs.aaai.org/index.php/AAAI/article/view/7001)          |2020  |CNN + BLSTM + CTC    |2.1      |RGB-Frames     |AAAI                  |-            |
+|[CMA-TE](https://ieeexplore.ieee.org/abstract/document/9090828)          |2020  |CNN + BLSTM    |2.4      |RGB-Frames     |IEEE Access             |-            |
+|[FCN](https://arxiv.org/pdf/2007.12402)          |2020  |FCN + GFE   |3.0     |RGB-Frames     |ECCV             |-            |
+|[SF-Net(ResNet-18)](https://arxiv.org/abs/1908.01341)          |2019  | 2D3DCNN + LSTM + BLSTM   |3.8    |RGB-Frames     |ArXiv                     |-            |
+|[DPLD + TEM](https://ieeexplore.ieee.org/abstract/document/8784863?casa_token=PB1_yvyZouwAAAAA:lnaTKwd2UfJDjWkk2vkd08RMgtnDfbuWoE3eMNwjTHYGsYgK74XPlDS2osPhVvQaC2QdvKJHmA)          |2019  | I3D-BGRU-CTC    |4.7    |RGB-Frames     |ICME                     |-            |
+|[DPLD](https://ieeexplore.ieee.org/abstract/document/8784863?casa_token=PB1_yvyZouwAAAAA:lnaTKwd2UfJDjWkk2vkd08RMgtnDfbuWoE3eMNwjTHYGsYgK74XPlDS2osPhVvQaC2QdvKJHmA)          |2019  | I3D-BGRU-CTC    |5.6     |RGB-Frames     |ICME                     |-            |
+
+
+
+### Results on CSL-Split II dataset
+| Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
+|-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
+|[STMC](https://ojs.aaai.org/index.php/AAAI/article/view/7001)          |2020  |CNN + BLSTM + CTC    |28.6      |RGB-Frames     |AAAI                  |-            |
+|[Align-iOpt](https://ieeexplore.ieee.org/document/8954236)          |2019  | 3D-ResNet + BLSTM + Attention-LSTM + CTC|32.7     |RGB-Frames     |CVPR                     |-            |
+|[WIC-NGC](https://ieeexplore.ieee.org/document/8919458)          |2019  | 3D-ResNet + BLSTM   | 50.9     |RGB-Frames     |BigMM       |-            |
+
 
 **********************************************************************************************************************
 ### SLT
