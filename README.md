@@ -183,6 +183,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[ICCV]** `VAC` Visual Alignment Constraint for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)
 - **[ICCV]** `SMKD` Self-Mutual Distillation Learning for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Hao_Self-Mutual_Distillation_Learning_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html)
+- **[IJCNN]** `ST-GCN` Continuous Sign Language Recognition based on Multi-Part Skeleton Data. [Paper](https://ieeexplore.ieee.org/abstract/document/9534003?casa_token=thEBwazoFYIAAAAA:fUv87iU1KeXdvPKAlIDFwtqU3Ke3qa5VgySmVPiwAPcXCco_0T1DwRi2WaYyp6y2UAdUT46Pjw)
 
 ##### Journal
 - **[TCSVT]** `SBD-RL` Semantic Boundary Detection With Reinforcement Learning for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/9106402)
@@ -230,6 +231,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[IJCAI]** `DCN-IterativeOpt` Dilated Convolutional Network with Iterative Optimization for Continuous Sign Language Recognition. [Paper](https://pujunfu.github.io/publications/IJCAI2018Dilated/paper.pdf)
 - **[AAAI]** `LS-HAN` Video-based Sign Language Recognition Without Temporal Segmentation. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11903)
+- **[AAAI]** `HLSTM` Hierarchical LSTM for Sign Language Translation. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12235)
 
 #### 2017
 ##### Conference
@@ -553,22 +555,29 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 30.1     |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
 
 
-
+- **[AAAI]** `HLSTM` Hierarchical LSTM for Sign Language Translation. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12235)
 ### Results on CSL-Split I dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
 |[C²SLR + SRM](https://dl.acm.org/doi/pdf/10.1145/3640815)          |2024  | -   |0.68     |RGB-Frames     |ACM TOMM                |[Available](https://github.com/2000ZRL/LCSA_C2SLR_SRM)           |
+|[STAMF](https://www.mdpi.com/1424-8220/22/17/6452)          |2022  |CNN + MHA + BLSTM + CTC| 0.7     |RGB-Frames, Skeleton-Keypoints     |Sensors                  |-            |
 |[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 0.8    |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
 |[SEN](https://ojs.aaai.org/index.php/AAAI/article/view/25164)         |2023  |CNN + BLSTM  |0.8  |RGB-Frames     |AAAI                |-            |
 |[C²SLR](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html)          |2022  | -   |0.9     |RGB-Frames     |CVPR                |-            |
+|[STTN](https://link.springer.com/content/pdf/10.1007/s40747-023-00977-w.pdf)          |2023  | Transformer   | 1.2   |RGB-Frames     |CIS             |-            |
+|[ST-GCN](https://ieeexplore.ieee.org/abstract/document/9534003?casa_token=thEBwazoFYIAAAAA:fUv87iU1KeXdvPKAlIDFwtqU3Ke3qa5VgySmVPiwAPcXCco_0T1DwRi2WaYyp6y2UAdUT46Pjw)         |2021  |GCN + BLSTM + LSTM  |1.3  |RGB-Frames     |IJCNN                |-            |
+|[LCSA](https://drive.google.com/file/d/1lMWfTHN_iE2uzimMy3dLO-W-jm9YRm9f/view)          |2022  |VGGNet + Transformer   |1.4      |RGB-Frames     |ISCA                 |-            |
 |[VAC](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)          |2021  |CNN + BLSTM + CTC    |1.6      |RGB-Frames     |ICCV                  |-            |
 |[STMC](https://ojs.aaai.org/index.php/AAAI/article/view/7001)          |2020  |CNN + BLSTM + CTC    |2.1      |RGB-Frames     |AAAI                  |-            |
 |[CMA-TE](https://ieeexplore.ieee.org/abstract/document/9090828)          |2020  |CNN + BLSTM    |2.4      |RGB-Frames     |IEEE Access             |-            |
+|[mLTSF-Net](https://arxiv.org/pdf/2107.12762)          |2023  |FCN    |2.5      |RGB-Frames     |PR |-            |
+|[PiSLTRc](https://ieeexplore.ieee.org/abstract/document/9528010?casa_token=BGggtyj1xRwAAAAA:J9CxdVukp4J_Pqj_6A0Y_F0YYm9OgmHkHleLFaQ5TG9BI6gHVrHI_DdUkqvZC3LXPTqzAaVYDQ)          |2021  |CNN + Transformer    |2.8      |RGB-Frames     |IEEE TM          |-            |
 |[FCN](https://arxiv.org/pdf/2007.12402)          |2020  |FCN + GFE   |3.0     |RGB-Frames     |ECCV             |-            |
 |[SF-Net(ResNet-18)](https://arxiv.org/abs/1908.01341)          |2019  | 2D3DCNN + LSTM + BLSTM   |3.8    |RGB-Frames     |ArXiv                     |-            |
 |[DPLD + TEM](https://ieeexplore.ieee.org/abstract/document/8784863?casa_token=PB1_yvyZouwAAAAA:lnaTKwd2UfJDjWkk2vkd08RMgtnDfbuWoE3eMNwjTHYGsYgK74XPlDS2osPhVvQaC2QdvKJHmA)          |2019  | I3D-BGRU-CTC    |4.7    |RGB-Frames     |ICME                     |-            |
 |[DPLD](https://ieeexplore.ieee.org/abstract/document/8784863?casa_token=PB1_yvyZouwAAAAA:lnaTKwd2UfJDjWkk2vkd08RMgtnDfbuWoE3eMNwjTHYGsYgK74XPlDS2osPhVvQaC2QdvKJHmA)          |2019  | I3D-BGRU-CTC    |5.6     |RGB-Frames     |ICME                     |-            |
-
+|[HLSTM-atten](https://ojs.aaai.org/index.php/AAAI/article/view/12235)          |2018  | 3D-CNN + LSTM    |10.2     |RGB-Frames     |AAAI                     |-            |
+|[HLSTM](https://ojs.aaai.org/index.php/AAAI/article/view/12235)          |2018  | 3D-CNN + LSTM   |10.7     |RGB-Frames     |AAAI                     |-            |
 
 
 ### Results on CSL-Split II dataset
