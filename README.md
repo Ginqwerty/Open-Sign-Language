@@ -160,6 +160,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[IEEE TM]** `Multilingual-CSLR` Collaborative Multilingual Continuous Sign Language Recognition: A Unified Framework. [Paper](https://ieeexplore.ieee.org/abstract/document/9954921)
 - **[IEEE TM]** `PA-CMA` Prior-Aware Cross Modality Augmentation Learning for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/abstract/document/10105511)
 - **[CIS]** `STTN` Spatial–Temporal Transformer for End-to-End Sign Language Recognition. [Paper](https://link.springer.com/content/pdf/10.1007/s40747-023-00977-w.pdf)
+- **[IEEE Access]** `BAE-Attention` Boundary-Adaptive Encoder with Attention Method for Chinese Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/abstract/document/9426906)
 
 
 #### 2022
@@ -216,6 +217,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[CVPR]** `Align-iOpt` Iterative Alignment Network for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/8954236)
 -  **[ICME]** `DPLD` Dynamic Pseudo Label Decoding for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/abstract/document/8784863?casa_token=PB1_yvyZouwAAAAA:lnaTKwd2UfJDjWkk2vkd08RMgtnDfbuWoE3eMNwjTHYGsYgK74XPlDS2osPhVvQaC2QdvKJHmA)
 -  **[BigMM]** `WIC-NGC` Deep Grammatical Multi-classifier for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/8919458)
+-  **[APSIPA ASC]** Exploring RNN-Transducer for Chinese Speech Recognition. [Paper](https://ieeexplore.ieee.org/document/9023133)
 
 ##### Journal
 - **[IEEE TM]** `IterativeTrain` A Deep Neural Framework for Continuous Sign Language Recognition by Iterative Training. [Paper](https://ieeexplore.ieee.org/document/8598757)
