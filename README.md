@@ -525,8 +525,11 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[CoSign-2s](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)          |2023  | GCN + CNN + BLSTM   |20.1     |RGB-Frames, Skeleton-Keypoints     |ICCV             |-            |
 |[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 20.5     |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
 |[SEN](https://ojs.aaai.org/index.php/AAAI/article/view/25164)         |2023  |CNN + BLSTM  |20.7      |RGB-Frames     |AAAI                |-            |
+|[TLP](https://arxiv.org/pdf/2207.08734)          |2022  | CNN + BLSTM + CTC    |21.2      |RGB-Frames     |ECCV                 |[Available](https://github.com/hulianyuyy/Temporal-Lift-Pooling)            |
+|[SMKD](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)          |2021  |CNN + BLSTM + CTC    |22.4      |RGB-Frames     |ICCV                |-            |
 |[PiSLTRc](https://ieeexplore.ieee.org/abstract/document/9528010?casa_token=BGggtyj1xRwAAAAA:J9CxdVukp4J_Pqj_6A0Y_F0YYm9OgmHkHleLFaQ5TG9BI6gHVrHI_DdUkqvZC3LXPTqzAaVYDQ)          |2021  |CNN + Transformer    |22.9     |RGB-Frames     |IEEE TM          |-            |
-|[SL-Transf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf)         |2020  |24.49        |RGB-Frames     | CVPR           |[Avaliable](https://github.com/neccam/nslt)        |
+|[SL-Transf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf)         |2020  |24.49   | Transformer    |RGB-Frames     | CVPR           |[Avaliable](https://github.com/neccam/nslt)        |
+
 
 ### Results on CSL-Daily dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
