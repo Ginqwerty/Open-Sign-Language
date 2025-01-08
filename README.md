@@ -9,7 +9,7 @@ This repository is all you need for Sign Language Study!
   - [SLT Papers](#slt-papers)
   - [SLP Papers](#slp-papers)
 - [Leaderboard](#leaderboard)
-  - [SLR Leaderboard](#slr)
+  - [SLR Leaderboard](#slr-leaderboard)
   - [SLT Leaderboard](#slt)
   - [SLP Leaderboard](#slp)
 
