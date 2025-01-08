@@ -327,7 +327,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[LREC-COLING]** `FLa-LLM` Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation. [Paper](https://arxiv.org/abs/2403.12556)
 - **[AAAI]** `CV-SLT` Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29937)|[Code](https://github.com/rzhao-zhsq/CV-SLT)
 - **[ICASSP]** `EMF-SLT` An Explicit Multi-Modal Fusion Method for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/abstract/document/10446966?casa_token=n9nZhBsV_rQAAAAA:udlmgkU8simclxDuSQQ4tbVgLOHa_ha8fkp128G7YtzvbZnhDHbuZJTeJGD1op_RFerAgPlFAg)
-- **[IJCAI]** `CND` Effcient Sign Language Translation with a Curriculum-based Non-autoregressive Decoder. [Paper](https://www.ijcai.org/proceedings/2023/0584.pdf) | [Code](https://github.com/yp20000921/CND)
+
   
 ##### ArXiv
 - **[ArXiv]** Towards Privacy-Aware Sign Language Translation at Scale. [Paper](https://arxiv.org/abs/2402.09611) | [Code](https://github.com/facebookresearch/ssvp_slt)
@@ -718,6 +718,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[BN-TIN-Transf + BT](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |21. 34       |RGB-Frames     | CVPR          |-        |
 |[VAP](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)          |2024  |20.85        |RGB-Frames     | ECCV          |-        |
 |[IP-SLT](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)          |2023  |16.72      |RGB-Frames     | ICCV          |-        |
+|[SLT-CND](https://www.ijcai.org/proceedings/2023/0584.pdf)          |2023  |16.61        |RGB-Frames     | IJCAI          |[Avaliable](https://github.com/yp20000921/CND)        |
 |[LLM-SLT](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)          |2024  |15.75       |RGB-Frames     | CVPR                   |-        |
 |[Sign2GPT](https://arxiv.org/abs/2405.04164)          |2024  |15.40        |RGB-Frames     | ArXiv                |-        |
 |[ConSLT](https://ieeexplore.ieee.org/document/10095466)         |2023  |14.53        |RGB-Frames     | ICASSP                  |[Avaliable](https://github.com/biaofuxmu/ConSLT)       |
