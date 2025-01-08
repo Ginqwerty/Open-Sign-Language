@@ -463,8 +463,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 </details>
 
 ## Leaderboard
-**********************************************************************************************************************
-### SLR
+
+### SLR Leaderboard
 ### Results on SIGNUM dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
@@ -604,7 +604,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 
 **********************************************************************************************************************
-### SLT
+### SLT Leaderboard
 
 ### Results on Phoenix-2014T dataset
 #### Gloss-based
@@ -741,4 +741,4 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 &#10066; denotes results reproduced by [`OpenASL`](https://arxiv.org/abs/2205.12870)
 **********************************************************************************************************************
-### SLP
+### SLP Leaderboard
