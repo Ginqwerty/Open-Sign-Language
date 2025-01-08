@@ -10,8 +10,8 @@ This repository is all you need for Sign Language Study!
   - [SLP Papers](#slp-papers)
 - [Leaderboard](#leaderboard)
   - [SLR Leaderboard](#slr-leaderboard)
-  - [SLT Leaderboard](#slt)
-  - [SLP Leaderboard](#slp)
+  - [SLT Leaderboard](#slt-leaderboard)
+  - [SLP Leaderboard](#slp-leaderboard)
 
 ## Datasets
 - Please refer to [this page](helper/datasets.md).
