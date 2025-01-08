@@ -192,6 +192,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ICCV]** `VAC` Visual Alignment Constraint for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)
 - **[ICCV]** `SMKD` Self-Mutual Distillation Learning for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Hao_Self-Mutual_Distillation_Learning_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html)
 - **[IJCNN]** `ST-GCN` Continuous Sign Language Recognition based on Multi-Part Skeleton Data. [Paper](https://ieeexplore.ieee.org/abstract/document/9534003?casa_token=thEBwazoFYIAAAAA:fUv87iU1KeXdvPKAlIDFwtqU3Ke3qa5VgySmVPiwAPcXCco_0T1DwRi2WaYyp6y2UAdUT46Pjw)
+- **[CVPR]** Fingerspelling Detection in American Sign Language. [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Shi_Fingerspelling_Detection_in_American_Sign_Language_CVPR_2021_paper.html)
 
 ##### Journal
 - **[TCSVT]** `SBD-RL` Semantic Boundary Detection With Reinforcement Learning for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/document/9106402)
