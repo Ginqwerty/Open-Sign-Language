@@ -579,9 +579,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[PA-CMA](https://ieeexplore.ieee.org/abstract/document/10105511)          |2023  | CNN-TCN + BLSTM + CTC   | 28.7     |RGB-Frames     |IEEE TM       |-            |
 |[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 30.1     |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
 |[SEN](https://ojs.aaai.org/index.php/AAAI/article/view/25164)         |2023  |CNN + BLSTM  |30.7     |RGB-Frames     |AAAI                |-            |
-|[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)    &#10018        |2019  |CNN + BLSTM    |32.4      |RGB-Frames     |IEEE TM     |-            |
-|[FCN](https://arxiv.org/pdf/2007.12402)    &#10018      |2020  |FCN + GFE   |32.5      |RGB-Frames     |ECCV             |-            |
-|[LS-HAN](https://ojs.aaai.org/index.php/AAAI/article/view/11903)    &#10018      |2018  | CNN + LS + HAN  |39.4     |RGB-Frames     |AAAI                    |-           |
+|[IterativeTrain](https://ieeexplore.ieee.org/document/8598757)    &#10018;        |2019  |CNN + BLSTM    |32.4      |RGB-Frames     |IEEE TM     |-            |
+|[FCN](https://arxiv.org/pdf/2007.12402)    &#10018;      |2020  |FCN + GFE   |32.5      |RGB-Frames     |ECCV             |-            |
+|[LS-HAN](https://ojs.aaai.org/index.php/AAAI/article/view/11903)    &#10018;      |2018  | CNN + LS + HAN  |39.4     |RGB-Frames     |AAAI                    |-           |
 |[SubUNets](https://openaccess.thecvf.com/content_iccv_2017/html/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.html)          |2017  |CNN + BLSTM    |41.0     |RGB-Frames     |ICCV                    |[Avaliable](https://github.com/neccam/SubUNets)            |
 
 ##### CSL-Daily SLR Table Notation:
