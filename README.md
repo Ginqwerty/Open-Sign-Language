@@ -598,7 +598,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ### Results on CSL-Split I dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
-|[CRKD](https://arxiv.org/pdf/2303.06820)         |2024  | ResNet50 + 2D-CNN + TSCM-2D CNN + CTC + MSE   |0.6      |RGB-Frames     | AJSE            |-            |
 |[C²SLR + SRM](https://dl.acm.org/doi/pdf/10.1145/3640815)          |2024  | -   |0.68     |RGB-Frames     |ACM TOMM                |[Available](https://github.com/2000ZRL/LCSA_C2SLR_SRM)           |
 |[STAMF](https://www.mdpi.com/1424-8220/22/17/6452)          |2022  |CNN + MHA + BLSTM + CTC| 0.7     |RGB-Frames, Skeleton-Keypoints     |Sensors                  |-            |
 |[MSTNet](https://ui.adsabs.harvard.edu/abs/2024JEI....33b3059Z/abstract)          |2022  | CNN + Transformer   |0.7      |RGB-Frames     |ArXiv           |-            |
@@ -617,6 +616,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[CMA-TE](https://ieeexplore.ieee.org/abstract/document/9090828)          |2020  |CNN + BLSTM    |2.4      |RGB-Frames     |IEEE Access             |-            |
 |[EnStimCTC](https://ieeexplore.ieee.org/abstract/document/9393618?casa_token=BNvKjD_WV1EAAAAA:4OTJLsUOvBoFJP0AVshweZCFYZqRApBqY_78tkbAJGRLkJemt1wOQsXW9dXjbUWBThY_fUT0Gg)          |2021  | -  |2.41      |RGB-Frames     |IEEE TM            |-            |
 |[mLTSF-Net](https://arxiv.org/pdf/2107.12762)          |2023  |FCN    |2.5      |RGB-Frames     |PR |-            |
+|[CRKD](https://arxiv.org/pdf/2303.06820)         |2024  | ResNet50 + 2D-CNN + TSCM-2D CNN + CTC + MSE   |2.6      |RGB-Frames     | AJSE            |-            |
 |[PiSLTRc](https://ieeexplore.ieee.org/abstract/document/9528010?casa_token=BGggtyj1xRwAAAAA:J9CxdVukp4J_Pqj_6A0Y_F0YYm9OgmHkHleLFaQ5TG9BI6gHVrHI_DdUkqvZC3LXPTqzAaVYDQ)          |2021  |CNN + Transformer    |2.8      |RGB-Frames     |IEEE TM          |-            |
 |[FCN](https://arxiv.org/pdf/2007.12402)          |2020  |FCN + GFE   |3.0     |RGB-Frames     |ECCV             |-            |
 |[SF-Net(ResNet-18)](https://arxiv.org/abs/1908.01341)          |2019  | 2D3DCNN + LSTM + BLSTM   |3.8    |RGB-Frames     |ArXiv                     |-            |
