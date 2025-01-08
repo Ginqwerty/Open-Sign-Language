@@ -261,7 +261,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ### Gloss-based SLT
 #### 2024
 ##### Conference
-- **[ECCV]** EVSign: Sign Language Recognition and Translation with Streaming Events. [Paper](https://arxiv.org/pdf/2407.12593)
+- **[ECCV]** `EVSign` EVSign: Sign Language Recognition and Translation with Streaming Events. [Paper](https://arxiv.org/pdf/2407.12593)
+- **[NAACL]** `SDDA` Signer Diversity-driven Data Augmentation for Signer-Independent Sign Language Translation. [Paper](https://aclanthology.org/2024.findings-naacl.140/)
 
 #### 2023
 ##### Conference
