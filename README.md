@@ -152,6 +152,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[AAAI]** `SEN` Self-Emphasizing Network for Continuous Sign Language Recognition. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25164)
 - **[ACM MM]** `AdaBrowse` AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition. [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611745)
 - **[ICASSP]** `DFConv` Self-Sufficient Framework for Continuous Sign Language Recognition. [Paper](https://ieeexplore.ieee.org/abstract/document/10095732)
+- **[CVPR]** `CorrNet` Continuous Sign Language Recognition with Correlation Network. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html) | [Code](https://github.com/hulianyuyy/CorrNet)
 - **[CVPR]** `CTCA` Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)
 - **[CVPR]** `CVT-SLR` CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) | [Code](https://github.com/binbinjiang/CVT-SLR)
 - **[ICCV]** `CoSign` CoSign: Exploring Co-Occurrence Signals in Skeleton-Based Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)
@@ -341,7 +342,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2023
 ##### Conference
 - **[CVPR]** `GASLT` Gloss Attention for Gloss-Free Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)|[Code](https://github.com/YinAoXiong/GASLT)
-- **[CVPR]** `CorrNet` Continuous Sign Language Recognition with Correlation Network. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html) | [Code](https://github.com/hulianyuyy/CorrNet)
 - **[ICCV]** `GFSLT-VLP` Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)|[Code](https://github.com/zhoubenjia/GFSLT-VLP)
 - **[ICCV]** `IP-SLT` Sign Language Translation with Iterative Prototype. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)
 - **[ICLR]** `SLTUNET` SLTUNET: A Simple Unified Model for Sign Language Translation. [Paper](https://arxiv.org/abs/2305.01778)|[Code](https://github.com/bzhangGo/sltunet)
