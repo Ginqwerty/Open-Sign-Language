@@ -140,6 +140,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[CVPR]** `SignGraph` SignGraph: A Sign Sequence is Worth Graphs of Nodes. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.html) | [Code](https://github.com/gswycf/SignGraph)
 - **[ICEECT]** `SLRMPCMC` SLRMPCMC: Sign Language Recognition using Mediapipe and Cross-Model Comparison. [Paper](https://ieeexplore.ieee.org/abstract/document/10738932)
+- **[ICME]** `XMC` Cross-Modality Consistency Mining for Continuous Sign Language Recognition with Text-Domain Equivalents. [Paper](https://ieeexplore.ieee.org/abstract/document/10687620)
 
 ##### Journal
 - **[PR]** Scalable Frame Resolution for Efficient Continuous Sign Language Recognition. [Paper](https://dl.acm.org/doi/abs/10.1016/j.patcog.2023.109903)
@@ -488,7 +489,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[Deep Sign](https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44SUR_INST/storage/alma/11/B1/D7/EE/FE/33/9E/97/1B/8D/FF/9F/13/80/87/67/Koller_BMVC2016.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250104T222933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20250104%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d93fb750a40df90faad98c2a45f3ce2ffeebf0f93247af6f03ed51b2a7ac6a9f)          |2016  |CNN + HMM    |7.4     |RGB-Frames     |BMVC                     |-            |
 
 
-- **[AJSE]**  `CRKD` Continuous Sign Language Recognition Based on Cross-Resolution Knowledge Distillation. [Paper](https://arxiv.org/pdf/2303.06820)
+
 
 ### Results on PHOENIX-2014 dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
@@ -500,6 +501,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[TwoStream-SLT](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)          |2023  | S3D + CTC  |18.8     |RGB-Frames, Skeleton-Keypoints     |  NeurIPS     |-            |
 |[MultiSignGraph](https://openaccess.thecvf.com/content/CVPR2024/html/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.html)        |2024  | GCN + KNN   |19.1     |RGB-Frames     |CVPR      |[Available](https://github.com/gswycf/SignGraph)         |
 |[CorrNet](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)          |2023  | CNN + BLSTM   | 19.4     |RGB-Frames     |CVPR             | [Available](https://github.com/hulianyuyy/CorrNet)            |
+|[XMC-n](https://ieeexplore.ieee.org/abstract/document/10687620)          |2024  | -   | 19.82     |RGB-Frames     |ICME             |-            |
 |[STTN](https://link.springer.com/content/pdf/10.1007/s40747-023-00977-w.pdf)          |2023  | Transformer   | 19.98     |RGB-Frames     |CIS             |-            |
 |[PA-CMA](https://ieeexplore.ieee.org/abstract/document/10105511)          |2023  | CNN-TCN + BLSTM + CTC   | 20.0     |RGB-Frames     |IEEE TM       |-            |
 |[SignGraph](https://openaccess.thecvf.com/content/CVPR2024/html/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.html)        |2024  | GCN + KNN   |20.1     |RGB-Frames     |CVPR      |[Available](https://github.com/gswycf/SignGraph)         |
@@ -583,6 +585,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[TwoStream-SLT](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)          |2023  | S3D + CTC  |25.3     |RGB-Frames, Skeleton-Keypoints     |  NeurIPS     |-            |
 |[C²ST](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)       |2023  | -  | 25.8     |RGB-Frames     |ICCV            |-            |
 |[MultiSignGraph](https://openaccess.thecvf.com/content/CVPR2024/html/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.html)        |2024  | GCN + KNN   |26.4     |RGB-Frames     |CVPR      |[Available](https://github.com/gswycf/SignGraph)         |
+|[XMC-d](https://ieeexplore.ieee.org/abstract/document/10687620)          |2024  | -   | 26.4     |RGB-Frames     |ICME             |-            |
+|[XMC-n](https://ieeexplore.ieee.org/abstract/document/10687620)          |2024  | -   | 26.8     |RGB-Frames     |ICME             |-            |
 |[CoSign-2s](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)        |2023  | GCN + CNN + BLSTM   |27.2     |RGB-Frames, Skeleton-Keypoints     |ICCV       |-         |
 |[SignGraph](https://openaccess.thecvf.com/content/CVPR2024/html/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.html)        |2024  | GCN + KNN   |27.4     |RGB-Frames     |CVPR      |[Available](https://github.com/gswycf/SignGraph)         |
 |[PA-CMA](https://ieeexplore.ieee.org/abstract/document/10105511)          |2023  | CNN-TCN + BLSTM + CTC   | 28.7     |RGB-Frames     |IEEE TM       |-            |
@@ -595,6 +599,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ##### CSL-Daily SLR Table Notation:
 &#10018; denotes the results were implemented by [BN-TIN-Transf](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)
+
 
 ### Results on CSL-Split I dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
