@@ -143,6 +143,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Journal
 - **[PR]** Scalable Frame Resolution for Efficient Continuous Sign Language Recognition. [Paper](https://dl.acm.org/doi/abs/10.1016/j.patcog.2023.109903)
 - **[ACM TOMM]**  `SRM` Improving Continuous Sign Language Recognition with Consistency Constraints and Signer Removal. [Paper](https://dl.acm.org/doi/pdf/10.1145/3640815) | [Code](https://github.com/2000ZRL/LCSA_C2SLR_SRM)
+- **[TALLIP]** Isolated Arabic Sign Language Recognition Using a Transformer-based Model and Landmark Keypoints. [Paper](https://dl.acm.org/doi/full/10.1145/3584984)
+- **[IFS]** `SLR-YOLO` SLR-YOLO: An Improved YOLOv8 Network for Real-Time Sign Language Recognition. [Paper](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs235132)
+- **[AJSE]**  `CRKD` Continuous Sign Language Recognition Based on Cross-Resolution Knowledge Distillation. [Paper](https://arxiv.org/pdf/2303.06820)
 
 ##### ArXiv
 - **[ArXiv]** `SignVTCL` SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning. [Paper](https://arxiv.org/abs/2401.11847)
@@ -484,6 +487,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[Deep Sign](https://s3.eu-central-1.amazonaws.com/eu-st01.ext.exlibrisgroup.com/44SUR_INST/storage/alma/11/B1/D7/EE/FE/33/9E/97/1B/8D/FF/9F/13/80/87/67/Koller_BMVC2016.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250104T222933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20250104%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=d93fb750a40df90faad98c2a45f3ce2ffeebf0f93247af6f03ed51b2a7ac6a9f)          |2016  |CNN + HMM    |7.4     |RGB-Frames     |BMVC                     |-            |
 
 
+- **[AJSE]**  `CRKD` Continuous Sign Language Recognition Based on Cross-Resolution Knowledge Distillation. [Paper](https://arxiv.org/pdf/2303.06820)
 
 ### Results on PHOENIX-2014 dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
@@ -508,6 +512,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[AdaBrowse](https://dl.acm.org/doi/abs/10.1145/3581783.3611745)          |2023  |CNN + BLSTM    |20.7      |RGB-Frames     |ACM MM             |-            |
 |[DFConv](https://ieeexplore.ieee.org/abstract/document/10095732)          |2023  | CNN + ME + BLSTM |20.8      |RGB-Frames     |ICASSP                 |-            |
 |[TLP](https://arxiv.org/pdf/2207.08734)          |2022  | CNN + BLSTM + CTC    |20.8      |RGB-Frames     |ECCV                 |[Available](https://github.com/hulianyuyy/Temporal-Lift-Pooling)            |
+|[CRKD](https://arxiv.org/pdf/2303.06820)         |2024  | ResNet50 + 2D-CNN + TSCM-2D CNN + CTC + MSE   |20.9      |RGB-Frames     | AJSE            |-            |
 |[Multilingual-CSLR](https://ieeexplore.ieee.org/abstract/document/9954921)          |2023  | CNN + BLSTM + CTC |20.9      |RGB-Frames     |IEEE TM      |-            |
 |[SEN](https://ojs.aaai.org/index.php/AAAI/article/view/25164)         |2023  |CNN + BLSTM  |21.0      |RGB-Frames     |AAAI                |-            |
 |[SMKD](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html?ref=https://githubhelp.com)          |2021  |CNN + BLSTM + CTC    |21.0      |RGB-Frames     |ICCV                |-            |
@@ -593,6 +598,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ### Results on CSL-Split I dataset
 | Model Name      | Year | Architecture    |WER      | Model Input   | Conference/Journal	     | Code        |
 |-----------------|------|-----------------|---------|---------------|-------------------------|-------------|
+|[CRKD](https://arxiv.org/pdf/2303.06820)         |2024  | ResNet50 + 2D-CNN + TSCM-2D CNN + CTC + MSE   |0.6      |RGB-Frames     | AJSE            |-            |
 |[C²SLR + SRM](https://dl.acm.org/doi/pdf/10.1145/3640815)          |2024  | -   |0.68     |RGB-Frames     |ACM TOMM                |[Available](https://github.com/2000ZRL/LCSA_C2SLR_SRM)           |
 |[STAMF](https://www.mdpi.com/1424-8220/22/17/6452)          |2022  |CNN + MHA + BLSTM + CTC| 0.7     |RGB-Frames, Skeleton-Keypoints     |Sensors                  |-            |
 |[MSTNet](https://ui.adsabs.harvard.edu/abs/2024JEI....33b3059Z/abstract)          |2022  | CNN + Transformer   |0.7      |RGB-Frames     |ArXiv           |-            |
