@@ -276,6 +276,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ### SLT Papers
 
 ### Gloss-based SLT
+#### 2025
+##### Conference
+- **[COLING]** `TextCTC-SLT` Improvement in Sign Language Translation Using Text CTC Alignment. [Paper](https://arxiv.org/abs/2412.09014) | [Code](https://github.com/Claire874/TextCTC-SLT)
+
 #### 2024
 ##### Conference
 - **[ECCV]** `EVSign` EVSign: Sign Language Recognition and Translation with Streaming Events. [Paper](https://arxiv.org/pdf/2407.12593)
@@ -327,8 +331,14 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ACM MM]** `CTF` Connectionist Temporal Fusion for Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3240508.3240671?casa_token=V4-a-LYLGbIAAAAA:2xoc5DhlkaP8cnsupWmoajZxBdQdwVUJXdCs_vZxmfIDIVEavWC1SWCCwBMxdSbVHSPBrneFyRzGCw)
 
 ### Gloss-free SLT
+
+#### 2025
+##### Conference
+- **[WACV]** `UniGloR` A Spatio-Temporal Representation Learning as an Alternative to Traditional Glosses in Sign Language Translation and Production. [Paper](https://arxiv.org/abs/2407.02854) | [Code](https://github.com/eddie-euijun-hwang/UniGloR)
+  
 #### 2024
 ##### Conference
+- **[NeurIPS]** `SignCL` Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312) | [Code](https://github.com/JinhuiYE/SignCL)
 - **[ACL]** `SLT-SEM` Sign Language Translation with Sentence Embedding Supervision. [Paper](https://aclanthology.org/2024.acl-short.40/) | [Code](https://github.com/yhamidullah/sem-slt)
 - **[ECCV]** `VAP` Visual Alignment Pre-training for Sign Language Translation. [Paper](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)
 - **[CVPR]** `LLM-SLT` LLMs Are Good Sign Language Translators. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)
@@ -336,19 +346,20 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[LREC-COLING]** `FLa-LLM` Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation. [Paper](https://arxiv.org/abs/2403.12556)
 - **[AAAI]** `CV-SLT` Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29937)|[Code](https://github.com/rzhao-zhsq/CV-SLT)
 - **[ICASSP]** `EMF-SLT` An Explicit Multi-Modal Fusion Method for Sign Language Translation. [Paper](https://ieeexplore.ieee.org/abstract/document/10446966?casa_token=n9nZhBsV_rQAAAAA:udlmgkU8simclxDuSQQ4tbVgLOHa_ha8fkp128G7YtzvbZnhDHbuZJTeJGD1op_RFerAgPlFAg)
+- **[ICLR]** `Sign2GPT` Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [Paper](https://arxiv.org/abs/2405.04164)
 
   
 ##### ArXiv
+- **[ArXiv]** `LLaVA-SLT` Visual Language Tuning for Sign Language Translation. [Paper](https://arxiv.org/abs/2412.16524) 
 - **[ArXiv]** Towards Privacy-Aware Sign Language Translation at Scale. [Paper](https://arxiv.org/abs/2402.09611) | [Code](https://github.com/facebookresearch/ssvp_slt)
 - **[ArXiv]** Unsupervised Sign Language Translation and Generation. [Paper](https://arxiv.org/abs/2402.07726)
 - **[ArXiv]** American Sign Language Video to Text Translation. [Paper](https://arxiv.org/abs/2402.07255) | [Code](https://github.com/jiSilverH/idlf23-aslt)
 - **[ArXiv]** `Online-CSLRT` Towards Online Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2401.05336) | [Code](https://github.com/FangyunWei/SLRT)
-- **[ArXiv]** `Sign2GPT` Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [Paper](https://arxiv.org/abs/2405.04164)
 - **[ArXiv]** Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312)
 - **[ArXiv]** `MSKA-SLT` Multi-Stream Keypoint Attention Network for Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2405.05672) | [Code](https://github.com/sutwangyan/MSKA)
 - **[ArXiv]** `Signformer` Signformer is all you need: Towards Edge AI for Sign Language. [Paper](https://arxiv.org/abs/2411.12901)
 - **[ArXiv]** `C²RL` C<sup>2</sup>RL: Content and Context Representation Learning for Gloss-free Sign Language Translation and Retrieval. [Paper](https://arxiv.org/abs/2408.09949)
-- **[ArXiv]** `UniGloR` A Spatio-Temporal Representation Learning as an Alternative to Traditional Glosses in Sign Language Translation and Production. [Paper](https://arxiv.org/abs/2407.02854) | [Code](https://github.com/eddie-euijun-hwang/UniGloR)
+
 
 #### 2023
 ##### Conference
@@ -664,6 +675,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### Gloss-based
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal     | Code    |
 |-----------------|------|-------------|---------------|------------------------|---------|
+|[TextCTC-SLT](https://arxiv.org/pdf/2412.09014) | 2025| 28.42 | RGB-Frames | COLING | [Available](https://github.com/Claire874/TextCTC-SLT)|
 |[TwoStream-SLT](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)          |2022  |26.71       |RGB-Frames, Skeleton-Keypoints     | NeurIPS          |-        |
 |[SLTUNET](https://arxiv.org/abs/2305.01778)         |2023  |26.00        |RGB-Frames     | ICLR                   |[Avaliable](https://github.com/bzhangGo/sltunet)         |
 |[ConSLT](https://ieeexplore.ieee.org/document/10095466)         |2023  |25.48        |RGB-Frames     | ICASSP                  |[Avaliable](https://github.com/biaofuxmu/ConSLT)       |
@@ -702,8 +714,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[SimulSLT-CTL++](https://aclanthology.org/2024.lrec-main.34/)          |2024  |23.75        |RGB-Frames     | LREC-COLING           |[Avaliable](https://github.com/tongsun99/CTL)         |
 |[Online-CSLRT](https://arxiv.org/abs/2401.05336)          |2024  |23.69        |RGB-Frames     | ArXiv           |[Avaliable](https://github.com/FangyunWei/SLRT)         |
 |[Signformer](https://arxiv.org/abs/2411.12901)          |2024  |23.43        |RGB-Frames     | ArXiv           |-        |
+|[LLaVA-SLT](https://arxiv.org/abs/2412.16524)  |2024  |23.43  |RGB-Frames  | ArXiv  |-  |
 |[LLM-SLT](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)          |2024  |23.40        |RGB-Frames     | CVPR                   |-        |
 |[FLa-LLM](https://arxiv.org/abs/2403.12556)          |2024  |23.09        |RGB-Frames     | LREC-COLING           |-        |
+|[SignCL](https://arxiv.org/pdf/2405.14312) | 2024 | 22.74 | RGB-Frames | NeurIPS | [Available](https://github.com/JinhuiYE/SignCL) | 
 |[Sign2GPT](https://arxiv.org/abs/2405.04164)          |2024  |22.52        |RGB-Frames     | ArXiv                |-        |
 |[BN-TIN-Transf](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |21.68        |RGB-Frames     | CVPR          |-        |
 |[ConSLT](https://ieeexplore.ieee.org/document/10095466)         |2023  |21.59        |RGB-Frames     | ICASSP                  |[Avaliable](https://github.com/biaofuxmu/ConSLT)       |
@@ -725,7 +739,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal      | Code                                    |
 |-----------------|------|-------------|---------------|-------------------------|-----------------------------------------|
 |[TwoStream-SLT](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)          |2022  |25.79       |RGB-Frames, Skeleton-Keypoints     | NeurIPS          |-        |
-|[SLTUNET](https://arxiv.org/abs/2305.01778)         |2023  |23.76       |RGB-Frames     | ICLR                   |[Avaliable](https://github.com/bzhangGo/sltunet)  
+|[SLTUNET](https://arxiv.org/abs/2305.01778)         |2023  |23.76       |RGB-Frames     | ICLR                   |[Avaliable](https://github.com/bzhangGo/sltunet)  |
+|[TextCTC-SLT](https://arxiv.org/pdf/2412.09014) | 2025| 22.47 | RGB-Frames | COLING | [Available](https://github.com/Claire874/TextCTC-SLT)|
 |[MMTLB](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)          |2022  |21.46        |RGB-Frames     | CVPR          |-        |
 |[BN-TIN-Transf + BT](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |19.67       |RGB-Frames     | CVPR          |-        |
 [HST-GNN](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)         |2022  |17.8       |RGB-Frames     | WACV                   |-        |
@@ -744,8 +759,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[XmDA](https://arxiv.org/abs/2305.11096)          |2023  |21.58        |RGB-Frames     | ArXiv          |[Avaliable](https://github.com/Atrewin/SignXmDA)        |
 |[BN-TIN-Transf + BT](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)          |2021  |21. 34       |RGB-Frames     | CVPR          |-        |
 |[VAP](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)          |2024  |20.85        |RGB-Frames     | ECCV          |-        |
+|[LLaVA-SLT](https://arxiv.org/abs/2412.16524)  |2024  |20.42  |RGB-Frames  | ArXiv  |-  |
 |[IP-SLT](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)          |2023  |16.72      |RGB-Frames     | ICCV          |-        |
 |[SLT-CND](https://www.ijcai.org/proceedings/2023/0584.pdf)          |2023  |16.61        |RGB-Frames     | IJCAI          |[Avaliable](https://github.com/yp20000921/CND)        |
+|[SignCL](https://arxiv.org/pdf/2405.14312) | 2024 | 16.16 | RGB-Frames | NeurIPS | [Available](https://github.com/JinhuiYE/SignCL) | 
 |[LLM-SLT](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)          |2024  |15.75       |RGB-Frames     | CVPR                   |-        |
 |[Sign2GPT](https://arxiv.org/abs/2405.04164)          |2024  |15.40        |RGB-Frames     | ArXiv                |-        |
 |[ConSLT](https://ieeexplore.ieee.org/document/10095466)         |2023  |14.53        |RGB-Frames     | ICASSP                  |[Avaliable](https://github.com/biaofuxmu/ConSLT)       |
