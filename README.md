@@ -440,7 +440,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[CVPR]** Neural Sign Actors: A Diffusion Model for 3D Sign Language Production from Text. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.html)
 - **[WACV]** Sign Language Production with Latent Motion Transformer. [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.html)
-- **[ECCV]** A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [Paper](https://arxiv.org/pdf/2401.04730)
+- **[ECCV]** `Spoken2Sign` A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [Paper](https://arxiv.org/pdf/2401.04730)
 - **[ECCV]** SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [Paper](https://eccv.ecva.net/virtual/2024/poster/2581)
 - **[AAAI]** G2P-DDM: Generating Sign Pose Sequence from Gloss Sequence with Discrete Diffusion Model. [Paper](https://arxiv.org/abs/2208.09141) | [Project Page](https://slpdiffusier.github.io/g2p-ddm/)
 - **[IEEE FG]** A Gloss-free Sign Language Production with Discrete Representation. [Paper](https://ieeexplore.ieee.org/abstract/document/10581980?casa_token=k1MKhNXwmBAAAAAA:Zxygq6G2ane541p99NTFBF8bC_QdHDYhkNB5yNs1eUYXtDu780u19flLsGigA8j7e2iQVqlupA)
@@ -458,14 +458,14 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 #### 2023
 ##### Conference
-- **[SEM]** Including Facial Expressions in Contextual Embeddings for Sign Language Generation. [Paper](https://arxiv.org/pdf/2202.05383)
+- **[SEM]** `IFECE` Including Facial Expressions in Contextual Embeddings for Sign Language Generation. [Paper](https://arxiv.org/pdf/2202.05383)
   
 ##### ArXiv
-- **[ArXiv]** SignDiff: Learning Diffusion Models for American Sign Language Production. [Paper](https://www.researchgate.net/publication/373518983_SignDiff_Learning_Diffusion_Models_for_American_Sign_Language_Production) 
+- **[ArXiv]** `SignDiff` SignDiff: Learning Diffusion Models for American Sign Language Production. [Paper](https://www.researchgate.net/publication/373518983_SignDiff_Learning_Diffusion_Models_for_American_Sign_Language_Production) | [Project Page](https://signdiff.github.io/)
 
 #### 2022
 ##### Conference
-- **[CVPR]** Signing at scale: Learning to co-articulate signs for large-scale photo-realistic sign language production. [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf)
+- **[CVPR]** `FS-NET` Signing at scale: Learning to co-articulate signs for large-scale photo-realistic sign language production. [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf)
 - **[ACM]** `GEN-OBT` Gloss Semantic-Enhanced Network with Online Back-Translation for Sign Language Production. [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547830?casa_token=_MlXpMYEzNoAAAAA:2L5Ktxo-G1ygXpL4LQnPcYmTPKrUiJU5wKUIYATaillFPDL90iyz5Q7egp_9_aX6WcnsCXdGIZ8gWA)
 
 ##### Journal
@@ -473,7 +473,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 #### 2021
 ##### Conference
-- **[ACM]** Towards Fast and High-Quality Sign Language Production. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475463?casa_token=anYLezVhxNYAAAAA:XaOvgclXT1VHV0vE6IbfECNS3YpPp5JbgXHb42s5KvJnG5WUD11Yh3xsXRVZDRBngQNFYExPmBvO6g)
+- **[ACM MM]** `NAT-EA` Towards Fast and High-Quality Sign Language Production. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475463?casa_token=anYLezVhxNYAAAAA:XaOvgclXT1VHV0vE6IbfECNS3YpPp5JbgXHb42s5KvJnG5WUD11Yh3xsXRVZDRBngQNFYExPmBvO6g)
 - **[ICCV]** Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Saunders_Mixed_SIGNals_Sign_Language_Production_via_a_Mixture_of_Motion_ICCV_2021_paper.html)
 - **[BMVC]** Non-Autoregressive Sign Language Production with Gaussian Space. [Paper](https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf)
 
@@ -482,7 +482,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 #### 2020
 ##### Conference
-- **[ECCV]** Progressive transformers for end-to-end sign language production. [Paper](https://arxiv.org/abs/2004.14874)
+- **[ECCV]** `Progressive Transf` Progressive transformers for end-to-end sign language production. [Paper](https://arxiv.org/abs/2004.14874) | [Code](https://github.com/BenSaunders27/ProgressiveTransformersSLP)
 - **[IJCV]** Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. [Paper](https://link.springer.com/article/10.1007/s11263-019-01281-2)
 - **[WACV]** Neural Sign Language Synthesis: Words Are Our Glosses. [Paper](https://ieeexplore.ieee.org/document/9093516)
 
@@ -812,13 +812,40 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### OpenASL Gloss-Free Table Notation:
 
 &#10066; denotes results reproduced by [`OpenASL`](https://arxiv.org/abs/2205.12870)
+
 **********************************************************************************************************************
 ### SLP Leaderboard
 
 ### Results on Phoenix-2014T dataset
-| Model Name      | Year | BLEU-4      | DTW-P         | Conference/Journal     | Code         |
-|-----------------|------|-------------|---------------|------------------------|--------------|
+
+#### Gloss to Pose
+| Model Name      | Year | BLEU-4      | WER       | DTW-P       | Conference/Journal     | Code         |
+|-----------------|------|-------------|-----------|-------------|------------------------|--------------|
+| [FS-NET](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2022 | 18.78  | - | -  | CVPR |  -   |
+| [Progressive Transf](https://arxiv.org/abs/2004.14874) | 2020 | 10.43  | - | -  | ECCV |  [Avaliable](https://github.com/BenSaunders27/ProgressiveTransformersSLP)   |
 | [LVMCN](https://arxiv.org/abs/2412.16944) | 2024 | 9.36  | 10.14  | ArXiv |  -   |
-| [GEN-OBT](https://dl.acm.org/doi/abs/10.1145/3503161.3547830?casa_token=_MlXpMYEzNoAAAAA:2L5Ktxo-G1ygXpL4LQnPcYmTPKrUiJU5wKUIYATaillFPDL90iyz5Q7egp_9_aX6WcnsCXdGIZ8gWA) | 2022 | 8.01  | 10.07  | ACM |  -   |
+| [GEN-OBT](https://dl.acm.org/doi/abs/10.1145/3503161.3547830?casa_token=_MlXpMYEzNoAAAAA:2L5Ktxo-G1ygXpL4LQnPcYmTPKrUiJU5wKUIYATaillFPDL90iyz5Q7egp_9_aX6WcnsCXdGIZ8gWA) | 2022 | 8.01  | 81.78 | 10.07  | ACM |  -   |
+| [NAT-EA](https://dl.acm.org/doi/abs/10.1145/3474085.3475463?casa_token=anYLezVhxNYAAAAA:XaOvgclXT1VHV0vE6IbfECNS3YpPp5JbgXHb42s5KvJnG5WUD11Yh3xsXRVZDRBngQNFYExPmBvO6g) | 2021 | 6.66  | 82.01 | -  | ACM MM |  -   |
+| [NAT-AT](https://dl.acm.org/doi/abs/10.1145/3474085.3475463?casa_token=anYLezVhxNYAAAAA:XaOvgclXT1VHV0vE6IbfECNS3YpPp5JbgXHb42s5KvJnG5WUD11Yh3xsXRVZDRBngQNFYExPmBvO6g) | 2021 | 5.53  | 88.15 | -  | ACM |  -   |
+
+
+#### Text to Pose
+| Model Name      | Year | BLEU-4      | DTW-P     | with Gloss   | Conference/Journal     | Code         |
+|-----------------|------|-------------|-----------|--------------|------------------------|--------------|
+| [Spoken2Sign](https://arxiv.org/pdf/2401.04730) | 2024 | 25.46  | - | -  | ✅ | ECCV |  -   |
+| [SignDiff](https://arxiv.org/pdf/2308.16082) | 2023 | 22.15  | - | -  | ❌ | ArXiv |  -   |
+| [FS-NET](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2022 | 21.10  | - | -  | ❌ | CVPR |  -   |
+| [Progressive Transf](https://arxiv.org/abs/2004.14874) | 2020 | 10.51  | - | - | ❌ | ECCV |  [Avaliable](https://github.com/BenSaunders27/ProgressiveTransformersSLP)   |
+| [Progressive Transf](https://arxiv.org/abs/2004.14874) | 2020 | 9.68  | - | - | ✅ | ECCV |  [Avaliable](https://github.com/BenSaunders27/ProgressiveTransformersSLP)   |
+| [IFECE (MFs)](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2023 | 8.19  | - | -  | ✅ | SEM |  -   |
+| [IFECE (MFs + FI + AUs)](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2023 | 5.76  | - | -  | ✅ | SEM |  -   |
+
+
 | [GCDM](https://dl.acm.org/doi/abs/10.1145/3663572) | 2024 | 7.91  | 11.10  | ACM |  -   |
 
+### Results on CSL-Daily dataset
+
+#### Text to Pose
+| Model Name      | Year | BLEU-4      | DTW-P     | with Gloss   | Conference/Journal     | Code         |
+|-----------------|------|-------------|-----------|--------------|------------------------|--------------|
+| [Spoken2Sign](https://arxiv.org/pdf/2401.04730) | 2024 | 21.44  | - | -  | ✅ | ECCV |  -   |
