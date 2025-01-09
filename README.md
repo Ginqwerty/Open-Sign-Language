@@ -441,7 +441,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[CVPR]** `Neural Sign Actors` Neural Sign Actors: A Diffusion Model for 3D Sign Language Production from Text. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.html)
 - **[WACV]** Sign Language Production with Latent Motion Transformer. [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.html)
 - **[ECCV]** `Spoken2Sign` A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [Paper](https://arxiv.org/pdf/2401.04730)
-- **[ECCV]** SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [Paper](https://eccv.ecva.net/virtual/2024/poster/2581)
+- **[ECCV]** `SignGen` SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [Paper](https://eccv.ecva.net/virtual/2024/poster/2581)
 - **[AAAI]** `G2P-DDM` G2P-DDM: Generating Sign Pose Sequence from Gloss Sequence with Discrete Diffusion Model. [Paper](https://arxiv.org/abs/2208.09141) | [Project Page](https://slpdiffusier.github.io/g2p-ddm/)
 - **[IEEE FG]** A Gloss-free Sign Language Production with Discrete Representation. [Paper](https://ieeexplore.ieee.org/abstract/document/10581980?casa_token=k1MKhNXwmBAAAAAA:Zxygq6G2ane541p99NTFBF8bC_QdHDYhkNB5yNs1eUYXtDu780u19flLsGigA8j7e2iQVqlupA)
 - **[IEEE FG]** `Data-Driven` A Data-Driven Representation for Sign Language Production. [Paper](https://ieeexplore.ieee.org/document/10581995)
@@ -838,12 +838,14 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | [Spoken2Sign](https://arxiv.org/pdf/2401.04730) | 2024 | 25.46  | - | ✅ | ECCV |  -   |
 | [SignDiff](https://arxiv.org/pdf/2308.16082) | 2023 | 22.15  | - | ❌ | ArXiv |  -   |
 | [FS-NET](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2022 | 21.10  | - |  ❌ | CVPR |  -   |
+| [SignGen](https://eccv.ecva.net/virtual/2024/poster/2581) | 2024 | 19.71  | - | ❌ | ECCV |  -   |
 | [T2S-GPT](https://arxiv.org/abs/2406.07119) | 2024 | 11.87 | - |  ❌ | ArXiv |  -   |
 | [Progressive Transf](https://arxiv.org/abs/2004.14874) | 2020 | 10.51  | - |  ❌ | ECCV |  [Avaliable](https://github.com/BenSaunders27/ProgressiveTransformersSLP)   |
 | [Progressive Transf](https://arxiv.org/abs/2004.14874) | 2020 | 9.68  | - |  ✅ | ECCV |  [Avaliable](https://github.com/BenSaunders27/ProgressiveTransformersSLP)   |
 | [Data-Driven](https://ieeexplore.ieee.org/document/10581995) | 2024 | 9.20  | - | ❌ | SEM |  -   |
 | [IFECE (MFs)](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2023 | 8.19  | - | ✅ | SEM |  -   |
 | [IFECE (MFs + FI + AUs)](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2023 | 5.76  | - | ✅ | SEM |  -   |
+
 
 
 ### Results on CSL-Daily dataset
