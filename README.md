@@ -823,7 +823,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |-----------------|------|-------------|-----------|-------------|------------------------|--------------|
 | [FS-NET](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2022 | 18.78  | - | -  | CVPR |  -   |
 | [Progressive Transf](https://arxiv.org/abs/2004.14874) | 2020 | 10.43  | - | -  | ECCV |  [Avaliable](https://github.com/BenSaunders27/ProgressiveTransformersSLP)   |
-| [LVMCN](https://arxiv.org/abs/2412.16944) | 2024 | 9.36  | 10.14  | ArXiv |  -   |
+| [LVMCN](https://arxiv.org/abs/2412.16944) | 2024 | 9.36  | - | 10.14  | ArXiv |  -   |
 | [Data-Driven](https://ieeexplore.ieee.org/document/10581995) | 2024 | 9.17  | - | - | SEM |  -   |
 | [GEN-OBT](https://dl.acm.org/doi/abs/10.1145/3503161.3547830?casa_token=_MlXpMYEzNoAAAAA:2L5Ktxo-G1ygXpL4LQnPcYmTPKrUiJU5wKUIYATaillFPDL90iyz5Q7egp_9_aX6WcnsCXdGIZ8gWA) | 2022 | 8.01  | 81.78 | 10.07  | ACM |  -   |
 | [GCDM](https://dl.acm.org/doi/abs/10.1145/3663572) | 2024 | 7.91  | 81.94 | 11.10  | ACM |  -   |
