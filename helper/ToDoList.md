@@ -1,5 +1,8 @@
 This document will serve as an up-to-date To-Do List Note.
 
+## 01/10:
+- [ ] Update Production Leaderboard in the future reading.
+
 ## 01/08:
 - [ ] Sections for "Sign Language Retrieval" and "Others"
 - [ ] Add detail information of "BLEU" and "WER"
