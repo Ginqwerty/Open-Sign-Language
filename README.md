@@ -454,6 +454,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** iSign: A Benchmark for Indian Sign Language Processing. [Paper](https://arxiv.org/abs/2407.05404)
 - **[ArXiv]** `UniGloR` A Spatio-Temporal Representation Learning as an Alternative to Traditional Glosses in Sign Language Translation and Production. [Paper](https://arxiv.org/abs/2407.02854) | [Code](https://github.com/eddie-euijun-hwang/UniGloR)
 - **[ArXiv]** `LVMCN` Linguistics-Vision Monotonic Consistent Network for Sign Language Production. [Paper](https://arxiv.org/abs/2412.16944)
+- **[ArXiv]** `Sign-IDD` Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production. [Paper](https://arxiv.org/abs/2412.13609) 
   
 
 #### 2023
