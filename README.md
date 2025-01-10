@@ -830,11 +830,13 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | [NSLP-G](https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf) | 2021 | 9.39  | - | - | BMVC |  -   |
 | [LVMCN](https://arxiv.org/abs/2412.16944) | 2024 | 9.36  | - | 10.14  | ArXiv |  -   |
 | [Data-Driven](https://ieeexplore.ieee.org/document/10581995) | 2024 | 9.17  | - | - | SEM |  -   |
+| [Sign-IDD](https://arxiv.org/abs/2412.13609) | 2024 | 9.08  | - | - | ArXiv |  -   |
 | [GEN-OBT](https://dl.acm.org/doi/abs/10.1145/3503161.3547830?casa_token=_MlXpMYEzNoAAAAA:2L5Ktxo-G1ygXpL4LQnPcYmTPKrUiJU5wKUIYATaillFPDL90iyz5Q7egp_9_aX6WcnsCXdGIZ8gWA) | 2022 | 8.01  | 81.78 | 10.07  | ACM |  -   |
 | [GCDM](https://dl.acm.org/doi/abs/10.1145/3663572) | 2024 | 7.91  | 81.94 | 11.10  | ACM |  -   |
 | [G2P-DDM](https://arxiv.org/abs/2208.09141) | 2024 | 7.50 | - | -  | AAAI |  -   |
 | [NAT-EA](https://dl.acm.org/doi/abs/10.1145/3474085.3475463?casa_token=anYLezVhxNYAAAAA:XaOvgclXT1VHV0vE6IbfECNS3YpPp5JbgXHb42s5KvJnG5WUD11Yh3xsXRVZDRBngQNFYExPmBvO6g) | 2021 | 6.66  | 82.01 | -  | ACM MM |  -   |
 | [NAT-AT](https://dl.acm.org/doi/abs/10.1145/3474085.3475463?casa_token=anYLezVhxNYAAAAA:XaOvgclXT1VHV0vE6IbfECNS3YpPp5JbgXHb42s5KvJnG5WUD11Yh3xsXRVZDRBngQNFYExPmBvO6g) | 2021 | 5.53  | 88.15 | -  | ACM |  -   |
+
 
 
 #### Text to Pose
