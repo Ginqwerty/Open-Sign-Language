@@ -455,6 +455,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** `UniGloR` A Spatio-Temporal Representation Learning as an Alternative to Traditional Glosses in Sign Language Translation and Production. [Paper](https://arxiv.org/abs/2407.02854) | [Code](https://github.com/eddie-euijun-hwang/UniGloR)
 - **[ArXiv]** `LVMCN` Linguistics-Vision Monotonic Consistent Network for Sign Language Production. [Paper](https://arxiv.org/abs/2412.16944)
 - **[ArXiv]** `Sign-IDD` Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production. [Paper](https://arxiv.org/abs/2412.13609) | [Code](https://github.com/NaVi-start/Sign-IDD)
+- **[ArXiv]** `MS2SL` MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production. [Paper](https://arxiv.org/abs/2407.12842)
   
 
 #### 2023
@@ -856,7 +857,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | [IFECE (MFs)](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2023 | 8.19  | - | ✅ | SEM |  -   |
 | [SignVQNet](https://arxiv.org/abs/2309.12179) | 2024 | 6.85  | - | ❌ | FG |  -   |
 | [IFECE (MFs + FI + AUs)](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2023 | 5.76  | - | ✅ | SEM |  -   |
-
+| [MS2SL](https://arxiv.org/abs/2407.12842) | 2024 | 4.26  | - | ❌ | ArXiv |  -   |
+  
 
 
 ### Results on CSL-Daily dataset
