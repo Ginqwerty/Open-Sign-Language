@@ -489,9 +489,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ECCV]** `Progressive Transf` Progressive transformers for end-to-end sign language production. [Paper](https://arxiv.org/abs/2004.14874) | [Code](https://github.com/BenSaunders27/ProgressiveTransformersSLP)
 - **[IJCV]** Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. [Paper](https://link.springer.com/article/10.1007/s11263-019-01281-2)
 - **[WACV]** Neural Sign Language Synthesis: Words Are Our Glosses. [Paper](https://ieeexplore.ieee.org/document/9093516)
-
-##### ArXiv
-- **[ArXiv]** Adversarial Training for Multi-Channel Sign Language Production. [Paper](https://arxiv.org/abs/2008.12405)
+- **[BMCV]** `Adversarial Training` Adversarial Training for Multi-Channel Sign Language Production. [Paper](https://arxiv.org/abs/2008.12405)
   
 <details>
   <summary><b>Earlier</b></summary>
@@ -826,6 +824,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | Model Name      | Year | BLEU-4      | WER       | DTW-P       | Conference/Journal     | Code         |
 |-----------------|------|-------------|-----------|-------------|------------------------|--------------|
 | [FS-NET](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2022 | 18.78  | - | -  | CVPR |  -   |
+| [Adversarial Training](https://arxiv.org/abs/2008.12405) | 2020 | 11.7  | - | - | BMVC |  -   |
 | [Progressive Transf](https://arxiv.org/abs/2004.14874) | 2020 | 10.43  | - | -  | ECCV |  [Avaliable](https://github.com/BenSaunders27/ProgressiveTransformersSLP)   |
 | [NSLP-G](https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf) | 2021 | 9.39  | - | - | BMVC |  -   |
 | [LVMCN](https://arxiv.org/abs/2412.16944) | 2024 | 9.36  | - | 10.14  | ArXiv |  -   |
@@ -847,12 +846,14 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | [T2S-GPT](https://arxiv.org/abs/2406.07119) | 2024 | 11.87 | - |  ❌ | ArXiv |  -   |
 | [NSLP-G (+ Finetuning)](https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf) | 2021 | 11.07 | - |  ❌ | BMVC |  -   |
 | [NSLP-G](https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf) | 2021 | 10.95 | - |  ❌ | BMVC |  -   |
+| [Adversarial Training](https://arxiv.org/abs/2008.12405) | 2020 | 10.81 | - |  ❌ | BMVC |  -   |
 | [Progressive Transf](https://arxiv.org/abs/2004.14874) | 2020 | 10.51  | - |  ❌ | ECCV |  [Avaliable](https://github.com/BenSaunders27/ProgressiveTransformersSLP)   |
 | [Progressive Transf](https://arxiv.org/abs/2004.14874) | 2020 | 9.68  | - |  ✅ | ECCV |  [Avaliable](https://github.com/BenSaunders27/ProgressiveTransformersSLP)   |
 | [Data-Driven](https://ieeexplore.ieee.org/document/10581995) | 2024 | 9.20  | - | ❌ | SEM |  -   |
 | [IFECE (MFs)](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2023 | 8.19  | - | ✅ | SEM |  -   |
 | [SignVQNet](https://arxiv.org/abs/2309.12179) | 2024 | 6.85  | - | ❌ | FG |  -   |
 | [IFECE (MFs + FI + AUs)](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2023 | 5.76  | - | ✅ | SEM |  -   |
+
 
 
 ### Results on CSL-Daily dataset
