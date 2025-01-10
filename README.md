@@ -478,7 +478,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[ACM MM]** `NAT-EA` Towards Fast and High-Quality Sign Language Production. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475463?casa_token=anYLezVhxNYAAAAA:XaOvgclXT1VHV0vE6IbfECNS3YpPp5JbgXHb42s5KvJnG5WUD11Yh3xsXRVZDRBngQNFYExPmBvO6g)
 - **[ICCV]** Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Saunders_Mixed_SIGNals_Sign_Language_Production_via_a_Mixture_of_Motion_ICCV_2021_paper.html)
-- **[BMVC]** Non-Autoregressive Sign Language Production with Gaussian Space. [Paper](https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf)
+- **[BMVC]** `NSLP-G` Non-Autoregressive Sign Language Production with Gaussian Space. [Paper](https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf)
 
 ##### Journal
 - **[IJCV]** Continuous 3D Multi-Channel Sign Language Production via Progressive Transformers and Mixture Density Networks. [Paper](https://link.springer.com/article/10.1007/s11263-021-01457-9)
@@ -826,6 +826,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |-----------------|------|-------------|-----------|-------------|------------------------|--------------|
 | [FS-NET](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2022 | 18.78  | - | -  | CVPR |  -   |
 | [Progressive Transf](https://arxiv.org/abs/2004.14874) | 2020 | 10.43  | - | -  | ECCV |  [Avaliable](https://github.com/BenSaunders27/ProgressiveTransformersSLP)   |
+| [NSLP-G](https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf) | 2021 | 9.39  | - | - | BMVC |  -   |
 | [LVMCN](https://arxiv.org/abs/2412.16944) | 2024 | 9.36  | - | 10.14  | ArXiv |  -   |
 | [Data-Driven](https://ieeexplore.ieee.org/document/10581995) | 2024 | 9.17  | - | - | SEM |  -   |
 | [GEN-OBT](https://dl.acm.org/doi/abs/10.1145/3503161.3547830?casa_token=_MlXpMYEzNoAAAAA:2L5Ktxo-G1ygXpL4LQnPcYmTPKrUiJU5wKUIYATaillFPDL90iyz5Q7egp_9_aX6WcnsCXdGIZ8gWA) | 2022 | 8.01  | 81.78 | 10.07  | ACM |  -   |
@@ -843,6 +844,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | [FS-NET](https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.pdf) | 2022 | 21.10  | - |  ❌ | CVPR |  -   |
 | [SignGen](https://eccv.ecva.net/virtual/2024/poster/2581) | 2024 | 19.71  | - | ❌ | ECCV |  -   |
 | [T2S-GPT](https://arxiv.org/abs/2406.07119) | 2024 | 11.87 | - |  ❌ | ArXiv |  -   |
+| [NSLP-G (+ Finetuning)](https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf) | 2021 | 11.07 | - |  ❌ | BMVC |  -   |
+| [NSLP-G](https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf) | 2021 | 10.95 | - |  ❌ | BMVC |  -   |
 | [Progressive Transf](https://arxiv.org/abs/2004.14874) | 2020 | 10.51  | - |  ❌ | ECCV |  [Avaliable](https://github.com/BenSaunders27/ProgressiveTransformersSLP)   |
 | [Progressive Transf](https://arxiv.org/abs/2004.14874) | 2020 | 9.68  | - |  ✅ | ECCV |  [Avaliable](https://github.com/BenSaunders27/ProgressiveTransformersSLP)   |
 | [Data-Driven](https://ieeexplore.ieee.org/document/10581995) | 2024 | 9.20  | - | ❌ | SEM |  -   |
