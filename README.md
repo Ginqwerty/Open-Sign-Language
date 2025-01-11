@@ -480,7 +480,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2021
 ##### Conference
 - **[ACM MM]** `NAT-EA` Towards Fast and High-Quality Sign Language Production. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475463?casa_token=anYLezVhxNYAAAAA:XaOvgclXT1VHV0vE6IbfECNS3YpPp5JbgXHb42s5KvJnG5WUD11Yh3xsXRVZDRBngQNFYExPmBvO6g)
-- **[ICCV]** Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Saunders_Mixed_SIGNals_Sign_Language_Production_via_a_Mixture_of_Motion_ICCV_2021_paper.html)
+- **[ICCV]** `Mixed SIGNals` Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives. [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Saunders_Mixed_SIGNals_Sign_Language_Production_via_a_Mixture_of_Motion_ICCV_2021_paper.html)
 - **[BMVC]** `NSLP-G` Non-Autoregressive Sign Language Production with Gaussian Space. [Paper](https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf)
 
 ##### Journal
