@@ -57,16 +57,21 @@ This repository is all you need for Sign Language Study!
 ##### Journal
 - **[ScienceDirect]** Sign Language Recognition: A Deep Survey. [Paper](https://www.sciencedirect.com/science/article/pii/S095741742030614X?casa_token=P9dIGfGoMh0AAAAA:RPA7HImaRjZfsOJrJZ8INi-a9V0fJXp4hvKRRHLZMm_LySJee-lQ86zL9VcVdp2cQbkyK6zfsqM)
 - **[Sensors]** Artificial Intelligence Technologies for Sign Language. [Paper](https://www.mdpi.com/1424-8220/21/17/5843)
+- **[IEEE Access]** Deep Learning for Sign Language Recognition: Current Techniques, Benchmarks, and Open Issues. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9530569)
+- **[ISA]** Machine Learning Methods for Sign Language Recognition: A Critical Review and Analysis. [Paper](https://www.sciencedirect.com/science/article/pii/S2667305321000454)
   
 #### 2020
 ##### Conference
 - **[INOCON]** Sign Language Recognition Techniques- A Review. [Paper](https://ieeexplore.ieee.org/abstract/document/9298376?casa_token=MrQiOVakC8QAAAAA:GG44e9mc7qGyzRwV07HaS_42kmNVqSN96Bu_2tI188wkiLI_KNfNwaEV7t_B81IKwh-YJlNNNw)
 
-
 ##### Journal
 - **[Arab. J. Sci. Eng.]** A Survey on Artificial Intelligence in Chinese Sign Language
 Recognition. [Paper](https://link.springer.com/article/10.1007/s13369-020-04758-2)
 - **[J. Eng. Appl. Sci.]** Advances, challenges and opportunities in continuous sign language recognition. [Paper](https://fci.stafpu.bu.edu.eg/Computer%20Science/1273/publications/nada%20bahaa%20ibrahim%20ahmed_1205-1227.pdf)
+- **[MTA]** Understanding Vision-Based Continuous Sign Language Recognition. [Paper](https://link.springer.com/article/10.1007/s11042-020-08961-z)
+- **[EAAI]** A Comprehensive Survey and Taxonomy of Sign Language Research. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197622002925)
+- 
+
 ##### Arxiv
 - **[Arxiv]** Quantitative Survey of the State of the Art in Sign Language Recognition. [Paper](https://arxiv.org/abs/2008.09918)
 
