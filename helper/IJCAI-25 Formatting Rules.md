@@ -1,7 +1,5 @@
 # IJCAI-25 Formatting Rules (IJCAI-25 论文格式要求)
 
----
-
 ## Page Layout (页面布局)
 
 - **Paper Size (纸张尺寸)**:  
@@ -23,7 +21,6 @@
   - First Page (首页): 6.625 inches (6.625英寸)。  
   - Other Pages (其他页面): 9 inches (9英寸)。
 
----
 
 ## Content Length (内容长度)
 
@@ -35,7 +32,6 @@
   - Page limits may vary by track. (页数限制因分会要求而不同。)  
   - Some tracks allow purchasing extra pages. (部分分会允许购买额外页面。)
 
----
 
 ## Font and Typesetting (字体与排版)
 
@@ -56,7 +52,6 @@
   - Subsection: 8 pt above, 3 pt below. (二级标题: 上8 pt，下3 pt。)  
   - Subsubsection: 6 pt above. (三级标题: 上6 pt。)
 
----
 
 ## Submission and Camera-Ready Requirements (提交与终稿要求)
 
@@ -68,7 +63,6 @@
   - Enable line numbers for the submission version. (提交版需启用行号。)  
   - Disable line numbers for the camera-ready version. (终稿需禁用行号。)
 
----
 
 ## Abstract (摘要)
 
@@ -83,7 +77,6 @@
   - Title: "Abstract", bold, 12 pt, centered. (标题“Abstract”，12 pt 加粗，居中。)  
   - Text: Same font and size as the main text. (正文与主文一致。)
 
----
 
 ## Figures and Tables (插图与表格)
 
@@ -96,7 +89,6 @@
   - Use the `booktabs` package for better styling. (推荐使用 `booktabs` 排版，优化表格样式。)  
   - Captions should be in 9 pt font, below the table. (说明文字为9 pt，放置在表格下方。)
 
----
 
 ## Equations (公式)
 
@@ -105,7 +97,6 @@
   - Avoid using overly small fonts. (避免使用过小字体。)  
   - Equation numbers should match the main text font size (10 pt). (公式编号与正文字体一致，为10 pt。)
 
----
 
 ## Appendices (附录)
 
@@ -129,7 +120,6 @@
   Content in appendices counts toward the total page limit.  
   (附录内容计入总页数限制。)
 
----
 
 ## References (参考文献)
 
@@ -142,7 +132,6 @@
   - Use consistent formatting throughout. (格式保持一致。)  
   - Avoid citing unpublished work. (避免引用未公开发表的作品。)
 
----
 
 ## Ethical Statement and Acknowledgements (伦理声明与致谢)
 
@@ -154,7 +143,6 @@
   Optional. Acknowledge contributions, funding, etc.  
   (可选部分，用于感谢合作、资助等支持。)
 
----
 
 ## LaTeX Example Code (LaTeX 示例代码)
 
