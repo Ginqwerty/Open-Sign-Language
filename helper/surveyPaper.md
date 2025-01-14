@@ -13,6 +13,7 @@
 Due to space constraints, we introduce only a few commonly used Isolated Sign Language Datasets and Continuous Sign Language Datasets here. For more comprehensive information about sign language datasets, please refer to our GitHub link.
 - Isolated Sign Language Dtasets
 - Continuous Sign Language Datasets
+- Sign Language Statistic Table
 
 # Challenges and Future Direction
 ## Challenges
