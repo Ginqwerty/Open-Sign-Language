@@ -25,6 +25,12 @@ Due to space constraints, we introduce only a few commonly used Isolated Sign La
 
 # Annotation 
 - Based on an analysis of several commonly used datasets, we have identified their strengths and outlined the data content that we believe future sign language datasets should include to support diverse sign language research.
+  - Sign Language Video/Frames
+  - Video Name
+  - Start Time
+  - End Time
+  - Gloss(Not Necessary)  
+  - Translation Text
 
 # Conclusion
 
