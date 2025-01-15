@@ -68,6 +68,20 @@ Attributes for research involving other modalities:
 - **Eye Gaze Tracking**: Essential for understanding conversational turn-taking.
 - **Environmental Sounds**: Includes ambient noises for real-world scenarios.
 
+### Note from Ni
+- 推荐处理数据的步骤：
+  - Sentence-Level Alignment: 句子级的翻译或信息对齐
+  - 移除长时间没有手语动作的帧数，或者按照结尾动作进行视频分割
+  - 移除不清晰的视频：确保视频清晰且动作明确
+  - 数据平衡：确保不同类别（如单词、句子）和语境（如日常对话、专业领域）的平衡分布，区域方言：考虑同一手语内的地域差异
+- 必须需要包含的信息：
+  - Sign Language Video/Frames
+  - Video Name 
+  - Translation Text
+  - Multimodal Features: Skeleton-Key Point Data(整体的，脸部局部的，左右手局部的）
+- 推荐包含的数据：
+  - Gloss(可以提供部分，做self- supervise learnign)
+  - Word-Level Alignment
 
 # Conclusion
 
