@@ -24,13 +24,50 @@ Due to space constraints, we introduce only a few commonly used Isolated Sign La
 - Different datasets use various annotation formats and are stored in different file formats, so cross-dataset training requires additional data preprocessing.
 
 # Annotation 
-- Based on an analysis of several commonly used datasets, we have identified their strengths and outlined the data content that we believe future sign language datasets should include to support diverse sign language research.
+- Based on an analysis of several commonly used datasets, we have identified their strengths and outlined the data content that future sign language datasets are recommended to include to support diverse sign language research.
   - Sign Language Video/Frames
   - Video Name
   - Start Time
   - End Time
   - Gloss(Not Necessary)  
   - Translation Text
+ 
+ ## 1. Signer Level
+Attributes describing the signers, crucial for analyzing variation in signing styles and personalization:
+- **Height/Weight**: Influences signing space and gesture size, relevant for pose estimation.
+- **Hand Dominance (Left/Right)**: Impacts signing directionality and gesture patterns.
+- **Gender**: May correlate with signing style or cultural variations.
+- **Age**: Affects signing fluency and style (e.g., children vs. adults).
+- **Language Background**: Indicates native fluency or learned signing; vital for multilingual research.
+- **Deaf/Hard of Hearing/Non-Deaf**: Influences signing proficiency and usage.
+
+ ## 2. Annotation Level
+Details describing the temporal and semantic information of signing sequences:
+- **Time Alignment**: Essential for mapping signs to spoken language or glosses.
+- **Sentence-Level Annotations**: Supports continuous signing translation and contextual understanding.
+- **Word/Gloss-Level Annotations**: Fine-grained labels for recognizing specific signs.
+- **Hand Keypoints (Pose)**: Tracks hand movements, aiding gesture recognition.
+- **Facial Skeleton Keypoints**: Captures expressions integral to sign language grammar.
+- **Body Keypoints**: Full-body motion tracking for complex gestures and non-manual signs.
+- **Sign Boundary Information**: Distinguishes isolated signs within continuous signing.
+- **Emotion Tags**: Links emotional expressions to signing, relevant for sentiment analysis.
+- **Sign Speed/Intensity**: Tracks fluency and expressiveness, useful for speech-rate studies.
+
+ ## 3. Recording Environment
+Attributes of the data collection environment for reproducibility and robustness:
+- **Camera Type and Resolution**: Impacts data quality and model accuracy.
+- **Lighting Conditions**: Crucial for robust computer vision models.
+- **Recording Angles**: Multi-angle views aid 3D modeling and pose recovery.
+- **Recording Device Setup**: Monoscopic, stereoscopic, or depth cameras (e.g., RGB-D).
+
+ ## 4. Additional Features for Multimodal Research
+Attributes for research involving other modalities:
+- **Audio Alignment**: Supports research on speech-to-sign translation.
+- **Depth Data**: Adds 3D spatial information for precise hand tracking.
+- **Heatmaps**: Captures areas of focus or intensity during signing.
+- **Eye Gaze Tracking**: Essential for understanding conversational turn-taking.
+- **Environmental Sounds**: Includes ambient noises for real-world scenarios.
+
 
 # Conclusion
 
