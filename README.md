@@ -1,7 +1,7 @@
 # Open-Sign-Language
 This repository is all you need for Sign Language Study!
 
-## Table of Contents
+## :memo: Table of Contents
 - [Datasets](#datasets) 
 - [Papers](#papers)
   - [Survey Papers](#survey-papers)
@@ -13,10 +13,10 @@ This repository is all you need for Sign Language Study!
   - [SLT Leaderboard](#slt-leaderboard)
   - [SLP Leaderboard](#slp-leaderboard)
 
-## Datasets
+## 🔍 Datasets
 - Please refer to [this page](helper/datasets.md).
 
-## Papers
+## :scroll: Papers
 ### Survey Papers
 **********************************************************************************************************************
 ### Datasets Survey Papers
@@ -506,7 +506,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 </details>
 
-## Leaderboard
+## 🏆 Leaderboard
 
 ### SLR Leaderboard
 ### Results on SIGNUM dataset
