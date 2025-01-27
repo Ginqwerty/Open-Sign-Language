@@ -1,5 +1,8 @@
 This document will serve as an up-to-date To-Do List Note.
 
+## 01/27:
+- [ ] The papers of SLP were classified according to Autoregressive model and Non-Autoregressive model.
+
 ## 01/10:
 - [ ] Update Production Leaderboard in the future reading.
 
