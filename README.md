@@ -497,6 +497,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[IJCV]** Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. [Paper](https://link.springer.com/article/10.1007/s11263-019-01281-2)
 - **[WACV]** Neural Sign Language Synthesis: Words Are Our Glosses. [Paper](https://ieeexplore.ieee.org/document/9093516)
 - **[BMCV]** `Adversarial Training` Adversarial Training for Multi-Channel Sign Language Production. [Paper](https://arxiv.org/abs/2008.12405)
+
+##### Journal
+- **[INNS]** Skeleton-based Chinese sign language recognition and generation for bidirectional communication between deaf and hearing people. [Paper](https://www.sciencedirect.com/science/article/pii/S089360802030040X?casa_token=YZ0ClcVeheIAAAAA:K9iH5d-jWl6TJQdCw7ixw-GcvT5Z29XoqwmrH2LTwjoEyuYsRKcjPmmv4vOqWujxLywbcsVzgEA)
   
 <details>
   <summary><b>Earlier</b></summary>
