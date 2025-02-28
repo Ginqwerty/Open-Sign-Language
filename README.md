@@ -485,6 +485,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Journal
 - **[IEEE]** Spatial–Temporal Graph Transformer With Sign Mesh Regression for Skinned-Based Sign Language Production. [Paper](https://ieeexplore.ieee.org/abstract/document/9970737)
 
+##### ArXiv
+- **[ArXiv]** Non-Autoregressive Sign Language Production via Knowledge Distillation. [Paper](https://arxiv.org/abs/2208.06183)
+
 #### 2021
 ##### Conference
 - **[ACM MM]** `NAT-EA` Towards Fast and High-Quality Sign Language Production. [Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475463?casa_token=anYLezVhxNYAAAAA:XaOvgclXT1VHV0vE6IbfECNS3YpPp5JbgXHb42s5KvJnG5WUD11Yh3xsXRVZDRBngQNFYExPmBvO6g)
