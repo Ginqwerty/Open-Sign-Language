@@ -440,6 +440,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[ECCV]** `Signavatars` Signavatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark. [Paper](https://arxiv.org/pdf/2310.20436)
 
+##### ArXiv
+- **[ArXiv]** `CNSign` Beyond Words: AuralLLM and SignMST-C for Precise Sign Language Production and Bidirectional Accessibility. [Paper](https://arxiv.org/abs/2501.00765)
 
 #### 2024
 ##### Conference
@@ -461,6 +463,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** `LVMCN` Linguistics-Vision Monotonic Consistent Network for Sign Language Production. [Paper](https://arxiv.org/abs/2412.16944)
 - **[ArXiv]** `Sign-IDD` Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production. [Paper](https://arxiv.org/abs/2412.13609) | [Code](https://github.com/NaVi-start/Sign-IDD)
 - **[ArXiv]** `MS2SL` MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production. [Paper](https://arxiv.org/abs/2407.12842)
+- **[ArXiv]** `SignLLM` SignLLM: Sign Language Production Large Language Models. [Paper](https://arxiv.org/abs/2405.10718)
   
 
 #### 2023
