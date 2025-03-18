@@ -442,6 +442,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ##### ArXiv
 - **[ArXiv]** `CNSign` Beyond Words: AuralLLM and SignMST-C for Precise Sign Language Production and Bidirectional Accessibility. [Paper](https://arxiv.org/abs/2501.00765)
+- **[ArXiv]** A Transformer-Based Framework for Greek Sign Language Production using Extended Skeletal Motion Representations. [Paper](https://arxiv.org/abs/2503.02421)
 
 #### 2024
 ##### Conference
