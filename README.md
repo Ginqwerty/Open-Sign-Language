@@ -141,6 +141,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 ### SLR Papers
 #### 2025
+##### Conference
+- **[WACV]** Sign Language Recognition: A Large-Scale Multi-View Dataset and Comprehensive Evaluation. [Paper](https://openaccess.thecvf.com/content/WACV2025/html/Dinh_Sign_Language_Recognition_A_Large-Scale_Multi-View_Dataset_and_Comprehensive_Evaluation_WACV_2025_paper.html)
+
 ##### Journal
 - **[MVA]** `MAM-FSD` Continuous Sign Language Recognition Based on Motor Attention Mechanism and Frame-Level Self-Distillation. [Paper](https://arxiv.org/pdf/2402.19118) 
 
@@ -284,6 +287,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2025
 ##### Conference
 - **[COLING]** `TextCTC-SLT` Improvement in Sign Language Translation Using Text CTC Alignment. [Paper](https://arxiv.org/abs/2412.09014) | [Code](https://github.com/Claire874/TextCTC-SLT)
+- **[NeurIPS]** Scaling Sign Language Translation. [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ced76a666704e381c3039871ffe558ee-Abstract-Conference.html)
 
 #### 2024
 ##### Conference
