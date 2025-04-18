@@ -470,6 +470,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** `MS2SL` MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production. [Paper](https://arxiv.org/abs/2407.12842)
 - **[ArXiv]** `SignLLM` SignLLM: Sign Language Production Large Language Models. [Paper](https://arxiv.org/abs/2405.10718)
   
+##### Workshop
+- **[NuerIPS]** Generative Interpolation of Sign Language Poses using RVQ-VAE. [Paper](https://openreview.net/pdf?id=leI9WFbHT2)
 
 #### 2023
 ##### Conference
