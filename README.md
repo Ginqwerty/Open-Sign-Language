@@ -287,7 +287,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2025
 ##### Conference
 - **[COLING]** `TextCTC-SLT` Improvement in Sign Language Translation Using Text CTC Alignment. [Paper](https://arxiv.org/abs/2412.09014) | [Code](https://github.com/Claire874/TextCTC-SLT)
-- **[NeurIPS]** Scaling Sign Language Translation. [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ced76a666704e381c3039871ffe558ee-Abstract-Conference.html)
 
 #### 2024
 ##### Conference
@@ -347,6 +346,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
   
 #### 2024
 ##### Conference
+- **[NeurIPS]** Scaling Sign Language Translation. [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ced76a666704e381c3039871ffe558ee-Abstract-Conference.html)
 - **[NeurIPS]** `SignCL` Improving Gloss-free Sign Language Translation by Reducing Representation Density. [Paper](https://arxiv.org/abs/2405.14312) | [Code](https://github.com/JinhuiYE/SignCL)
 - **[ACL]** `SLT-SEM` Sign Language Translation with Sentence Embedding Supervision. [Paper](https://aclanthology.org/2024.acl-short.40/) | [Code](https://github.com/yhamidullah/sem-slt)
 - **[ECCV]** `VAP` Visual Alignment Pre-training for Sign Language Translation. [Paper](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)
