@@ -152,6 +152,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[FO]** Mamba vision models: Automated American sign language recognition. [Paper](https://www.sciencedirect.com/science/article/pii/S2773186325000143)
 - **[SN]** Empowering deaf communication: a novel LSTM model for recognizing Indonesian sign language. [Paper](https://link.springer.com/article/10.1007/s10209-024-01095-1)
 - **[ICPR]** EMPATH: MediaPipe-Aided Ensemble Learning with Attention-Based Transformers for Accurate Recognition of Bangla Word-Level Sign Language. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78305-0_23)
+- **[Neurocomputing]** `Swin-MSTP` Swin-MSTP: Swin transformer with multi-scale temporal perception for continuous sign language recognition. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224017867)
 
 #### 2024
 ##### Conference
