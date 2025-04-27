@@ -145,6 +145,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2025
 ##### Conference
 - **[WACV]** Sign Language Recognition: A Large-Scale Multi-View Dataset and Comprehensive Evaluation. [Paper](https://openaccess.thecvf.com/content/WACV2025/html/Dinh_Sign_Language_Recognition_A_Large-Scale_Multi-View_Dataset_and_Comprehensive_Evaluation_WACV_2025_paper.html)
+- **[ICLR]** UNI-SIGN: TOWARD UNIFIED SIGN LANGUAGE UNDERSTANDING AT SCALE. [Paper](https://iclr.cc/virtual/2025/poster/31250)
 
 ##### Journal
 - **[MVA]** `MAM-FSD` Continuous Sign Language Recognition Based on Motor Attention Mechanism and Frame-Level Self-Distillation. [Paper](https://arxiv.org/pdf/2402.19118) 
@@ -345,6 +346,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2025
 ##### Conference
 - **[WACV]** `UniGloR` A Spatio-Temporal Representation Learning as an Alternative to Traditional Glosses in Sign Language Translation and Production. [Paper](https://arxiv.org/abs/2407.02854) | [Code](https://github.com/eddie-euijun-hwang/UniGloR)
+- **[ICLR]** UNI-SIGN: TOWARD UNIFIED SIGN LANGUAGE UNDERSTANDING AT SCALE. [Paper](https://iclr.cc/virtual/2025/poster/31250)
   
 #### 2024
 ##### Conference
