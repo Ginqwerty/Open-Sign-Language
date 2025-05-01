@@ -154,6 +154,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ICPR]** EMPATH: MediaPipe-Aided Ensemble Learning with Attention-Based Transformers for Accurate Recognition of Bangla Word-Level Sign Language. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78305-0_23)
 - **[Neurocomputing]** `Swin-MSTP` Swin-MSTP: Swin transformer with multi-scale temporal perception for continuous sign language recognition. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224017867)
 
+##### ArXiv
+- **[ArXiv]** `SSLR` SSLR: A Semi-Supervised Learning Method for Isolated Sign Language Recognition. [Paper](https://arxiv.org/abs/2504.16640)
+
 #### 2024
 ##### Conference
 - **[CVPR]** `SignGraph` SignGraph: A Sign Sequence is Worth Graphs of Nodes. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.html) | [Code](https://github.com/gswycf/SignGraph)
@@ -355,6 +358,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ##### ArXiv
 - **[ArXiv]** Spatio-temporal transformer to support automatic sign language translation. [Paper](https://arxiv.org/abs/2502.02587)
+- **[ArXiv]** `ADAT` ADAT: Time-Series-Aware Adaptive Transformer Architecture for Sign Language Translation. [Paper](https://arxiv.org/abs/2504.11942)
+- **[ArXiv]** Sign Language Translation using Frame and Event Stream: Benchmark Dataset and Algorithms. [Paper](https://arxiv.org/abs/2503.06484)
+- **[ArXiv]** GLoT: A Novel Gated-Logarithmic Transformer for Efficient Sign Language Translation. [Paper](https://arxiv.org/abs/2502.12223)
 
   
 #### 2024
