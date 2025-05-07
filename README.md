@@ -37,6 +37,20 @@ This repository is all you need for Sign Language Study!
 | [ASL Citizen](https://www.microsoft.com/en-us/research/project/asl-citizen/)                                            | 2023  | American       | 83,399 videos                   | 52       | General                                  |
 | [LSA-64](https://facundoq.github.io/datasets/lsa64/)                                                                    | 2016  | Argentina      | 3,200 video sequences           | 10       | Dictionary                               |
 
+### Commonly Used Continuous Datasets
+| Dataset                                                                                                              | Year | Language          | #Samples               | #Signers | Domain     |
+|----------------------------------------------------------------------------------------------------------------------|-------|-------------------|------------------------|----------|------------|
+| [RWTH-Boston-104](https://www-i6.informatik.rwth-aachen.de/aslr/database-rwth-boston-104.php)                       | 2007  | American          | 201 sentences          | 3        | General    |
+| [How2Sign](https://how2sign.github.io/)                                                                             | 2020  | American          | >35k sentences         | 11       | General    |
+| [OpenASL](https://github.com/chevalierNoir/OpenASL)                                                                 | 2022  | American          | -                      | ~220     | General    |
+| [YouTube-ASL](https://github.com/google-research/google-research/tree/master/youtube_asl)                           | 2023  | American          | -                      | >2500    | General    |
+| [DailyMoth-70h](https://github.com/facebookresearch/ssvp_slt)                                                       | 2024  | American          | 48,386 clips           | 1        | News       |
+| [BOBSL](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)                                                               | 2021  | British           | 1.2M sequences         | 39       | General    |
+| [CSL-Daily](https://ustc-slr.github.io/datasets/2021_csl_daily/)                                                    | 2021  | Chinese           | 20,645 videos          | 10       | General    |
+| [RWTH-PHOENIX 2012](https://www-i6.informatik.rwth-aachen.de/web/Software/Databases/Signlanguage/details/rwth-phoenix/index.php) | 2012  | Germany           | 1,980 sentences        | 7        | Weather    |
+| [RWTH-PHOENIX 2014](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)                                 | 2014  | Germany           | 6,861 sentences        | 9        | Weather    |
+| [RWTH-PHOENIX14T](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)                            | 2020  | Germany           | 8,257 sentences        | 9        | Weather    |
+
 ## :scroll: Papers
 ### Survey Papers
 **********************************************************************************************************************
