@@ -16,7 +16,15 @@ This repository is all you need for Sign Language Study!
   - [SLP Leaderboard](#slp-leaderboard)
 
 ## 🔍 Datasets
-- Please refer to [this page](helper/datasets.md).
+- Please refer to [this page](helper/datasets.md) for more information.
+
+### Commonly Used Fingerspelling Datasets
+| Dataset             | Year | Language  | #Samples             | #Signers | Collection Source | Available |
+|---------------------|-------|-----------|----------------------|----------|-------------------|-----------|
+| [ChicagoFSWild](https://home.ttic.edu/~klivescu/ChicagoFSWild.htm)       | 2018  | American  | 7304 sequences       | 168      | Online            | ✅         |
+| [ChicagoFSWild+](https://home.ttic.edu/~klivescu/ChicagoFSWild.htm)      | 2019  | American  | 55,232 sequences     | 260      | Online            | ✅         |
+| [RWTH-FingerSpelling](https://www-i6.informatik.rwth-aachen.de/aslr/fingerspelling.php) | 2006  | German    | 1400 image sequences | 20       | Lab               | ✅         |
+
 
 ## :scroll: Papers
 ### Survey Papers
