@@ -26,15 +26,16 @@ This repository is all you need for Sign Language Study!
 | [RWTH-FingerSpelling](https://www-i6.informatik.rwth-aachen.de/aslr/fingerspelling.php) | 2006  | German    | 1400 image sequences | 20       | Lab               | ✅         |
 
 ### Commonly Used Isolated Datasets
-| Dataset             | Year | Language       | #Samples                        | #Signers | Domain                                   | Website |
-|---------------------|-------|----------------|---------------------------------|----------|------------------------------------------|---------|
-| Purdue RVL-SLLL     | 2002  | American       | 2,576 video clips               | 14       | Motion primitives + Handshapes + General | [link](https://engineering.purdue.edu/RVL/Database/ASL/asl-database-front.htm) |
-| Boston ASLLVD       | 2008  | American       | 9,800 tokens                    | 6        | General                                  | [link](https://www.bu.edu/asllrp/av/dai-asllvd.html#vid) |
-| MS-ASL              | 2018  | American       | 25,513 videos                   | 222      | General                                  | [link](https://www.microsoft.com/en-us/research/project/ms-asl/) |
-| WLASL               | 2019  | American       | 21,083 videos                   | 119      | General                                  | [link](https://dxli94.github.io/WLASL/) |
-| ASL-100-RGBD        | 2020  | American       | ~4,150 tokens                   | 22       | General                                  | [link](https://longlong-jing.github.io/ASL-100-RGBD/) |
-| ASL Citizen         | 2023  | American       | 83,399 videos                   | 52       | General                                  | [link](https://www.microsoft.com/en-us/research/project/asl-citizen/) |
-| LSA-64              | 2016  | Argentina      | 3,200 video sequences           | 10       | Dictionary                               | [link](https://facundoq.github.io/datasets/lsa64/) |
+| Dataset                                                                                                                 | Year | Language       | #Samples                        | #Signers | Domain                                   |
+|-------------------------------------------------------------------------------------------------------------------------|-------|----------------|---------------------------------|----------|------------------------------------------|
+| [Purdue RVL-SLLL](https://engineering.purdue.edu/RVL/Database/ASL/asl-database-front.htm)                               | 2002  | American       | 2,576 video clips               | 14       | Motion primitives + Handshapes + General |
+| [Boston ASLLVD](https://www.bu.edu/asllrp/av/dai-asllvd.html#vid)                                                       | 2008  | American       | 9,800 tokens                    | 6        | General                                  |
+| [MS-ASL](https://www.microsoft.com/en-us/research/project/ms-asl/)                                                      | 2018  | American       | 25,513 videos                   | 222      | General                                  |
+| [WLASL](https://dxli94.github.io/WLASL/)                                                                                | 2019  | American       | 21,083 videos                   | 119      | General                                  |
+| [ASL-100-RGBD](https://longlong-jing.github.io/ASL-100-RGBD/)                                                           | 2020  | American       | ~4,150 tokens                   | 22       | General                                  |
+| ASL CrowdSourcing                                                                                                       | 2022  | American       | 1,906 videos                    | 29       | General                                  |
+| [ASL Citizen](https://www.microsoft.com/en-us/research/project/asl-citizen/)                                            | 2023  | American       | 83,399 videos                   | 52       | General                                  |
+| [LSA-64](https://facundoq.github.io/datasets/lsa64/) 
 
 
 ## :scroll: Papers
