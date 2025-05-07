@@ -33,7 +33,6 @@ This repository is all you need for Sign Language Study!
 | [MS-ASL](https://www.microsoft.com/en-us/research/project/ms-asl/)                                                      | 2018  | American       | 25,513 videos                   | 222      | General                                  |
 | [WLASL](https://dxli94.github.io/WLASL/)                                                                                | 2019  | American       | 21,083 videos                   | 119      | General                                  |
 | [ASL-100-RGBD](https://longlong-jing.github.io/ASL-100-RGBD/)                                                           | 2020  | American       | ~4,150 tokens                   | 22       | General                                  |
-| ASL CrowdSourcing                                                                                                       | 2022  | American       | 1,906 videos                    | 29       | General                                  |
 | [ASL Citizen](https://www.microsoft.com/en-us/research/project/asl-citizen/)                                            | 2023  | American       | 83,399 videos                   | 52       | General                                  |
 | [LSA-64](https://facundoq.github.io/datasets/lsa64/) 
 
