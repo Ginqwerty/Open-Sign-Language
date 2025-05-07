@@ -34,8 +34,7 @@ This repository is all you need for Sign Language Study!
 | [WLASL](https://dxli94.github.io/WLASL/)                                                                                | 2019  | American       | 21,083 videos                   | 119      | General                                  |
 | [ASL-100-RGBD](https://longlong-jing.github.io/ASL-100-RGBD/)                                                           | 2020  | American       | ~4,150 tokens                   | 22       | General                                  |
 | [ASL Citizen](https://www.microsoft.com/en-us/research/project/asl-citizen/)                                            | 2023  | American       | 83,399 videos                   | 52       | General                                  |
-| [LSA-64](https://facundoq.github.io/datasets/lsa64/) 
-
+| [LSA-64](https://facundoq.github.io/datasets/lsa64/)                                                                    | 2016  | Argentina      | 3,200 video sequences           | 10       | Dictionary                               |
 
 ## :scroll: Papers
 ### Survey Papers
