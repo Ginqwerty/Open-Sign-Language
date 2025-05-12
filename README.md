@@ -188,6 +188,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ICPR]** EMPATH: MediaPipe-Aided Ensemble Learning with Attention-Based Transformers for Accurate Recognition of Bangla Word-Level Sign Language. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78305-0_23)
 - **[Neurocomputing]** `Swin-MSTP` Swin-MSTP: Swin transformer with multi-scale temporal perception for continuous sign language recognition. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224017867)
 - **[Scientific Reports]** Improved feature reduction framework for sign language recognition using autoencoders and adaptive Grey Wolf Optimization. [Paper](https://www.nature.com/articles/s41598-024-82785-x)
+- **[MDPI]** Real-Time Norwegian Sign Language Recognition Using MediaPipe and LSTM. [Paper](https://www.mdpi.com/2414-4088/9/3/23)
 
 ##### ArXiv
 - **[ArXiv]** `SSLR` SSLR: A Semi-Supervised Learning Method for Isolated Sign Language Recognition. [Paper](https://arxiv.org/abs/2504.16640)
