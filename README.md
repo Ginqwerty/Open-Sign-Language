@@ -333,6 +333,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2025
 ##### Conference
 - **[COLING]** `TextCTC-SLT` Improvement in Sign Language Translation Using Text CTC Alignment. [Paper](https://arxiv.org/abs/2412.09014) | [Code](https://github.com/Claire874/TextCTC-SLT)
+- **[CVPR]** Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues. [Paper](https://arxiv.org/abs/2501.09754)
 
 #### 2024
 ##### Conference
@@ -497,7 +498,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ### SLP Papers
 #### 2025
 ##### Conference
-- **[ECCV]** `Signavatars` Signavatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark. [Paper](https://arxiv.org/pdf/2310.20436) 
+- **[ECCV]** `Signavatars` Signavatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark. [Paper](https://arxiv.org/pdf/2310.20436)
+- **[CVPR]** Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation. [Paper](https://arxiv.org/abs/2411.16810)
 
 ##### ArXiv
 - **[ArXiv]** `CNSign` Beyond Words: AuralLLM and SignMST-C for Precise Sign Language Production and Bidirectional Accessibility. [Paper](https://arxiv.org/abs/2501.00765)
