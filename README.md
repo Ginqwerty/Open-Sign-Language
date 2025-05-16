@@ -506,6 +506,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** A Transformer-Based Framework for Greek Sign Language Production using Extended Skeletal Motion Representations. [Paper](https://arxiv.org/abs/2503.02421)
 - **[ArXiv]** Towards AI-driven Sign Language Generation with Non-manual Markers. [Paper](https://arxiv.org/abs/2502.05661)
 - **[ArXiv]** Text-Driven Diffusion Model for Sign Language Production. [Paper](https://arxiv.org/abs/2503.15914)
+- **[ArXiv]** Disentangle and Regularize: Sign Language Production with Articulator-Based Disentanglement and Channel-Aware Regularization. [Paper](https://arxiv.org/abs/2504.06610)
 
 #### 2024
 ##### Conference
