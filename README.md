@@ -192,6 +192,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ##### ArXiv
 - **[ArXiv]** `SSLR` SSLR: A Semi-Supervised Learning Method for Isolated Sign Language Recognition. [Paper](https://arxiv.org/abs/2504.16640)
+- **[ArXiv]** TSLFormer: A Lightweight Transformer Model for Turkish Sign Language Recognition Using Skeletal Landmarks. [Paper](https://arxiv.org/abs/2505.07890)
 
 #### 2024
 ##### Conference
