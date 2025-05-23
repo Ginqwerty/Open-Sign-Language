@@ -339,6 +339,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ##### ArXiv
 - **[ArXiv]** Bridging Sign and Spoken Languages: Pseudo Gloss Generation for Sign Language Translation. [Paper](https://arxiv.org/abs/2505.15438)
+- **[ArXiv]** GLoT: A Novel Gated-Logarithmic Transformer for Efficient Sign Language Translation. [Paper](https://arxiv.org/abs/2502.12223)
 
 #### 2024
 ##### Conference
