@@ -959,5 +959,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 
 ## 🔍 Challenge & Workshop
-### [CVPR 2025](https://slrtpworkshop.github.io/schedule/) SLRTP2025 Sign Language Production Challenge: Methodology, Results and Future Work 
+### [CVPR 2025](https://slrtpworkshop.github.io/schedule/) SLRTP2025 Sign Language Production Challenge 
+- Challenge Summary Papar: [SLRTP2025 Sign Language Production Challenge: Methodology, Results and Future Work](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/html/Walsh_SLRTP2025_Sign_Language_Production_Challenge_Methodology_Results_and_Future_Work_CVPRW_2025_paper.html)
 - Please refer to [this page](helper/challenge.md) for more information.
