@@ -959,4 +959,4 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 
 ## 🔍 Challenge & Workshop
-- Please refer to [this page](helper/.md) for more information.
+- Please refer to [this page](helper/challenge.md) for more information.
