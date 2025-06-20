@@ -14,6 +14,7 @@ This repository is all you need for Sign Language Study!
   - [SLR Leaderboard](#slr-leaderboard)
   - [SLT Leaderboard](#slt-leaderboard)
   - [SLP Leaderboard](#slp-leaderboard)
+- [Challenge & Workshop](#challenge-workshop)
 
 ## 🔍 Datasets
 - Please refer to [this page](helper/datasets.md) for more information.
@@ -955,3 +956,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 | Model Name      | Year | BLEU-4      | DTW-P     | with Gloss   | Conference/Journal     | Code         |
 |-----------------|------|-------------|-----------|--------------|------------------------|--------------|
 | [Spoken2Sign](https://arxiv.org/pdf/2401.04730) | 2024 | 21.44  | - | -  | ✅ | ECCV |  -   |
+
+
+## 🔍 Challenge & Workshop
+- Please refer to [this page](helper/.md) for more information.
