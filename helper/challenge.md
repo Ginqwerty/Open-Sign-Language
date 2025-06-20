@@ -1,1 +1,4 @@
-SLRTP2025 Sign Language Production Challenge: Methodology, Results and Future Work
+# SLRTP2025 Sign Language Production Challenge: Methodology, Results and Future Work
+
+## Introduction
+The 2025 Sign Language Production Challenge, the first Sign Language Production Challenge, was launched to establish a standardized benchmark for converting spoken-language sentences into continuous sign-language skeleton sequences (Text-to-Pose) and to enable fair, reproducible comparisons across different deep learning–based SLP systems. Held as part of the third SLRTP Workshop at CVPR 2025, it evaluated Text-to-Pose architectures on the publicly available RWTH-PHOENIX-Weather-2014T dataset and a custom hidden test set drawn from similar weather-broadcast data. By defining a suite of quantitative metrics (including BLEU, DTW-MJE and a novel “total distance” expressiveness score) and releasing a high-quality skeleton extraction and evaluation pipeline, the challenge addresses the field’s prior lack of unified evaluation protocols and provides a consistent baseline for future research in sign language generation.
