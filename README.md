@@ -14,7 +14,7 @@ This repository is all you need for Sign Language Study!
   - [SLR Leaderboard](#slr-leaderboard)
   - [SLT Leaderboard](#slt-leaderboard)
   - [SLP Leaderboard](#slp-leaderboard)
-- [Challenge & Workshop](#challenge-workshop)
+- [Challenge & Workshop](#challenge--workshop)
 
 ## 🔍 Datasets
 - Please refer to [this page](helper/datasets.md) for more information.
