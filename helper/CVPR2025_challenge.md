@@ -74,6 +74,7 @@ A retrieval-based framework built around gloss annotations. Their pipeline compr
 #### Team 1 Model Architecture
 ![Team 1 Architecture](../images/CVPR2025/Team1.png)
 
+---
 
 ### Team 2 (hfut-lmc, 2nd Place)
 A fully generative, diffusion-based Text-Driven Conditional Diffusion Model (TCDM) that maps text directly to pose sequences without gloss supervision:
@@ -85,6 +86,8 @@ This end-to-end model synthesizes coherent sign motion directly from text, mitig
 
 #### Team 2 Model Architecture
 ![Team 2 Architecture](../images/CVPR2025/Team2.png)
+
+---
 
 ### Team 3 (Hacettepe, 3rd Place)
 A gloss-free, transformer-based method that learns a compact latent pose space via an autoencoder, then maps text into that space:
@@ -99,6 +102,8 @@ This approach synthesizes novel pose sequences in a learned latent space, striki
 
 #### Team 3 Model Architecture
 ![Team 3 Architecture](../images/CVPR2025/Team3.png)
+
+---
 
 ## Evaluation Metrics
 
