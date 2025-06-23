@@ -9,6 +9,54 @@ Here are the key statistics for the first Sign Language Production Challenge:
 - The challenge ran for 49 days, from January 13 to March 3, 2025.
 
 
+## 📚 Dataset and Data Description (SLRTP2025 Challenge)
+
+### 1. **Main Dataset: RWTH-PHOENIX-Weather-2014T (PHOENIX14T)**
+
+- A widely-used benchmark in Sign Language Recognition and Translation.
+- Based on German Sign Language (DGS) weather broadcast videos.
+- Includes:
+  - **7096 training videos**
+  - **519 development videos**
+  - **642 test videos**
+- Each video contains:
+  - **Sign language video**
+  - **Gloss annotations**
+  - **Spoken language subtitles**
+
+---
+
+### 2. **Hidden Test Set**
+
+- Custom-curated for this challenge from the **Phoenix broadcast channel**, consistent with PHOENIX14T's domain (weather reports).
+- Collected via the **EASIER project**.
+- Selection process:
+  - Subtitle-based filtering to retain weather-related discourse.
+  - Manual validation to ensure relevance.
+  - Final dataset: **500 spoken language sentences**
+- Not manually gloss-annotated to simulate real-world inference settings.
+
+---
+
+### 3. **Pose Representation**
+
+- **Input Modality:** 3D skeleton sequences.
+- **Extraction Pipeline:**
+  - Use **MediaPipe Holistic** to extract 2D keypoints.
+  - Apply **3D uplift** method (Ivashechkin et al.) to estimate 3D joint angles, guided by human body constraints.
+  - Normalize skeletons:
+    - Set the **neck** as the origin.
+    - Fix the body on the **XY-plane** for consistency.
+- **Final Keypoint Set:** 178 joints per frame:
+  - 21 keypoints per hand
+  - 128 facial keypoints (subset of MediaPipe’s full 468)
+  - 8 upper body keypoints
+- **Advantages:**
+  - Uniform skeleton structure and scale across signers
+  - Domain-agnostic format enabling expressive and naturalistic sign motion
+
+---
+
 ## Analysis of the Top 3 Teams
 
 ### Team 1 (USTC-MoE, 1st Place)
