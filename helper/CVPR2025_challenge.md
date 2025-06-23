@@ -23,6 +23,9 @@ A retrieval-based framework built around gloss annotations. Their pipeline compr
    At inference, translate text to gloss, retrieve the corresponding pose clips from the dictionary, and concatenate them to form the final sign sequence.  
    This approach uses ~355.9 M parameters, requires no additional data augmentation, and guarantees high-fidelity, natural transitions by grounding each gloss in real human motion.
 
+#### Team 1 Architecture
+![Team 1 Model](images/)
+
 ### Team 2 (hfut-lmc, 2nd Place)
 A fully generative, diffusion-based Text-Driven Conditional Diffusion Model (TCDM) that maps text directly to pose sequences without gloss supervision:
 - **Forward/Reverse Diffusion:** Add Gaussian noise to ground-truth poses over 1,000 steps, then learn a denoiser _D(pₜ, g)_ conditioned on text features _g_ to recover clean poses.  
