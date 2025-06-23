@@ -24,7 +24,7 @@ A retrieval-based framework built around gloss annotations. Their pipeline compr
    This approach uses ~355.9 M parameters, requires no additional data augmentation, and guarantees high-fidelity, natural transitions by grounding each gloss in real human motion.
 
 #### Team 1 Architecture
-![Team 1 Architecture](images/CVPR2025/Team1.png)
+![Team 1 Architecture](../images/CVPR2025/Team1.png)
 
 
 ### Team 2 (hfut-lmc, 2nd Place)
