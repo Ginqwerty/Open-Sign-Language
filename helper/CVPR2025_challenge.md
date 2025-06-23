@@ -23,7 +23,7 @@ A retrieval-based framework built around gloss annotations. Their pipeline compr
    At inference, translate text to gloss, retrieve the corresponding pose clips from the dictionary, and concatenate them to form the final sign sequence.  
    This approach uses ~355.9 M parameters, requires no additional data augmentation, and guarantees high-fidelity, natural transitions by grounding each gloss in real human motion.
 
-#### Team 1 Architecture
+#### Team 1 Model Architecture
 ![Team 1 Architecture](../images/CVPR2025/Team1.png)
 
 
@@ -34,6 +34,9 @@ A fully generative, diffusion-based Text-Driven Conditional Diffusion Model (TCD
 - **Losses:** Joint position L1 loss plus a bone-orientation loss (λ = 0.1) to ensure accurate joint placement and realistic limb articulation.  
 - **Text Encoder:** Expanded to 4 layers, 8 heads, and 1,024-dim embeddings; trained with Adam at 1e-3.  
 This end-to-end model synthesizes coherent sign motion directly from text, mitigating regression-to-mean artifacts via its combined loss design.
+
+#### Team 2 Model Architecture
+![Team 2 Architecture](../images/CVPR2025/Team2.png)
 
 ### Team 3 (Hacettepe, 3rd Place)
 A gloss-free, transformer-based method that learns a compact latent pose space via an autoencoder, then maps text into that space:
@@ -46,6 +49,8 @@ A gloss-free, transformer-based method that learns a compact latent pose space v
 
 This approach synthesizes novel pose sequences in a learned latent space, striking a balance between accuracy and efficiency.
 
+#### Team 3 Model Architecture
+![Team 3 Architecture](../images/CVPR2025/Team3.png)
 
 ## Evaluation Metrics
 
