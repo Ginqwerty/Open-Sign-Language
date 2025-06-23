@@ -42,3 +42,40 @@ A gloss-free, transformer-based method that learns a compact latent pose space v
 
 This approach synthesizes novel pose sequences in a learned latent space, striking a balance between accuracy and efficiency.
 
+
+## Evaluation Metrics
+
+The challenge used a combination of **text-based** and **pose-based** metrics to comprehensively assess the quality and expressiveness of generated sign language sequences:
+
+### Text-Based Metrics (via back-translation model)
+- **BLEU-1 to BLEU-4**: Measures n-gram precision from 1 to 4.
+- **CHRF**: Character-level F-score combining precision and recall.
+- **ROUGE**: Measures overlap of word sequences between hypothesis and reference.
+- **WER (Word Error Rate)**: Measures insertions, deletions, and substitutions over the total number of words.
+
+### Pose-Based Metrics
+- **DTW-MJE (Dynamic Time Warping – Mean Joint Error)**: Temporal alignment–based error metric for joint positions between predicted and reference pose sequences.
+- **Total Distance**: Normalized hand movement distance in 3D space, measuring expressiveness. A score of **1.0** indicates perfect match in expressiveness with the ground truth.
+
+
+## Quantitative Results: Top-3 Team Performance
+
+### RWTH-PHOENIX-Weather-2014T Test Set
+
+| Team              | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 | CHRF  | ROUGE | WER ↓   | DTW-MJE ↓ | Total Distance |
+|-------------------|--------|--------|--------|--------|--------|--------|----------|------------|----------------|
+| **Team 1 (USTC-MoE)**  | **34.85** | 21.96 | 15.65 | 12.06 | **36.83** | **36.59** | 93.49    | 0.0448     | **1.631**       |
+| **Team 2 (hfut-lmc)**  | 16.96 | 6.56  | 3.38  | 2.05  | 25.88 | 19.77 | 147.85   | **0.0403** | 2.512         |
+| **Team 3 (Hacettepe)** | 30.44 | 17.75 | 12.42 | 9.59  | 29.70 | 30.64 | **88.88** | 0.0423     | 0.798         |
+| **Baseline (Progressive Transformer)** | 22.17 | 10.71 | 7.09  | 5.43  | 24.13 | 21.98 | 101.45   | 0.0418     | 0.257         |
+
+### Hidden Test Set
+
+| Team              | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 | CHRF  | ROUGE | WER ↓   | DTW-MJE ↓ | Total Distance |
+|-------------------|--------|--------|--------|--------|--------|--------|----------|------------|----------------|
+| **Team 1 (USTC-MoE)**  | **31.40** | **17.09** | **9.43**  | **5.86**  | **31.73** | **33.75** | 109.38   | 0.0574     | **1.185**       |
+| **Team 2 (hfut-lmc)**  | 30.54 | 16.22 | 9.33  | 5.66  | 30.17 | 32.92 | 107.93   | **0.0492** | 0.971         |
+| **Team 3 (Hacettepe)** | 27.51 | 11.13 | 5.36  | 2.91  | 23.37 | 27.29 | **105.49** | 0.0531     | 0.761         |
+| **Baseline (Progressive Transformer)** | 18.33 | 4.99  | 1.74  | 0.78  | 21.65 | 21.10 | 141.93   | 0.0467     | 0.322         |
+
+> **Note**: WER (Word Error Rate) ↓ and DTW-MJE ↓ are better when lower. Total Distance is ideal at 1.0, indicating natural motion matching the reference.
