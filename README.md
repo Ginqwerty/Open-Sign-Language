@@ -181,6 +181,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[WACV]** Sign Language Recognition: A Large-Scale Multi-View Dataset and Comprehensive Evaluation. [Paper](https://openaccess.thecvf.com/content/WACV2025/html/Dinh_Sign_Language_Recognition_A_Large-Scale_Multi-View_Dataset_and_Comprehensive_Evaluation_WACV_2025_paper.html)
 - **[ICLR]** UNI-SIGN: TOWARD UNIFIED SIGN LANGUAGE UNDERSTANDING AT SCALE. [Paper](https://iclr.cc/virtual/2025/poster/31250)
 - **[IEEE]** Continuous Sign Language Recognition With Multi-Scale Spatial-Temporal Feature Enhancement. [Paper](https://ieeexplore.ieee.org/abstract/document/10829616)
+- **[CVPR]** CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/html/Alyami_CLIP-SLA_Parameter-Efficient_CLIP_Adaptation_for_Continuous_Sign_Language_Recognition_CVPRW_2025_paper.html)
 
 ##### Journal
 - **[MVA]** `MAM-FSD` Continuous Sign Language Recognition Based on Motor Attention Mechanism and Frame-Level Self-Distillation. [Paper](https://arxiv.org/pdf/2402.19118)
@@ -507,6 +508,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### Conference
 - **[ECCV]** `Signavatars` Signavatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark. [Paper](https://arxiv.org/pdf/2310.20436)
 - **[CVPR]** Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation. [Paper](https://arxiv.org/abs/2411.16810)
+- **[CVPR]** Diffusion-Based Continuous Sign Language Generation with Cluster-Specific Fine-Tuning and Motion-Adapted Transformer. [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/html/Rastgoo_Diffusion-Based_Continuous_Sign_Language_Generation_with_Cluster-Specific_Fine-Tuning_and_Motion-Adapted_CVPRW_2025_paper.html)
 
 ##### ArXiv
 - **[ArXiv]** `CNSign` Beyond Words: AuralLLM and SignMST-C for Precise Sign Language Production and Bidirectional Accessibility. [Paper](https://arxiv.org/abs/2501.00765)
