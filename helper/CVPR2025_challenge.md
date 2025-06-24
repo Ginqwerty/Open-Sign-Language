@@ -8,6 +8,7 @@ Here are the key statistics for the first Sign Language Production Challenge:
 - Across the development and final phases, they submitted 231 solutions.
 - The challenge ran for 49 days, from January 13 to March 3, 2025.
 
+Challenge Summary Papar: [SLRTP2025 Sign Language Production Challenge: Methodology, Results and Future Work](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/html/Walsh_SLRTP2025_Sign_Language_Production_Challenge_Methodology_Results_and_Future_Work_CVPRW_2025_paper.html)
 
 ## 📚 Dataset and Data Description (SLRTP2025 Challenge)
 
