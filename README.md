@@ -182,6 +182,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ICLR]** UNI-SIGN: TOWARD UNIFIED SIGN LANGUAGE UNDERSTANDING AT SCALE. [Paper](https://iclr.cc/virtual/2025/poster/31250)
 - **[IEEE]** Continuous Sign Language Recognition With Multi-Scale Spatial-Temporal Feature Enhancement. [Paper](https://ieeexplore.ieee.org/abstract/document/10829616)
 - **[CVPR]** CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/html/Alyami_CLIP-SLA_Parameter-Efficient_CLIP_Adaptation_for_Continuous_Sign_Language_Recognition_CVPRW_2025_paper.html)
+- **[CVPR]** Cross-Modal Consistency Learning for Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/html/Wu_Cross-Modal_Consistency_Learning_for_Sign_Language_Recognition_CVPRW_2025_paper.html)
 
 ##### Journal
 - **[MVA]** `MAM-FSD` Continuous Sign Language Recognition Based on Motor Attention Mechanism and Frame-Level Self-Distillation. [Paper](https://arxiv.org/pdf/2402.19118)
