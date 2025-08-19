@@ -183,6 +183,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[IEEE]** Continuous Sign Language Recognition With Multi-Scale Spatial-Temporal Feature Enhancement. [Paper](https://ieeexplore.ieee.org/abstract/document/10829616)
 - **[CVPR]** CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/html/Alyami_CLIP-SLA_Parameter-Efficient_CLIP_Adaptation_for_Continuous_Sign_Language_Recognition_CVPRW_2025_paper.html)
 - **[CVPR]** Cross-Modal Consistency Learning for Sign Language Recognition. [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/html/Wu_Cross-Modal_Consistency_Learning_for_Sign_Language_Recognition_CVPRW_2025_paper.html)
+- **[ICCV]** Cross-View Isolated Sign Language Recognition via View Synthesis and Feature Disentanglement. [Paper](https://dl.acm.org/doi/abs/10.1145/3701716.3717522)
 
 ##### Journal
 - **[MVA]** `MAM-FSD` Continuous Sign Language Recognition Based on Motor Attention Mechanism and Frame-Level Self-Distillation. [Paper](https://arxiv.org/pdf/2402.19118)
@@ -510,7 +511,8 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ECCV]** `Signavatars` Signavatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark. [Paper](https://arxiv.org/pdf/2310.20436)
 - **[CVPR]** Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation. [Paper](https://arxiv.org/abs/2411.16810)
 - **[CVPR]** Diffusion-Based Continuous Sign Language Generation with Cluster-Specific Fine-Tuning and Motion-Adapted Transformer. [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/html/Rastgoo_Diffusion-Based_Continuous_Sign_Language_Generation_with_Cluster-Specific_Fine-Tuning_and_Motion-Adapted_CVPRW_2025_paper.html)
-
+- **[ICCV]** Signs as Tokens: A Retrieval-Enhanced Multilingual Sign Language Generator. [Paper](https://arxiv.org/abs/2411.17799)
+ 
 ##### ArXiv
 - **[ArXiv]** `CNSign` Beyond Words: AuralLLM and SignMST-C for Precise Sign Language Production and Bidirectional Accessibility. [Paper](https://arxiv.org/abs/2501.00765)
 - **[ArXiv]** A Transformer-Based Framework for Greek Sign Language Production using Extended Skeletal Motion Representations. [Paper](https://arxiv.org/abs/2503.02421)
