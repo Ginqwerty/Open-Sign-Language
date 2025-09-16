@@ -400,7 +400,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2025
 ##### Conference
 - **[WACV]** `UniGloR` A Spatio-Temporal Representation Learning as an Alternative to Traditional Glosses in Sign Language Translation and Production. [Paper](https://arxiv.org/abs/2407.02854) | [Code](https://github.com/eddie-euijun-hwang/UniGloR)
-- **[ICLR]** UNI-SIGN: TOWARD UNIFIED SIGN LANGUAGE UNDERSTANDING AT SCALE. [Paper](https://iclr.cc/virtual/2025/poster/31250)
+- **[ICLR]** `UNI-SIGN` UNI-SIGN: TOWARD UNIFIED SIGN LANGUAGE UNDERSTANDING AT SCALE. [Paper](https://iclr.cc/virtual/2025/poster/31250)|[Code](github.com/ZechengLi19/Uni-Sign)
 - **[ACL]** Improving Multilingual Sign Language Translation with Automatically Clustered Language Family Information. [Paper](https://aclanthology.org/2025.coling-main.241/)
 
 ##### ArXiv
@@ -408,7 +408,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** `ADAT` ADAT: Time-Series-Aware Adaptive Transformer Architecture for Sign Language Translation. [Paper](https://arxiv.org/abs/2504.11942)
 - **[ArXiv]** Sign Language Translation using Frame and Event Stream: Benchmark Dataset and Algorithms. [Paper](https://arxiv.org/abs/2503.06484)
 - **[ArXiv]** GLoT: A Novel Gated-Logarithmic Transformer for Efficient Sign Language Translation. [Paper](https://arxiv.org/abs/2502.12223)
-- **[ArXiv]** SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale. [Paper](https://arxiv.org/abs/2406.06907)
+- **[ArXiv]** `SignMusketeers` SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale. [Paper](https://arxiv.org/abs/2406.06907)
   
 #### 2024
 ##### Conference
