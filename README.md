@@ -846,11 +846,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 |[NSLT + Luong](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html) 	&#x2726;        |2018  |11.03        |RGB-Frames     | CVPR                   |[Avaliable](https://github.com/neccam/nslt)        |
 
 
-- **[ICLR]** UNI-SIGN: TOWARD UNIFIED SIGN LANGUAGE UNDERSTANDING AT SCALE. [Paper](https://iclr.cc/virtual/2025/poster/31250)
 #### Gloss-free
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal     | Code                                    |
 |-----------------|------|-------------|---------------|------------------------|-----------------------------------------|
-|[UNI-SIGN](https://iclr.cc/virtual/2025/poster/31250)          |2025  |26.25       |    | ICLR          |[Avaliable](https://github.com/ZechengLi19/Uni-Sign)        |
+|[UNI-SIGN](https://iclr.cc/virtual/2025/poster/31250)          |2025  |26.36       | RGB-Frames, Skeleton-Keypoints    | ICLR          |[Avaliable](https://github.com/ZechengLi19/Uni-Sign)        |
 |[MSKA-SLT](https://arxiv.org/abs/2405.05672)          |2024  |25.52       |Skeleton-Keypoints    | ArXiv          |[Avaliable](https://github.com/sutwangyan/MSKA)        |
 |[TwoStream-SLT](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)          |2022  |25.42       |RGB-Frames, Skeleton-Keypoints     | NeurIPS          |-        |
 |[SLTUNET](https://arxiv.org/abs/2305.01778)         |2023  |25.01        |RGB-Frames     | ICLR                   |[Avaliable](https://github.com/bzhangGo/sltunet) |
