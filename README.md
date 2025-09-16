@@ -426,7 +426,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
   
 ##### ArXiv
 - **[ArXiv]** `LLaVA-SLT` Visual Language Tuning for Sign Language Translation. [Paper](https://arxiv.org/abs/2412.16524) 
-- **[ArXiv]** Towards Privacy-Aware Sign Language Translation at Scale. [Paper](https://arxiv.org/abs/2402.09611) | [Code](https://github.com/facebookresearch/ssvp_slt)
+- **[ArXiv]** `SSVP-SLT` Towards Privacy-Aware Sign Language Translation at Scale. [Paper](https://arxiv.org/abs/2402.09611) | [Code](https://github.com/facebookresearch/ssvp_slt)
 - **[ArXiv]** Unsupervised Sign Language Translation and Generation. [Paper](https://arxiv.org/abs/2402.07726)
 - **[ArXiv]** American Sign Language Video to Text Translation. [Paper](https://arxiv.org/abs/2402.07255) | [Code](https://github.com/jiSilverH/idlf23-aslt)
 - **[ArXiv]** `Online-CSLRT` Towards Online Sign Language Recognition and Translation. [Paper](https://arxiv.org/abs/2401.05336) | [Code](https://github.com/FangyunWei/SLRT)
@@ -888,6 +888,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### Gloss-free
 | Model Name      | Year | BLEU-4      | Model Input   | Conference/Journal     | Code                                    |
 |-----------------|------|-------------|---------------|------------------------|-----------------------------------------|
+|[SSVP-SLT-LSP](https://arxiv.org/abs/2402.09611)          |2024  |15.5       | RGB-Frames    | ArXiv          |[Avaliable](https://github.com/facebookresearch/ssvp_slt)        |
 |[UNI-SIGN](https://iclr.cc/virtual/2025/poster/31250)          |2025  |14.9       | RGB-Frames, Skeleton-Keypoints    | ICLR          |[Avaliable](https://github.com/ZechengLi19/Uni-Sign)        |
 |[SignMusketeers](https://arxiv.org/abs/2406.06907)         |2024  |14.3       | Face & Left/Right Hand RGB crops, Skeleton-Keypoints    | ArXiv      | [Avaliable](https://signmusketeers.pals.ttic.edu/)      |
 |[VAP](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)          |2024  |12.87        |RGB-Frames     | ECCV          |-        |
