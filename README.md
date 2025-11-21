@@ -523,6 +523,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** Text-Driven Diffusion Model for Sign Language Production. [Paper](https://arxiv.org/abs/2503.15914)
 - **[ArXiv]** Disentangle and Regularize: Sign Language Production with Articulator-Based Disentanglement and Channel-Aware Regularization. [Paper](https://arxiv.org/abs/2504.06610)
 - **[ArXiv]** TEACH ME SIGN: STEPWISE PROMPTING LLM FOR SIGN LANGUAGE PRODUCTION. [Paper](https://arxiv.org/pdf/2507.10972)
+- **[ArXiv]** Hybrid Autoregressive-Diffusion Model for Real-Time Sign Language Production. [Paper](https://arxiv.org/abs/2507.09105)
 
 #### 2024
 ##### Conference
