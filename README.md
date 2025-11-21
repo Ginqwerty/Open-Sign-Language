@@ -407,8 +407,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** Spatio-temporal transformer to support automatic sign language translation. [Paper](https://arxiv.org/abs/2502.02587)
 - **[ArXiv]** `ADAT` ADAT: Time-Series-Aware Adaptive Transformer Architecture for Sign Language Translation. [Paper](https://arxiv.org/abs/2504.11942)
 - **[ArXiv]** Sign Language Translation using Frame and Event Stream: Benchmark Dataset and Algorithms. [Paper](https://arxiv.org/abs/2503.06484)
-- **[ArXiv]** GLoT: A Novel Gated-Logarithmic Transformer for Efficient Sign Language Translation. [Paper](https://arxiv.org/abs/2502.12223)
+- **[ArXiv]** `GLoT` GLoT: A Novel Gated-Logarithmic Transformer for Efficient Sign Language Translation. [Paper](https://arxiv.org/abs/2502.12223)
 - **[ArXiv]** `SignMusketeers` SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale. [Paper](https://arxiv.org/abs/2406.06907)
+- **[ArXiv]** `Text2SignDiff`Text2Sign Diffusion: A Generative Approach for Gloss-Free Sign Language Production. [Paper](https://arxiv.org/abs/2509.10845)
   
 #### 2024
 ##### Conference
