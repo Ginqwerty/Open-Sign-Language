@@ -512,6 +512,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[CVPR]** Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation. [Paper](https://arxiv.org/abs/2411.16810)
 - **[CVPR]** Diffusion-Based Continuous Sign Language Generation with Cluster-Specific Fine-Tuning and Motion-Adapted Transformer. [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/html/Rastgoo_Diffusion-Based_Continuous_Sign_Language_Generation_with_Cluster-Specific_Fine-Tuning_and_Motion-Adapted_CVPRW_2025_paper.html)
 - **[ICCV]** Signs as Tokens: A Retrieval-Enhanced Multilingual Sign Language Generator. [Paper](https://arxiv.org/abs/2411.17799)
+- **[ICCV]** `SignLLM` SignLLM: Sign Language Production Large Language Models. [Paper](https://arxiv.org/abs/2405.10718)| [Project Page](https://signllm.github.io/)
  
 ##### ArXiv
 - **[ArXiv]** `CNSign` Beyond Words: AuralLLM and SignMST-C for Precise Sign Language Production and Bidirectional Accessibility. [Paper](https://arxiv.org/abs/2501.00765)
@@ -540,7 +541,6 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** `LVMCN` Linguistics-Vision Monotonic Consistent Network for Sign Language Production. [Paper](https://arxiv.org/abs/2412.16944)
 - **[ArXiv]** `Sign-IDD` Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production. [Paper](https://arxiv.org/abs/2412.13609) | [Code](https://github.com/NaVi-start/Sign-IDD)
 - **[ArXiv]** `MS2SL` MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production. [Paper](https://arxiv.org/abs/2407.12842)
-- **[ArXiv]** `SignLLM` SignLLM: Sign Language Production Large Language Models. [Paper](https://arxiv.org/abs/2405.10718)
 - **[ArXiv]** `Stitching T2P` Sign Stitching: A Novel Approach to Sign Language Production. [Paper](https://arxiv.org/abs/2405.07663)
   
 ##### Workshop
