@@ -344,6 +344,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ##### ArXiv
 - **[ArXiv]** Bridging Sign and Spoken Languages: Pseudo Gloss Generation for Sign Language Translation. [Paper](https://arxiv.org/abs/2505.15438)
 - **[ArXiv]** GLoT: A Novel Gated-Logarithmic Transformer for Efficient Sign Language Translation. [Paper](https://arxiv.org/abs/2502.12223)
+- **[ArXiv]** Sign Language Translation with Sentence Embedding Supervision. [Paper](https://arxiv.org/abs/2510.19367)
 
 #### 2024
 ##### Conference
@@ -410,6 +411,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ArXiv]** `GLoT` GLoT: A Novel Gated-Logarithmic Transformer for Efficient Sign Language Translation. [Paper](https://arxiv.org/abs/2502.12223)
 - **[ArXiv]** `SignMusketeers` SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale. [Paper](https://arxiv.org/abs/2406.06907)
 - **[ArXiv]** `Text2SignDiff`Text2Sign Diffusion: A Generative Approach for Gloss-Free Sign Language Production. [Paper](https://arxiv.org/abs/2509.10845)
+- **[ArXiv]** Large Sign Language Models: Toward 3D American Sign Language Translation. [Paper](https://arxiv.org/abs/2511.08535)
   
 #### 2024
 ##### Conference
