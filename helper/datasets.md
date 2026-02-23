@@ -6,7 +6,7 @@ This document lists various datasets available for Sign Language research.
 
 | Dataset | Year | Language | Vocabulary Size | Duration | #Samples | #Signers | Domain | Collection Source | Resolution | Modality | Hand Dominance | Publication | Website | Available | Task | Baseline Model Accuracy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| ChicagoFSWild | 2018 | American | 31 | - | 7304 sequences | 168 | Letters + Char | Online | 640 × 360 | RGB | - | American Sign Language fingerspelling recognition in the wild | [link](https://home.ttic.edu/~klivescu/ChicagoFSWild.htm) | ✅ | SLR | - |
+| ChicagoFSWild | 2018 | American | 31 | - | 7304 sequences | 168 | Letters + Char | Online | 640 × 360 | RGB | Right: 6782 \| Left: 522 \| Two-hand: 121 | American Sign Language fingerspelling recognition in the wild | [link](https://home.ttic.edu/~klivescu/ChicagoFSWild.htm) | ✅ | SLR | - |
 | ChicagoFSWild+ | 2019 | American | - | - | 55,232 sequences | 260 | Letters + Char | Online | - | RGB | - | Fingerspelling recognition in the wild with iterative visual attention | [link](https://home.ttic.edu/~klivescu/ChicagoFSWild.htm) | ✅ | SLR | - |
 | ASL Digits | 2020 | American | 10 | - | 21,800 images | 218 | Letters | Camera | 3024×3024 | RGB | - | A New Dataset and Proposed Convolutional Neural Network Architecture for Classification of American Sign Language Digits | [link](https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset) | ✅ | SLR | - |
 | 27 Class ASL | 2022 | American | 27 | - | 130 images | 173 | Letters | Camera | 3024 × 3024 | RGB | - | A New 27 Class Sign Language Dataset Collected from 173 Individuals | [link](https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset) | ✅ | SLR | - |
