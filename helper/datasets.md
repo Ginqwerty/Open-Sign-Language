@@ -74,7 +74,7 @@ This document lists various datasets available for Sign Language research.
 | SMILE | 2018 | Swiss-German | 100 | \- | \- | 30 | General | Lab | Vary | RGB-D | - | SMILE Swiss German Dataset | [link](https://www.idiap.ch/project/smile) | ✅ | SLR | - |
 | BosphorusSign | 2016 | Turkish | 855 | \- | \- | 10 | Health, Finance, General | Lab | 1920 x 1080 | RGB-D | - | BosphorusSign Dataset | \- | ❌ | SLR | - |
 | BosphorusSign22k | 2020 | Turkish | 744 | ~19 hours | 22,542 videos | 6 | Health, Finance, General | Lab | 1920 x 1080 | RGB-D | - | BosphorusSign22k Dataset | [link](https://ogulcanozdemir.github.io/bosphorussign22k/) | Contact Author | SLR | Top-5 94.76 % |
-| AUTSL | 2020 | Turkish | 226 | 21 hours | 38,336 samples | 43 | General | Lab | 512 x 512 | RGB-D, Skeleton | - | AUTSL Dataset | [link](https://cvml.ankara.edu.tr/) | ✅ | SLR | Top-5 83.93 % |
+| AUTSL | 2020 | Turkish | 226 | 21 hours | 38,336 samples | 43 | General | Lab | 512 x 512 | RGB-D, Skeleton | 41 right-handed, 2 left-handed | AUTSL Dataset | [link](https://cvml.ankara.edu.tr/) | ✅ | SLR | Top-5 83.93 % |
 																								
 ## Continuous Sign Language Dataset
 
