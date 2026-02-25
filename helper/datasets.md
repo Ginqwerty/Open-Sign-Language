@@ -43,6 +43,7 @@ This document lists various datasets available for Sign Language research.
 | MM-WLAuslan | 2024 | Australian | 3,215 | ~2,500 hours | 282,900 videos | 73 | General | Lab | Varies | RGB-D, Pose data | - | MM-WLAuslan | [link](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/) | ✅ | SLR | Top-1 85%-95% |
 | AzSLD Words | 2023 | Azerbaijani | 100 | \- | \- | \- | - | - | - | RGB | - | AzSLD Dataset | [link](https://github.com/ADA-SITE-JML/azsl_dataloader) | ✅ | SLR | - |
 | BDSL 49 | 2022 | Bangla | 49 | \- | 29,490 images | 14 | General | Smartphone | \- | RGB | - | BDSL 49 Dataset | [link](https://data.mendeley.com/datasets/k5yk4j8z8s/5) | ✅ | SLR | - |
+| BdSLW401 | 2024 | Bangla   | 401             | -        | 102,176 videos (Front: 51,098; Lateral: 51,078) | 18 | General | Lab | - | Skeleton | Right-handed: 85%, Left-handed: 15% | BdSLW401: Transformer-Based Word-Level Bangla Sign Language Recognition Using Relative Quantization Encoding (RQE) | - | - | SLR | - |
 | MINDS-Libras | 2019 | Brazilian | 20 | \- | 1,200 videos | 12 | Gesture | Lab | 1920 x 1080 | RGB | - | - | [link](https://zenodo.org/records/2667329) | ✅ | SLR | - |
 | BSLDICT | 2020 | British | 9,283 | \- | 14,210 videos | >28 | Dictionary | Website | \- | RGB | - | Watch, read and lookup | [link](https://github.com/gulvarol/bsldict) | ✅ | SLR | - |
 | DEVISIGN | 2014 | Chinese | 4414 | \- | 331,050 vocabulary data | 30 | General | Lab | \- | RGB-D, Skeleton | - | - | [link](https://vipl.ict.ac.cn/homepage/ksl/data.html) | Contact Author | SLR | - |
