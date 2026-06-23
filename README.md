@@ -509,7 +509,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ***********************************************************************************************************************
 ### SLP/SLVG Papers 
-------------------------------------
+
 #### Text to Skeleton-Pose
 #### 2025
 ##### Conference
@@ -602,8 +602,31 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 </details>
 
-------------------------------------
+
 #### Text to Video Generation(SLVG)
+#### 2026
+##### Conference
+- **[CVPR]** `HandMDM` Text-Driven 3D Hand Motion Generation from Sign Language Data. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Bensabath_Text-Driven_3D_Hand_Motion_Generation_from_Sign_Language_Data_CVPR_2026_paper.pdf) | [Code](https://imagine.enpc.fr/~leore.bensabath/HandMDM/)
+  
+##### ArXiv
+- **[ArXiv]** Stable Signer: Hierarchical Sign Language Generative Model. [Paper](https://arxiv.org/abs/2512.04048) | [Code](https://stablesigner.github.io/)
+
+#### 2025
+##### Conference
+- **[IEEE FG]** `SignDiff` SignDiff: Diffusion Model for American Sign Language Production. [Paper](https://arxiv.org/abs/2308.16082) | [Code](https://signdiff.github.io)
+- **[NeurIPs]** `SignVIP` SignVIP: Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization. [Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/119805) | [Code](https://github.com/umnooob/signvip/)
+
+##### ArXiv
+- **[ArXiv]** `MicT` Motion is the Choreographer: Learning Latent Pose Dynamics for Seamless Sign Language Generation. [Paper](https://arxiv.org/abs/2508.04049) 
+
+
+#### 2024
+##### Conference
+- **[ECCV]** `SignGen` SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [Paper](https://eccv.ecva.net/virtual/2024/poster/2581) | [Code](https://github.com/mingtiannihao/SignGen)
+  
+#### 2022
+##### Conference
+- **[CVPR]** `FSNet & SignGAN` Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production. [Paper](https://arxiv.org/abs/2203.15354)
 
 #### 2020
 ##### ArXiv
