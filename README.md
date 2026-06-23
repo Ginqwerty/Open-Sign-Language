@@ -180,6 +180,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 ***********************************************************************************************************************
 ### SLR Papers
+#### 2026
+##### Conference
+- **[CVPR]** Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. [Paper](https://cvpr.thecvf.com/virtual/2026/poster/39682)
+
 #### 2025
 ##### Conference
 - **[WACV]** Sign Language Recognition: A Large-Scale Multi-View Dataset and Comprehensive Evaluation. [Paper](https://openaccess.thecvf.com/content/WACV2025/html/Dinh_Sign_Language_Recognition_A_Large-Scale_Multi-View_Dataset_and_Comprehensive_Evaluation_WACV_2025_paper.html)
@@ -401,6 +405,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[ACM MM]** `CTF` Connectionist Temporal Fusion for Sign Language Translation. [Paper](https://dl.acm.org/doi/abs/10.1145/3240508.3240671?casa_token=V4-a-LYLGbIAAAAA:2xoc5DhlkaP8cnsupWmoajZxBdQdwVUJXdCs_vZxmfIDIVEavWC1SWCCwBMxdSbVHSPBrneFyRzGCw)
 
 ### Gloss-free SLT
+#### 2026
+##### Conference
+- **[CVPR]** Learning Effective Sign Features without Text for Gloss-free Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Gan_Learning_Effective_Sign_Features_without_Text_for_Gloss-free_Sign_Language_CVPR_2026_paper.pdf)
 
 #### 2025
 ##### Conference
@@ -515,6 +522,11 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ### SLP/SLVG Papers 
 
 #### 📌Text to Skeleton-Pose
+#### 2026
+##### Conference
+- **[CVPR]** `SignPR` SignPR: A Progressive Vector-Quantized Diffusion Framework for Sign
+Language Production. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_SignPR_A_Progressive_Vector-Quantized_Diffusion_Framework_for_Sign_Language_Production_CVPR_2026_paper.pdf)
+
 #### 2025
 ##### Conference
 - **[ECCV]** `Signavatars` Signavatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark. [Paper](https://arxiv.org/pdf/2310.20436)
