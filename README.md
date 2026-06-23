@@ -508,7 +508,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 
 ***********************************************************************************************************************
-### SLP Papers
+### SLP Papers 
+
+#### Skeleton-Pose
 #### 2025
 ##### Conference
 - **[ECCV]** `Signavatars` Signavatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark. [Paper](https://arxiv.org/pdf/2310.20436)
@@ -974,6 +976,12 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 
 ## 🔍 Challenge & Workshop
+### [CVPR 2026](https://genai4sl.github.io/) GenSign Generative AI for Sign Language
+- Please refer to [this page](https://genai4sl.github.io/) for more information.
+
+### [CVPR 2026](https://m-slrt.github.io/MSLR2026/) 2nd Multimodal Sign Language Recognition Workshop
+- Please refer to [this page](https://m-slrt.github.io/MSLR2026/) for more information.
+  
 ### [CVPR 2025](https://slrtpworkshop.github.io/schedule/) SLRTP2025 Sign Language Production Challenge 
 - Challenge Summary Papar: [SLRTP2025 Sign Language Production Challenge: Methodology, Results and Future Work](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/html/Walsh_SLRTP2025_Sign_Language_Production_Challenge_Methodology_Results_and_Future_Work_CVPRW_2025_paper.html)
 - Please refer to [this page](helper/CVPR2025_challenge.md) for more information.
