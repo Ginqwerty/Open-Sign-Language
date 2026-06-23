@@ -10,6 +10,7 @@ This repository is all you need for Sign Language Study!
   - [SLR Papers](#slr-papers)
   - [SLT Papers](#slt-papers)
   - [SLP Papers](#slp-papers)
+  - [SL Annotation Papers](#sla-papers)
 - [Leaderboard](#leaderboard)
   - [SLR Leaderboard](#slr-leaderboard)
   - [SLT Leaderboard](#slt-leaderboard)
@@ -651,8 +652,14 @@ Language Production. [Paper](https://openaccess.thecvf.com/content/CVPR2026/pape
 ##### ArXiv
 - **[ArXiv]** `SignGAN` Everybody Sign Now: Translating Spoken Language to Photo Realistic Sign Language Video. [Paper](https://arxiv.org/abs/2011.09846)
 
+***********************************************************************************************************************
+### SL Annotation Papers 
 
+#### 2026
+##### Conference
+- **[CVPR]** Bootstrapping Sign Language Annotations with Sign Language Models. [Paper](https://arxiv.org/abs/2604.07606)
 
+***********************************************************************************************************************
 ## 🏆 Leaderboard
 
 ### SLR Leaderboard
