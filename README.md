@@ -508,9 +508,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 
 
 ***********************************************************************************************************************
-### SLP Papers 
+### SLP/SLVG Papers 
 ------------------------------------
-#### Skeleton-Pose
+#### Text to Skeleton-Pose
 #### 2025
 ##### Conference
 - **[ECCV]** `Signavatars` Signavatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark. [Paper](https://arxiv.org/pdf/2310.20436)
@@ -601,6 +601,15 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
   - **[BMVC 2018]** Sign Language Production using Neural Machine Translation and Generative Adversarial Networks. [Paper](https://d1wqtxts1xzle7.cloudfront.net/82179482/0906-libre.pdf?1647335598=&response-content-disposition=inline%3B+filename%3DSign_Language_Production_Using_Neural_Ma.pdf&Expires=1735083159&Signature=PqXBi-RC7J7Wx3towVVQfjte12~5pYISgQEePLlAMSNpdQk3mRogSC3YPPpZrHSDCUWF6JfGnGgMo-Oql050Mwz2ObfqkO6KEY6vTe3b25zUIP3HCnwWLMrxnr72LIhyO-17QE6Kt~etKxg48LzCnh9wCSN6uM5IbBkjetxtdeJ-Kw7OuXL5gcKZ-Zduxw99D7SVinzBHZ4~Z5y48SR5feBXMN7fIdqpyuzGF9MeAoauSXEfXN2xOr4m2~aI-0EP9bCvtD2M5J1SmojmbpXYL~7vT1CMqLOEKkBdULONElsrqBkImamhIsmy0paiayJblEmgjRBYlsHOG7-GJiC05w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
 </details>
+
+------------------------------------
+#### Text to Video Generation(SLVG)
+
+#### 2020
+##### ArXiv
+- **[ArXiv]** `SignGAN` Everybody Sign Now: Translating Spoken Language to Photo Realistic Sign Language Video. [Paper](https://arxiv.org/abs/2011.09846)
+
+
 
 ## 🏆 Leaderboard
 
