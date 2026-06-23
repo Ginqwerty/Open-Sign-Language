@@ -56,9 +56,13 @@ This repository is all you need for Sign Language Study!
 ### Survey Papers
 **********************************************************************************************************************
 ### Datasets Survey Papers
+#### 2026
+##### Conference
+- **[ACL]** Sign-Language Datasets at Scale: A Comprehensive Survey on Resources, Benchmarks, and Annotation Standards. [Paper](https://arxiv.org/abs/2606.19352) | [Github](https://github.com/Ginqwerty/Open-Sign-Language)
+
 #### 2022
 ##### Journal
-- **[LREC 2022]** Challenges with sign language datasets for sign language recognition and translation. [Paper](https://repositori.upf.edu/items/7e5fd976-eb4f-4cc5-878b-a1d9eef5a370)
+- **[LREC]** Challenges with sign language datasets for sign language recognition and translation. [Paper](https://repositori.upf.edu/items/7e5fd976-eb4f-4cc5-878b-a1d9eef5a370)
 
 **********************************************************************************************************************
 ### SLR Survey Papers
@@ -510,7 +514,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 ***********************************************************************************************************************
 ### SLP/SLVG Papers 
 
-#### Text to Skeleton-Pose
+#### 📌Text to Skeleton-Pose
 #### 2025
 ##### Conference
 - **[ECCV]** `Signavatars` Signavatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark. [Paper](https://arxiv.org/pdf/2310.20436)
@@ -603,7 +607,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 </details>
 
 
-#### Text to Video Generation(SLVG)
+#### 📌Text to Video Generation(SLVG)
 #### 2026
 ##### Conference
 - **[CVPR]** `HandMDM` Text-Driven 3D Hand Motion Generation from Sign Language Data. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Bensabath_Text-Driven_3D_Hand_Motion_Generation_from_Sign_Language_Data_CVPR_2026_paper.pdf) | [Code](https://imagine.enpc.fr/~leore.bensabath/HandMDM/)
