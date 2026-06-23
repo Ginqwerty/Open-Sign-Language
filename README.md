@@ -527,6 +527,9 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[CVPR]** `SignPR` SignPR: A Progressive Vector-Quantized Diffusion Framework for Sign
 Language Production. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_SignPR_A_Progressive_Vector-Quantized_Diffusion_Framework_for_Sign_Language_Production_CVPR_2026_paper.pdf)
 
+##### ArXiv
+- **[ArXiv]** `FlashSign` FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation [Paper](https://arxiv.org/abs/2603.27915)
+
 #### 2025
 ##### Conference
 - **[ECCV]** `Signavatars` Signavatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark. [Paper](https://arxiv.org/pdf/2310.20436)
