@@ -409,6 +409,7 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 #### 2026
 ##### Conference
 - **[CVPR]** Learning Effective Sign Features without Text for Gloss-free Sign Language Translation. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Gan_Learning_Effective_Sign_Features_without_Text_for_Gloss-free_Sign_Language_CVPR_2026_paper.pdf)
+- **[ACL]** `SignThought` Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation. [Paper](https://arxiv.org/abs/2604.15301) | [Code](https://github.com/fletcherjiang/SignThought)
 
 #### 2025
 ##### Conference
