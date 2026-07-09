@@ -519,6 +519,10 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[CVPR]** `NSLT` Neural Sign Language Translation. [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)|[Code](https://github.com/neccam/nslt)
 - **[AAAI]** Hierarchical LSTM for Sign Language Translation. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12235)
 
+### Others
+#### 2026
+##### Conference
+- **[ACL]** `SAME` SAME: Signer-Aware Mixture-of-Experts for Test-Time Adaptation in Sign Language Translation. [Paper](https://aclanthology.org/2026.acl-long.973/)
 
 ***********************************************************************************************************************
 ### SLP/SLVG Papers 
