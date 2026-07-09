@@ -528,12 +528,16 @@ Review. [Paper](https://www.researchgate.net/profile/Parteek-Bhatia-2/publicatio
 - **[CVPR]** `SignPR` SignPR: A Progressive Vector-Quantized Diffusion Framework for Sign
 Language Production. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_SignPR_A_Progressive_Vector-Quantized_Diffusion_Framework_for_Sign_Language_Production_CVPR_2026_paper.pdf)
 
+##### ArXiv
+- **[ArXiv]** `A2V-SLP` A2V-SLP: Alignment-Aware Variational Modeling for Disentangled Sign Language Production. [Paper](https://arxiv.org/abs/2602.11861v1)
+- **[ArXiv]** `M3T` M3T: Discrete Multi-Modal Motion Tokens for Sign Language Production. [Paper](https://arxiv.org/abs/2603.23617)
+
 #### 2025
 ##### Conference
 - **[ECCV]** `Signavatars` Signavatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark. [Paper](https://arxiv.org/pdf/2310.20436)
 - **[CVPR]** Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation. [Paper](https://arxiv.org/abs/2411.16810)
 - **[CVPR]** Diffusion-Based Continuous Sign Language Generation with Cluster-Specific Fine-Tuning and Motion-Adapted Transformer. [Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/html/Rastgoo_Diffusion-Based_Continuous_Sign_Language_Generation_with_Cluster-Specific_Fine-Tuning_and_Motion-Adapted_CVPRW_2025_paper.html)
-- **[ICCV]** Signs as Tokens: A Retrieval-Enhanced Multilingual Sign Language Generator. [Paper](https://arxiv.org/abs/2411.17799)
+- **[ICCV]** `SOKE` Signs as Tokens: A Retrieval-Enhanced Multilingual Sign Language Generator. [Paper](https://arxiv.org/abs/2411.17799)
 - **[ICCV]** `SignLLM` SignLLM: Sign Language Production Large Language Models. [Paper](https://arxiv.org/abs/2405.10718)| [Project Page](https://signllm.github.io/)
 - **[AAAI]** `Sign-IDD` Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production. [Paper](https://arxiv.org/abs/2412.13609) | [Code](https://github.com/NaVi-start/Sign-IDD)
  
@@ -624,9 +628,9 @@ Language Production. [Paper](https://openaccess.thecvf.com/content/CVPR2026/pape
 #### 2026
 ##### Conference
 - **[CVPR]** `HandMDM` Text-Driven 3D Hand Motion Generation from Sign Language Data. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Bensabath_Text-Driven_3D_Hand_Motion_Generation_from_Sign_Language_Data_CVPR_2026_paper.pdf) | [Code](https://imagine.enpc.fr/~leore.bensabath/HandMDM/)
+- **[ACL]** Stable Signer: Hierarchical Sign Language Generative Model. [Paper](https://arxiv.org/abs/2512.04048) | [Code](https://stablesigner.github.io/)
   
 ##### ArXiv
-- **[ArXiv]** Stable Signer: Hierarchical Sign Language Generative Model. [Paper](https://arxiv.org/abs/2512.04048) | [Code](https://stablesigner.github.io/)
 - **[ArXiv]** `FlashSign` FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation [Paper](https://arxiv.org/abs/2603.27915)
 
 #### 2025
