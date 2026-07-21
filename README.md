@@ -11,6 +11,7 @@ This repository is all you need for Sign Language Study!
   - [SLT Papers](#slt-papers)
   - [SLP Papers](#slp-papers)
   - [SL Annotation Papers](#sla-papers)
+  - [SL Evaluation Papers](#sle-papers)
 - [Leaderboard](#leaderboard)
   - [SLR Leaderboard](#slr-leaderboard)
   - [SLT Leaderboard](#slt-leaderboard)
@@ -665,6 +666,19 @@ Language Production. [Paper](https://openaccess.thecvf.com/content/CVPR2026/pape
 #### 2026
 ##### Conference
 - **[CVPR]** Bootstrapping Sign Language Annotations with Sign Language Models. [Paper](https://arxiv.org/abs/2604.07606)
+
+
+***********************************************************************************************************************
+### SL Evaluation Papers 
+
+#### 2026
+##### ArXiv
+- **[ArXiv]** `BackTranslation2.0` BackTranslation2.0 - A Linguistically Motivated Metric to Assess Sign Language Production. [Paper](https://arxiv.org/pdf/2606.28673)
+
+#### 2025
+##### Conference
+- **[ACL]** Meaningful Pose-Based Sign Language Evaluation. [Paper](https://aclanthology.org/2025.wmt-1.4/)
+
 
 ***********************************************************************************************************************
 ## 🏆 Leaderboard
