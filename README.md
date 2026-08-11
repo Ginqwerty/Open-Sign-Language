@@ -641,9 +641,11 @@ Language Production. [Paper](https://openaccess.thecvf.com/content/CVPR2026/pape
 ##### ArXiv
 - **[ArXiv]** `FlashSign` FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation [Paper](https://arxiv.org/abs/2603.27915)
 - **[ArXiv]** `SignSparK` SignSparK: Efficient Multilingual Sign Language Production via Sparse Keyframe Learning. [Paper](https://arxiv.org/abs/2603.10446)
+- **[ArXiv]** `M3T` M3T: Discrete Multi-Modal Motion Tokens for Sign Language Production. [Paper](https://arxiv.org/abs/2603.23617)
 
 #### 2025
 ##### Conference
+- **[ICCV]** `GReg` GReg: Geometry-Aware Region Refinement for Sign Language Video Generation. [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Shi_GReg_Geometry-Aware_Region_Refinement_for_Sign_Language_Video_Generation_ICCV_2025_paper.html)
 - **[IEEE FG]** `SignDiff` SignDiff: Diffusion Model for American Sign Language Production. [Paper](https://arxiv.org/abs/2308.16082) | [Code](https://signdiff.github.io)
 - **[NeurIPs]** `SignVIP` SignVIP: Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization. [Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/119805) | [Code](https://github.com/umnooob/signvip/)
 
@@ -653,8 +655,11 @@ Language Production. [Paper](https://openaccess.thecvf.com/content/CVPR2026/pape
 
 #### 2024
 ##### Conference
+- **[BMVC]** `Sign Stitching` Sign Stitching: A Novel Approach to Sign Language Production. [Paper](https://arxiv.org/abs/2405.07663)
 - **[ECCV]** `SignGen` SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [Paper](https://eccv.ecva.net/virtual/2024/poster/2581) | [Code](https://github.com/mingtiannihao/SignGen)
-- - **[ECCV]** A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [Paper](https://arxiv.org/abs/2401.04730)
+- **[ECCV]** A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [Paper](https://arxiv.org/abs/2401.04730)
+- **[ECCV]** Pose-Guided Fine-Grained Sign Language Video Generation. [Paper](https://arxiv.org/abs/2409.16709)
+- **[ACM TOMM]** `STCNet` Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation. [Paper](https://arxiv.org/abs/2207.03714)
 - **[WACV]** `Spoken2Sign` Sign Language Production with Latent Motion Transformer. [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.pdf)
 
 #### 2022
