@@ -633,11 +633,14 @@ Language Production. [Paper](https://openaccess.thecvf.com/content/CVPR2026/pape
 #### 📌Text to Video Generation(SLVG)
 #### 2026
 ##### Conference
-- **[CVPR]** `HandMDM` Text-Driven 3D Hand Motion Generation from Sign Language Data. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Bensabath_Text-Driven_3D_Hand_Motion_Generation_from_Sign_Language_Data_CVPR_2026_paper.pdf) | [Code](https://imagine.enpc.fr/~leore.bensabath/HandMDM/)
 - **[ACL]** Stable Signer: Hierarchical Sign Language Generative Model. [Paper](https://arxiv.org/abs/2512.04048) | [Code](https://stablesigner.github.io/)
+- **[CVPR]** `HandMDM` Text-Driven 3D Hand Motion Generation from Sign Language Data. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Bensabath_Text-Driven_3D_Hand_Motion_Generation_from_Sign_Language_Data_CVPR_2026_paper.pdf) | [Code](https://imagine.enpc.fr/~leore.bensabath/HandMDM/)
+- **[IEEE]** `Text2Sign` Text2Sign: A Single-GPU Diffusion Baseline for Text-to-Sign Language Video Generation. [Paper](https://arxiv.org/abs/2607.13164) | [Code](https://github.com/xiaruize0911/text2sign)
+- **[TPAMI]** `SignMoD` SignMoD: Sign Language Video Generation via Mixture of Diffusion. [Paper](https://ieeexplore.ieee.org/document/11539019)
   
 ##### ArXiv
 - **[ArXiv]** `FlashSign` FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation [Paper](https://arxiv.org/abs/2603.27915)
+- **[ArXiv]** `SignSparK` SignSparK: Efficient Multilingual Sign Language Production via Sparse Keyframe Learning. [Paper](https://arxiv.org/abs/2603.10446)
 
 #### 2025
 ##### Conference
@@ -651,7 +654,9 @@ Language Production. [Paper](https://openaccess.thecvf.com/content/CVPR2026/pape
 #### 2024
 ##### Conference
 - **[ECCV]** `SignGen` SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [Paper](https://eccv.ecva.net/virtual/2024/poster/2581) | [Code](https://github.com/mingtiannihao/SignGen)
-  
+- - **[ECCV]** A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [Paper](https://arxiv.org/abs/2401.04730)
+- **[WACV]** `Spoken2Sign` Sign Language Production with Latent Motion Transformer. [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.pdf)
+
 #### 2022
 ##### Conference
 - **[CVPR]** `FSNet & SignGAN` Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production. [Paper](https://arxiv.org/abs/2203.15354)
