@@ -657,6 +657,10 @@ Language Production. [Paper](https://openaccess.thecvf.com/content/CVPR2026/pape
 - **[CVPR]** `FSNet & SignGAN` Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production. [Paper](https://arxiv.org/abs/2203.15354)
 
 #### 2020
+##### Conference
+- **[IJCV]** `Text2Sign` Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. [Paper](https://link.springer.com/article/10.1007/s11263-019-01281-2)
+- **[ECCV Workshop]** `SignSynth` SignSynth: Data-Driven Sign Language Video Generation. [Code](https://github.com/stephstoll91/SignSynth)
+
 ##### ArXiv
 - **[ArXiv]** `SignGAN` Everybody Sign Now: Translating Spoken Language to Photo Realistic Sign Language Video. [Paper](https://arxiv.org/abs/2011.09846)
 
