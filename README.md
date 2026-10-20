@@ -9,6 +9,8 @@ The repository includes:
 
 Our survey examines dataset limitations, including modality imbalance, annotation granularity, and signer bias, and introduces a 24-field Sign-Language Datasheet to support standardized documentation. Together, the survey and repository aim to help researchers identify relevant resources, understand dataset characteristics, and make informed choices about datasets and evaluation settings.
 
+If you find this repository useful, please consider giving it a ⭐. We will continue to update it with additional datasets, papers, and benchmark results.
+
 📌 This project is licensed under the Apache License 2.0 – see the LICENSE file for details.
 
 ## :memo: Table of Contents
