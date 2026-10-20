@@ -1,5 +1,5 @@
 # Open-Sign-Language
-Open-Sign-Language is a curated collection of datasets, research papers, and reported benchmark results for sign language recognition, translation, and production. This repository accompanies our survey, which indexes 120+ dataset resources across 35 sign languages.
+Open-Sign-Language is a curated collection of datasets, research papers, and reported benchmark results for sign language recognition, translation, and production. 
 
 The repository includes:
 - Dataset summaries and links to the original resources.
@@ -7,7 +7,7 @@ The repository includes:
 - Leaderboards summarizing reported results on selected datasets.
 - Information on related challenges and workshops.
 
-Our survey examines dataset limitations, including modality imbalance, annotation granularity, and signer bias, and introduces a 24-field Sign-Language Datasheet to support standardized documentation. Together, the survey and repository aim to help researchers identify relevant resources, understand dataset characteristics, and make informed choices about datasets and evaluation settings.
+Our survey [Sign-Language Datasets at Scale](https://arxiv.org/abs/2606.19352v1) examines dataset limitations, including modality imbalance, annotation granularity, and signer bias, and introduces a 24-field Sign-Language Datasheet to support standardized documentation. Together, the survey and repository aim to help researchers identify relevant resources, understand dataset characteristics, and make informed choices about datasets and evaluation settings.
 
 If you find this repository useful, please consider giving it a ⭐. We will continue to update it with additional datasets, papers, and benchmark results.
 
