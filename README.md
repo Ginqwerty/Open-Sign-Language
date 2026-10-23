@@ -639,49 +639,108 @@ Language Production. [Paper](https://openaccess.thecvf.com/content/CVPR2026/pape
 
 </details>
 
-
 #### 📌Text to Video Generation(SLVG)
+
 #### 2026
+
 ##### Conference
-- **[ACL]** Stable Signer: Hierarchical Sign Language Generative Model. [Paper](https://arxiv.org/abs/2512.04048) | [Code](https://stablesigner.github.io/)
-- **[CVPR]** `HandMDM` Text-Driven 3D Hand Motion Generation from Sign Language Data. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Bensabath_Text-Driven_3D_Hand_Motion_Generation_from_Sign_Language_Data_CVPR_2026_paper.pdf) | [Code](https://imagine.enpc.fr/~leore.bensabath/HandMDM/)
-- **[IEEE]** `Text2Sign` Text2Sign: A Single-GPU Diffusion Baseline for Text-to-Sign Language Video Generation. [Paper](https://arxiv.org/abs/2607.13164) | [Code](https://github.com/xiaruize0911/text2sign)
-- **[TPAMI]** `SignMoD` SignMoD: Sign Language Video Generation via Mixture of Diffusion. [Paper](https://ieeexplore.ieee.org/document/11539019)
-  
+
+- **[ACL]** `Stable Signer` Stable Signer: Hierarchical Sign Language Generative Model. [Paper](https://arxiv.org/abs/2512.04048) | [Project](https://stablesigner.github.io/)
+- **[CVPR]** `HandMDM` Text-Driven 3D Hand Motion Generation from Sign Language Data. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Bensabath_Text-Driven_3D_Hand_Motion_Generation_from_Sign_Language_Data_CVPR_2026_paper.pdf) | [Code](https://github.com/leorebensabath/HandMDM) | [Project](https://imagine.enpc.fr/~leore.bensabath/HandMDM/)
+- **[ECCV]** `SignRefine` SignRefine: Adapting Foundational Video Models for Sign Language Generation. [Paper](https://arxiv.org/abs/2609.08496) | [Project](https://cogvis-cvssp.github.io/papers/signrefine/)
+- **[ECCV]** `SignSparK` SignSparK: Efficient Multilingual Sign Language Production via Sparse Keyframe Learning. [Paper](https://arxiv.org/abs/2603.10446) | [Project](https://cogvis-cvssp.github.io/papers/signspark/)
+- **[BMVC]** `M3T` M3T: Discrete Multi-Modal Motion Tokens for Sign Language Production. [Paper](https://arxiv.org/abs/2603.23617)
+- **[ICME]** `FlashSign` FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation. [Paper](https://arxiv.org/abs/2603.27915)
+- **[Interspeech]** `SignMatch` SignMatch: Aligning Pose Latent Diffusion via Multi-dimensional Rewards for Sign Language Video Generation. [Paper](https://www.isca-archive.org/interspeech_2026/huang26j_interspeech.html)
+- **[AAAI Workshop]** `RuSignBot` RuSignBot: Russian Sign Language Synthesis via Customized MimicMotion. [Paper](https://openreview.net/pdf?id=wF5MQoFObq) | [Code](https://github.com/ds-hub-sochi/mimic_text2video)
+
+##### Journal
+
+- **[IEEE TPAMI]** `SignMoD` SignMoD: Sign Language Video Generation via Mixture of Diffusion. [Paper](https://ieeexplore.ieee.org/document/11539019)
+- **[IEEE Access]** `Text2Sign` Text2Sign: A Single-GPU Diffusion Baseline for Text-to-Sign Language Video Generation. [Paper](https://arxiv.org/abs/2607.13164) | [Code](https://github.com/xiaruize0911/text2sign)
+- **[Enterprise Information Systems]** Precise finger articulation in sign language video generation. [Paper](https://www.tandfonline.com/doi/abs/10.1080/17517575.2026.2632279)
+- **[IJ-AI]** Indian sign language video generation using attention-enhanced generative adversarial network. [Paper](https://ijai.iaescore.com/index.php/IJAI/article/view/28678)
+
 ##### ArXiv
-- **[ArXiv]** `FlashSign` FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation [Paper](https://arxiv.org/abs/2603.27915)
-- **[ArXiv]** `SignSparK` SignSparK: Efficient Multilingual Sign Language Production via Sparse Keyframe Learning. [Paper](https://arxiv.org/abs/2603.10446)
-- **[ArXiv]** `M3T` M3T: Discrete Multi-Modal Motion Tokens for Sign Language Production. [Paper](https://arxiv.org/abs/2603.23617)
+
+- **[ArXiv]** `MD-GAN` Sign Language Video Synthesis via Loss-Guided Multi-Expert GANs. [Paper](https://arxiv.org/abs/2608.13368)
 
 #### 2025
+
 ##### Conference
+
 - **[ICCV]** `GReg` GReg: Geometry-Aware Region Refinement for Sign Language Video Generation. [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Shi_GReg_Geometry-Aware_Region_Refinement_for_Sign_Language_Video_Generation_ICCV_2025_paper.html)
-- **[IEEE FG]** `SignDiff` SignDiff: Diffusion Model for American Sign Language Production. [Paper](https://arxiv.org/abs/2308.16082) | [Code](https://signdiff.github.io)
-- **[NeurIPs]** `SignVIP` SignVIP: Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization. [Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/119805) | [Code](https://github.com/umnooob/signvip/)
+- **[NeurIPS]** `SignViP` Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization. [Paper](https://proceedings.nips.cc/paper_files/paper/2025/hash/72295bbd1260b40a0e26952e1531dbfe-Abstract-Conference.html) | [Code](https://github.com/umnooob/signvip/)
+- **[CHI]** Towards AI-driven Sign Language Generation with Non-manual Markers. [Paper](https://arxiv.org/abs/2502.05661)
+- **[ICVGIP]** Towards Scalable Sign Production: Leveraging Co-Articulated Gloss Dictionary for Fluid Sign Synthesis. [Paper](https://doi.org/10.1145/3774521.3774576)
+- **[IEEE FG Workshop]** `SignDiff` SignDiff: Diffusion Model for American Sign Language Production. [Paper](https://arxiv.org/abs/2308.16082) | [Project](https://signdiff.github.io/)
 
 ##### ArXiv
-- **[ArXiv]** `MicT` Motion is the Choreographer: Learning Latent Pose Dynamics for Seamless Sign Language Generation. [Paper](https://arxiv.org/abs/2508.04049) 
 
+- **[ArXiv]** `SignSplat` SignSplat: Rendering Sign Language via Gaussian Splatting. [Paper](https://arxiv.org/abs/2505.02108)
+- **[ArXiv]** `SignAligner` SignAligner: Harmonizing Complementary Pose Modalities for Coherent Sign Language Generation. [Paper](https://arxiv.org/abs/2506.11621)
+- **[ArXiv]** `MicT` Motion is the Choreographer: Learning Latent Pose Dynamics for Seamless Sign Language Generation. [Paper](https://arxiv.org/abs/2508.04049)
+- **[ArXiv]** `Signer Avatar` Diverse Signer Avatars with Manual and Non-Manual Feature Modelling for Sign Language Production. [Paper](https://arxiv.org/abs/2508.15988)
 
 #### 2024
+
 ##### Conference
+
 - **[BMVC]** `Sign Stitching` Sign Stitching: A Novel Approach to Sign Language Production. [Paper](https://arxiv.org/abs/2405.07663)
 - **[ECCV]** `SignGen` SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [Paper](https://eccv.ecva.net/virtual/2024/poster/2581) | [Code](https://github.com/mingtiannihao/SignGen)
-- **[ECCV]** A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [Paper](https://arxiv.org/abs/2401.04730)
-- **[ECCV]** Pose-Guided Fine-Grained Sign Language Video Generation. [Paper](https://arxiv.org/abs/2409.16709)
+- **[ECCV]** `Spoken2Sign` A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [Paper](https://arxiv.org/abs/2401.04730)
+- **[ECCV]** `PGMM` Pose-Guided Fine-Grained Sign Language Video Generation. [Paper](https://arxiv.org/abs/2409.16709)
+- **[WACV]** `LMT` Sign Language Production with Latent Motion Transformer. [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.pdf)
+- **[ACL Findings]** `USLNet` Unsupervised Sign Language Translation and Generation. [Paper](https://aclanthology.org/2024.findings-acl.835/) | [Code](https://github.com/ZhengshengGuo/USLNet)
+- **[IEEE FG]** `PENet` Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder. [Paper](https://arxiv.org/abs/2405.10423)
+- **[UBMK]** Turkish Sign Language Video Generation from Pose Sequences Using a Conditional GAN Model. [Paper](https://doi.org/10.1109/UBMK63289.2024.10773583)
+- **[ECCV Workshop]** `DiffSign` DiffSign: AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism. [Paper](https://arxiv.org/abs/2412.03878)
+- **[ECML PKDD Workshop]** `TuneSL` Towards End-to-End Text to Sign Language Video with Diffusion Models. [Paper](https://link.springer.com/chapter/10.1007/978-3-032-25314-9_16)
+
+##### Journal
+
 - **[ACM TOMM]** `STCNet` Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation. [Paper](https://arxiv.org/abs/2207.03714)
-- **[WACV]** `Spoken2Sign` Sign Language Production with Latent Motion Transformer. [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.pdf)
+- **[Optical Memory and Neural Networks]** Sign Language Video Generation from Text Using Generative Adversarial Networks. [Paper](https://link.springer.com/article/10.3103/S1060992X24700851)
+
+#### 2023
+
+##### Conference
+
+- **[CVPR Workshop]** `Neural Sign Reenactor` Neural Sign Reenactor: Deep Photorealistic Sign Language Retargeting. [Paper](https://robotics.ntua.gr/wp-content/uploads/sites/2/Tze_CVPRW2023_Neural_Sign_Reenactor_Paper.pdf)
+- **[EAMT Workshop]** An Open-Source Gloss-Based Baseline for Spoken to Signed Language Translation. [Paper](https://aclanthology.org/2023.at4ssl-1.3/) | [Code](https://github.com/sign-language-processing/spoken-to-signed-translation)
 
 #### 2022
+
 ##### Conference
-- **[CVPR]** `FSNet & SignGAN` Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production. [Paper](https://arxiv.org/abs/2203.15354)
+
+- **[CVPR]** `FS-Net & SignGAN` Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production. [Paper](https://arxiv.org/abs/2203.15354)
+
+##### Journal
+
+- **[Soft Computing]** `Dynamic GAN` Dynamic GAN for high-quality sign language video generation from skeletal poses using generative adversarial networks. [Paper](https://link.springer.com/article/10.1007/s00500-022-07014-x)
+- **[Multimedia Tools and Applications]** Realistic video generation for American sign language. [Paper](https://link.springer.com/article/10.1007/s11042-022-12590-z)
+
+#### 2021
+
+##### Conference
+
+- **[NAACL Workshop]** Pose-Guided Sign Language Video GAN with Dynamic Lambda. [Paper](https://arxiv.org/abs/2105.02742)
 
 #### 2020
+
 ##### Conference
+
+- **[SIU]** Sign Language Video Synthesis using Skeleton Sequence. [Paper](https://ieeexplore.ieee.org/document/9302436)
+- **[ECCV Workshop]** `SignSynth` SignSynth: Data-Driven Sign Language Video Generation. [Paper](https://doi.org/10.1007/978-3-030-66823-5_21) | [Code](https://github.com/stephstoll91/SignSynth)
+- **[ECCV Workshop, Extended Abstract]** Can Everybody Sign Now? Exploring Sign Language Video Generation from 2D Poses. [Paper](https://slrtp.com/papers/extended_abstracts/SLRTP.EA.14.018.paper.pdf)
+
+##### Journal
+
 - **[IJCV]** `Text2Sign` Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. [Paper](https://link.springer.com/article/10.1007/s11263-019-01281-2)
-- **[ECCV Workshop]** `SignSynth` SignSynth: Data-Driven Sign Language Video Generation. [Code](https://github.com/stephstoll91/SignSynth)
+- **[IEEE TMM]** Deep Gesture Video Generation With Learning on Regions of Interest. [Paper](https://doi.org/10.1109/TMM.2019.2960700)
 
 ##### ArXiv
+
 - **[ArXiv]** `SignGAN` Everybody Sign Now: Translating Spoken Language to Photo Realistic Sign Language Video. [Paper](https://arxiv.org/abs/2011.09846)
 
 ***********************************************************************************************************************
