@@ -41,7 +41,7 @@ Commit the Markdown change and the regenerated files together. Only the Python 3
 | `warn` | Probably wrong; a person has to decide which side is right. |
 | `info` | Hygiene. Fix when you touch the line anyway. |
 
-Line numbers refer to the source files at the hashes printed at the top of the report. After editing, rerun both scripts: line numbers move.
+Line numbers refer to the source files at the hashes printed at the top of the report. A paper entry that wraps onto several lines is reported at its first line, even when the offending link is on a later line. After editing, rerun both scripts: line numbers move.
 
 The lint checks formatting and internal consistency only. It does not open links, compare a title with its link, or verify metric values. Open the link yourself before changing it.
 
@@ -63,7 +63,7 @@ The lint checks formatting and internal consistency only. It does not open links
 | `url-non-canonical-host` | Prefer arXiv, DOI or the publisher page over ResearchGate, Google Drive or file mirrors. |
 | `row-no-leading-pipe` | Add the leading `\|`. |
 | `known-typo` | Correct the spelling (`Avaliable` -> `Available`). To check a new word, add it to `KNOWN_TYPOS` in `scripts/lint.py`. |
-| `label-case-variant` | Use `ArXiv` everywhere. |
+| `label-case-variant` | Use the majority spelling shown in the finding (for example `ArXiv`) for both venue tags and `#####` headings. |
 | `language-label-style`, `missing-marker-mixed` | Use the language or nationality (`German`, not `Germany`) and a single `-` for missing values. |
 | `leaderboard-not-numeric`, `leaderboard-order` | Keep metric cells numeric and tables sorted by the main metric (WER ascending, BLEU-4 descending). |
 | `leaderboard-link-unmatched`, `dataset-year-range` | Check the link is in the paper list, and the year is a four-digit year. |

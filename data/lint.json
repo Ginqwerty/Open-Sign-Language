@@ -7,7 +7,7 @@
   "counts": {
     "error": 2,
     "warn": 37,
-    "info": 161
+    "info": 164
   },
   "stats": {
     "dataset_rows": 123,
@@ -1324,8 +1324,29 @@
       "rule": "label-case-variant",
       "severity": "info",
       "file": "README.md",
+      "line": 97,
+      "detail": "heading `Arxiv` (x2) vs `ArXiv` (x22)"
+    },
+    {
+      "rule": "label-case-variant",
+      "severity": "info",
+      "file": "README.md",
       "line": 98,
-      "detail": "`ArXiv` x56 / `Arxiv` x2"
+      "detail": "venue tag `Arxiv` (x2) vs `ArXiv` (x56)"
+    },
+    {
+      "rule": "label-case-variant",
+      "severity": "info",
+      "file": "README.md",
+      "line": 127,
+      "detail": "heading `Arxiv` (x2) vs `ArXiv` (x22)"
+    },
+    {
+      "rule": "label-case-variant",
+      "severity": "info",
+      "file": "README.md",
+      "line": 128,
+      "detail": "venue tag `Arxiv` (x2) vs `ArXiv` (x56)"
     },
     {
       "rule": "language-label-style",
