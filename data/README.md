@@ -18,5 +18,8 @@ Each record has `source.line`, the line number in its source file.
 | `leaderboards.json` | One record per leaderboard table row: `task` (SLR/SLT/SLP), `dataset`, `group` (e.g. Gloss-free), `model`, `model_url`, `year`, `venue`, `code`, `code_url`, plus every column in `fields`. Rows whose cell count differs from the header have `column_mismatch: true` and `venue`/`code` set to null. |
 | `datasets.json` | One record per row of `helper/datasets.md` (all 17 columns, keys in snake_case under `fields`), with `readme_summary` holding the matching row of the README summary tables when there is one. |
 | `meta.json` | Source file hashes, record counts and parse warnings. |
+| `lint.json` | Findings of `scripts/lint.py` (see `docs/lint-report.md`): link, table and consistency problems in the sources. |
+
+`python3 scripts/lint.py` writes `docs/lint-report.md` and `data/lint.json`; `--check` works the same way. It reports problems and never edits the sources.
 
 Known limits: `section` follows the README's heading levels, so "SLP Survey Papers" appears nested under "SLT Survey Papers" because the README nests it there. Values such as ✅/❌, "Contact Author" or "-" are kept as raw text.

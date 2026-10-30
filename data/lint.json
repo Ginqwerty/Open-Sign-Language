@@ -1,0 +1,1485 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "README.md": "76d223ec7b18520012dad978d16477faef853594e26e0b49dff83d174ebefa51",
+    "helper/datasets.md": "d6eb9ebf98d14756d3368a3610fa24af85e2eb84b91f86fbe99d1d0419a2a2a0"
+  },
+  "counts": {
+    "error": 2,
+    "warn": 37,
+    "info": 161
+  },
+  "stats": {
+    "dataset_rows": 123,
+    "dataset_missing_by_column": {
+      "dataset": 0,
+      "year": 2,
+      "language": 0,
+      "vocabulary_size": 11,
+      "duration": 83,
+      "samples": 15,
+      "signers": 15,
+      "domain": 1,
+      "collection_source": 2,
+      "resolution": 70,
+      "modality": 0,
+      "hand_dominance": 110,
+      "publication": 5,
+      "website": 34,
+      "available": 3,
+      "task": 11,
+      "baseline_model_accuracy": 74
+    },
+    "available_values": {
+      "✅": 73,
+      "❌": 28,
+      "Contact Author": 10,
+      "Agreement Needed": 5,
+      "Partially": 2,
+      "\\-": 2,
+      "✅ Yes (CC BY 4.0)": 1,
+      "-": 1,
+      "Free to visit": 1
+    },
+    "language_values": {
+      "American": 28,
+      "Germany": 12,
+      "Chinese": 10,
+      "Indian": 8,
+      "Arabic": 7,
+      "Bangla": 5,
+      "Greek": 5,
+      "Australian": 3,
+      "British": 3,
+      "Korean": 3,
+      "Spanish": 3,
+      "Swedish": 3,
+      "Turkish": 3,
+      "Multi": 3,
+      "Azerbaijani": 2,
+      "Brazilian": 2,
+      "French Belgian": 2,
+      "Flemish": 2,
+      "Russian": 2,
+      "Irish": 1,
+      "Algerian": 1,
+      "Argentina": 1,
+      "Kazakh-Russian": 1,
+      "Mexican": 1,
+      "Pakistani": 1,
+      "Polish": 1,
+      "Saudi": 1,
+      "Swiss-German": 1,
+      "Colombian": 1,
+      "Finnish": 1,
+      "French": 1,
+      "Hong Kong": 1,
+      "Japanese": 1,
+      "Netherlands": 1,
+      "Persian": 1,
+      "Peruvian": 1
+    }
+  },
+  "findings": [
+    {
+      "rule": "link-no-scheme",
+      "severity": "error",
+      "file": "README.md",
+      "line": 428,
+      "detail": "UNI-SIGN: `github.com/ZechengLi19/Uni-Sign`"
+    },
+    {
+      "rule": "column-count",
+      "severity": "error",
+      "file": "README.md",
+      "line": 1137,
+      "detail": "row has 8 cells, header has 7"
+    },
+    {
+      "rule": "leaderboard-link-differs",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 808,
+      "detail": "SMKD -> `https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Co`; paper list uses `openaccess.thecvf.com/content/iccv2021/html/hao_self-mutual_distillation_learning_for_continuous_sign_language_recognition_iccv_2021_paper.html`"
+    },
+    {
+      "rule": "leaderboard-link-differs",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 863,
+      "detail": "SMKD -> `https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Co`; paper list uses `openaccess.thecvf.com/content/iccv2021/html/hao_self-mutual_distillation_learning_for_continuous_sign_language_recognition_iccv_2021_paper.html`"
+    },
+    {
+      "rule": "leaderboard-link-differs",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1125,
+      "detail": "IFECE (MFs) -> `https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_t`; paper list uses `arxiv:2202.05383`"
+    },
+    {
+      "rule": "leaderboard-link-differs",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1127,
+      "detail": "IFECE (MFs + FI + AUs) -> `https://openaccess.thecvf.com/content/CVPR2022/papers/Saunders_Signing_at_Scale_Learning_t`; paper list uses `arxiv:2202.05383`"
+    },
+    {
+      "rule": "leaderboard-year-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 835,
+      "detail": "DCN-IterativeOpt: leaderboard 2019, paper list 2018"
+    },
+    {
+      "rule": "leaderboard-year-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 966,
+      "detail": "CV-SLT: leaderboard 2022, paper list 2024"
+    },
+    {
+      "rule": "leaderboard-year-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1062,
+      "detail": "SignMusketeers: leaderboard 2024, paper list 2025"
+    },
+    {
+      "rule": "leaderboard-year-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1064,
+      "detail": "YouTube-ASL: leaderboard 2024, paper list 2023"
+    },
+    {
+      "rule": "leaderboard-year-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1102,
+      "detail": "Sign-IDD: leaderboard 2024, paper list 2025"
+    },
+    {
+      "rule": "leaderboard-year-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1115,
+      "detail": "SignDiff: leaderboard 2023, paper list 2025"
+    },
+    {
+      "rule": "leaderboard-year-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1125,
+      "detail": "IFECE (MFs): leaderboard 2023, paper list 2022"
+    },
+    {
+      "rule": "leaderboard-year-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1126,
+      "detail": "SignVQNet: leaderboard 2024, paper list 2023"
+    },
+    {
+      "rule": "leaderboard-year-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1127,
+      "detail": "IFECE (MFs + FI + AUs): leaderboard 2023, paper list 2022"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 815,
+      "detail": "MSTN: leaderboard `ICCV`, paper list `ArXiv`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 912,
+      "detail": "MSTN: leaderboard `ICCV`, paper list `ArXiv`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 981,
+      "detail": "PET: leaderboard `ICLR`, paper list `ACL`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 989,
+      "detail": "Sign2GPT: leaderboard `ArXiv`, paper list `ICLR`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1036,
+      "detail": "Sign2GPT: leaderboard `ArXiv`, paper list `ICLR`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1097,
+      "detail": "Adversarial Training: leaderboard `BMVC`, paper list `BMCV`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1101,
+      "detail": "Data-Driven: leaderboard `SEM`, paper list `IEEE FG`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1102,
+      "detail": "Sign-IDD: leaderboard `ArXiv`, paper list `AAAI`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1104,
+      "detail": "GCDM: leaderboard `ACM`, paper list `TOMM`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1115,
+      "detail": "SignDiff: leaderboard `ArXiv`, paper list `IEEE FG Workshop`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1121,
+      "detail": "Adversarial Training: leaderboard `BMVC`, paper list `BMCV`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1124,
+      "detail": "Data-Driven: leaderboard `SEM`, paper list `IEEE FG`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1125,
+      "detail": "IFECE (MFs): leaderboard `SEM`, paper list `CVPR`"
+    },
+    {
+      "rule": "leaderboard-venue-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 1127,
+      "detail": "IFECE (MFs + FI + AUs): leaderboard `SEM`, paper list `CVPR`"
+    },
+    {
+      "rule": "venue-typo",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 591,
+      "detail": "`NuerIPS` (x1) vs `NeurIPS` (x7)"
+    },
+    {
+      "rule": "venue-typo",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 629,
+      "detail": "`BMCV` (x1) vs `BMVC` (x4)"
+    },
+    {
+      "rule": "dataset-publication-mismatch",
+      "severity": "warn",
+      "file": "helper/datasets.md",
+      "line": 134,
+      "detail": "TheRuSLan (Russian) cites `PeruSIL: A Framework to Build a Continuous Peruvian Sign Language Inte`, which names PeruSIL (Peruvian, line 133)"
+    },
+    {
+      "rule": "readme-summary-mismatch",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 40,
+      "detail": "RWTH-FingerSpelling, language: README `German`, datasets.md `Germany`"
+    },
+    {
+      "rule": "paper-duplicate-in-section",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 460,
+      "detail": "Improving Gloss-free Sign Language Translation by Reducing Representation Density (also line 443, under Gloss-free SLT)"
+    },
+    {
+      "rule": "paper-no-link",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 373,
+      "detail": "Improving Non-autoregressive Sign Language Translation with Random Ordering Progressive Prediction Pre-training"
+    },
+    {
+      "rule": "url-signed-expiring",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 352,
+      "detail": "Deep Sign: x-amz-expires, x-amz-signature on s3.eu-central-1.amazonaws.com"
+    },
+    {
+      "rule": "url-signed-expiring",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 638,
+      "detail": "Sign Language Production using Neural Machine Tran: expires, key-pair-id, signature on d1wqtxts1xzle7.cloudfront.net"
+    },
+    {
+      "rule": "url-signed-expiring",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 775,
+      "detail": "Deep Sign: x-amz-expires, x-amz-signature on s3.eu-central-1.amazonaws.com"
+    },
+    {
+      "rule": "url-signed-expiring",
+      "severity": "warn",
+      "file": "README.md",
+      "line": 839,
+      "detail": "Deep Sign: x-amz-expires, x-amz-signature on s3.eu-central-1.amazonaws.com"
+    },
+    {
+      "rule": "paper-no-venue",
+      "severity": "info",
+      "file": "README.md",
+      "line": 500,
+      "detail": "Sign Language Translation based on Transformers for the How2Sign Dataset"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 91,
+      "detail": "A Extensive Survey on Sign Language Recognition Me: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 94,
+      "detail": "State of the Art of Automation in Sign Language: A: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 107,
+      "detail": "ML Based Sign Language Recognition System: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 110,
+      "detail": "Sign Language Recognition: A Deep Survey: casa_token on www.sciencedirect.com"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 117,
+      "detail": "Sign Language Recognition Techniques- A Review: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 141,
+      "detail": "Automatic sign language recognition: A survey: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 161,
+      "detail": "State of the Art of Automation in Sign Language: A: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 174,
+      "detail": "A survey on recent advances in Sign Language Produ: casa_token on www.sciencedirect.com"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 179,
+      "detail": "State of the Art of Automation in Sign Language: A: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 260,
+      "detail": "SignBERT+: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 282,
+      "detail": "ST-GCN: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 288,
+      "detail": "PiSLTRc: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 289,
+      "detail": "H-GAN: casa_token on www.sciencedirect.com"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 290,
+      "detail": "STMC-SLRT: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 292,
+      "detail": "EnStimCTC: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 297,
+      "detail": "ISFT: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 302,
+      "detail": "CMAug: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 308,
+      "detail": "Skeleton-Based Chinese Sign Language Recognition a: casa_token on www.sciencedirect.com"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 309,
+      "detail": "Multi-Stream CLH: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 316,
+      "detail": "CSLR-PL: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 317,
+      "detail": "CSLR-RL: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 319,
+      "detail": "DPLD: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 400,
+      "detail": "STMC-T: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 417,
+      "detail": "CTF: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 450,
+      "detail": "EMF-SLT: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 486,
+      "detail": "MC-SLT: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 494,
+      "detail": "SignNet II: A Transformer-Based Two-Way Sign Langu: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 504,
+      "detail": "Content4All Open Research Sign Language Translatio: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 505,
+      "detail": "SimulSLT: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 506,
+      "detail": "Skeleton-Aware Neural Sign Language Translation: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 517,
+      "detail": "Tokenization-SLT: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 576,
+      "detail": "A Gloss-free Sign Language Production with Discret: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 606,
+      "detail": "GEN-OBT: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 617,
+      "detail": "NAT-EA: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 632,
+      "detail": "Skeleton-based Chinese sign language recognition a: casa_token on www.sciencedirect.com"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 792,
+      "detail": "SignBERT+: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 801,
+      "detail": "STMC-SLRT: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 813,
+      "detail": "CMAug: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 817,
+      "detail": "PiSLTRc: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 826,
+      "detail": "Multi-Stream CLH: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 831,
+      "detail": "ISFT: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 832,
+      "detail": "DPLD + TEM: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 836,
+      "detail": "CSLR-RL: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 840,
+      "detail": "CSLR-PL: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 855,
+      "detail": "SignBERT+: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 864,
+      "detail": "PiSLTRc: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 865,
+      "detail": "Multi-Stream CLH: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 908,
+      "detail": "ST-GCN: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 916,
+      "detail": "EnStimCTC: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 919,
+      "detail": "PiSLTRc: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 922,
+      "detail": "DPLD + TEM: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 923,
+      "detail": "DPLD: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 926,
+      "detail": "CTF: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 952,
+      "detail": "STMC-T: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 954,
+      "detail": "SimulSLT: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 974,
+      "detail": "EMF-SLT: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 975,
+      "detail": "SignBERT+: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 998,
+      "detail": "Tokenization-SLT: casa_token on ieeexplore.ieee.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1000,
+      "detail": "SimulSLT: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1103,
+      "detail": "GEN-OBT: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1106,
+      "detail": "NAT-EA: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1107,
+      "detail": "NAT-AT: casa_token on dl.acm.org"
+    },
+    {
+      "rule": "url-tracking-token",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 28,
+      "detail": "MSR Gesture3D: authuser on sites.google.com"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 133,
+      "detail": "Sign Language Recognition Systems: A Decade System: www.researchgate.net"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 142,
+      "detail": "SIGN LANGUAGE RECOGNITION: STATE OF THE ART: www.researchgate.net"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 264,
+      "detail": "LCSA: drive.google.com"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 280,
+      "detail": "VAC: openaccess.thecvf.com (ref=githubhelp.com)"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 351,
+      "detail": "HamNoSys CSLR: www.researchgate.net"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 445,
+      "detail": "VAP: fq.pkwyx.com"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 600,
+      "detail": "SignDiff: www.researchgate.net"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 638,
+      "detail": "Sign Language Production using Neural Machine Tran: d1wqtxts1xzle7.cloudfront.net"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 808,
+      "detail": "SMKD: openaccess.thecvf.com (ref=githubhelp.com)"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 812,
+      "detail": "LCSA: drive.google.com"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 814,
+      "detail": "VAC: openaccess.thecvf.com (ref=githubhelp.com)"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 842,
+      "detail": "HamNoSys CSLR: www.researchgate.net"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 863,
+      "detail": "SMKD: openaccess.thecvf.com (ref=githubhelp.com)"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 909,
+      "detail": "LCSA: drive.google.com"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 911,
+      "detail": "VAC: openaccess.thecvf.com (ref=githubhelp.com)"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 973,
+      "detail": "VAP: fq.pkwyx.com"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1030,
+      "detail": "VAP: fq.pkwyx.com"
+    },
+    {
+      "rule": "url-non-canonical-host",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1063,
+      "detail": "VAP: fq.pkwyx.com"
+    },
+    {
+      "rule": "row-no-leading-pipe",
+      "severity": "info",
+      "file": "README.md",
+      "line": 831,
+      "detail": "[ISFT](https://ieeexplore.ieee.org/abstract/document/9412364"
+    },
+    {
+      "rule": "row-no-leading-pipe",
+      "severity": "info",
+      "file": "README.md",
+      "line": 958,
+      "detail": "[HST-GNN](https://openaccess.thecvf.com/content/WACV2022/htm"
+    },
+    {
+      "rule": "row-no-leading-pipe",
+      "severity": "info",
+      "file": "README.md",
+      "line": 959,
+      "detail": "[NSLT](https://openaccess.thecvf.com/content_cvpr_2018/html/"
+    },
+    {
+      "rule": "row-no-leading-pipe",
+      "severity": "info",
+      "file": "README.md",
+      "line": 960,
+      "detail": "[Facial-SLT](https://www.sciencedirect.com/science/article/a"
+    },
+    {
+      "rule": "row-no-leading-pipe",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1014,
+      "detail": "[HST-GNN](https://openaccess.thecvf.com/content/WACV2022/htm"
+    },
+    {
+      "rule": "row-no-leading-pipe",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 135,
+      "detail": "Slovo | 2023 | Russian | 1,000 | 19.81 hours | 20,000 videos"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 841,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 867,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 879,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 891,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 948,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 949,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 951,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 956,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 957,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 959,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 966,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 967,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 969,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 976,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 977,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 979,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 982,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 983,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 991,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 992,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 993,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 995,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 997,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1001,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1010,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1016,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1022,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1023,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1025,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1028,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1033,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1037,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1040,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1041,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1042,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1043,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1044,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1060,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1061,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1062,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1065,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1067,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1068,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1079,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1080,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1082,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1098,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1122,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1123,
+      "detail": "Avaliable"
+    },
+    {
+      "rule": "known-typo",
+      "severity": "info",
+      "file": "README.md",
+      "line": 1148,
+      "detail": "Papar"
+    },
+    {
+      "rule": "label-case-variant",
+      "severity": "info",
+      "file": "README.md",
+      "line": 98,
+      "detail": "`ArXiv` x56 / `Arxiv` x2"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 19,
+      "detail": "RWTH-FingerSpelling: `Germany`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 40,
+      "detail": "LSA-64: `Argentina`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 57,
+      "detail": "DGS Kinect 20: `Germany`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 58,
+      "detail": "DGS Kinect 40: `Germany`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 59,
+      "detail": "DW-DGS: `Germany`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 113,
+      "detail": "SIGNUM: `Germany`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 114,
+      "detail": "RWTH-PHOENIX 2012: `Germany`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 115,
+      "detail": "RWTH-PHOENIX 2014: `Germany`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 116,
+      "detail": "Public DGS Corpus: `Germany`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 117,
+      "detail": "RWTH-PHOENIX14T: `Germany`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 118,
+      "detail": "SWISSTXT-WEATHER: `Germany`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 119,
+      "detail": "SWISSTXT-NEWS: `Germany`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 120,
+      "detail": "PHOENIX-News: `Germany`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 125,
+      "detail": "TVB-HKSL-News: `Hong Kong`"
+    },
+    {
+      "rule": "language-label-style",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 131,
+      "detail": "Corpus NGT: `Netherlands`"
+    },
+    {
+      "rule": "missing-marker-mixed",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 1,
+      "detail": "column `available`: `-` x1, `\\-` x2"
+    },
+    {
+      "rule": "missing-marker-mixed",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 1,
+      "detail": "column `baseline_model_accuracy`: `-` x40, `\\-` x31"
+    },
+    {
+      "rule": "missing-marker-mixed",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 1,
+      "detail": "column `collection_source`: `-` x1, `\\-` x1"
+    },
+    {
+      "rule": "missing-marker-mixed",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 1,
+      "detail": "column `duration`: `-` x12, `\\-` x71"
+    },
+    {
+      "rule": "missing-marker-mixed",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 1,
+      "detail": "column `publication`: `-` x2, `\\-` x3"
+    },
+    {
+      "rule": "missing-marker-mixed",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 1,
+      "detail": "column `resolution`: `-` x9, `\\-` x61"
+    },
+    {
+      "rule": "missing-marker-mixed",
+      "severity": "info",
+      "file": "helper/datasets.md",
+      "line": 1,
+      "detail": "column `vocabulary_size`: `-` x1, `\\-` x10"
+    }
+  ]
+}
