@@ -81,11 +81,11 @@
     "readme_summary": {
       "category": "fingerspelling",
       "fields": {
-        "dataset": "ChicagoFSWild",
-        "year": "2018",
+        "dataset": "ChicagoFSWild+",
+        "year": "2019",
         "language": "American",
-        "samples": "7304 sequences",
-        "signers": "168",
+        "samples": "55,232 sequences",
+        "signers": "260",
         "domain": "Letters + Char"
       },
       "links": {
@@ -95,7 +95,7 @@
       },
       "source": {
         "file": "README.md",
-        "line": 37
+        "line": 38
       }
     },
     "source": {

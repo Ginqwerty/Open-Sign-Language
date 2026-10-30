@@ -75,6 +75,11 @@ def norm_name(s):
     return re.sub(r"[^a-z0-9]+", "", s.lower())
 
 
+def dataset_key(s):
+    """Join key for dataset names. Keeps '+' because ChicagoFSWild and ChicagoFSWild+ are different datasets."""
+    return re.sub(r"[^a-z0-9+]+", "", s.lower())
+
+
 def to_int(s):
     return int(s) if s and re.fullmatch(r"\d{4}", s.strip()) else None
 
@@ -335,13 +340,14 @@ def build():
 
     by_name = {}
     for s in summary:
-        by_name.setdefault(norm_name(s["name"] or ""), []).append(s)
+        by_name.setdefault(dataset_key(s["name"] or ""), []).append(s)
     for d in datasets:
-        hit = by_name.get(norm_name(d["name"] or ""))
+        hit = by_name.get(dataset_key(d["name"] or ""))
         if hit:
-            d["readme_summary"] = {k: hit[0][k] for k in ("category", "fields", "links", "source")}
-    matched = {norm_name(d["name"] or "") for d in datasets}
-    readme_only = [s["name"] for s in summary if norm_name(s["name"] or "") not in matched]
+            best = next((s for s in hit if s["name"] == d["name"]), hit[0])
+            d["readme_summary"] = {k: best[k] for k in ("category", "fields", "links", "source")}
+    matched = {dataset_key(d["name"] or "") for d in datasets}
+    readme_only = [s["name"] for s in summary if dataset_key(s["name"] or "") not in matched]
 
     counts = {"papers": len(papers),
               "papers_without_links": sum(1 for p in papers if not p["links"]),
