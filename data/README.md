@@ -8,7 +8,7 @@ python3 scripts/parse.py           # write data/*.json
 python3 scripts/parse.py --check   # exit 1 if data/*.json are out of date
 ```
 
-Standard library only; no network. The parser reports what the sources say and
+Standard library only; no network. See `docs/maintaining.md` for how to update these files and fix lint findings. The parser reports what the sources say and
 does not fix or normalise them (typos, wrong links and inconsistent labels are kept as written).
 Each record has `source.line`, the line number in its source file.
 
