@@ -1,0 +1,4324 @@
+[
+  {
+    "name": "ChicagoFSWild",
+    "category": "fingerspelling",
+    "fields": {
+      "dataset": "ChicagoFSWild",
+      "year": "2018",
+      "language": "American",
+      "vocabulary_size": "31",
+      "duration": "-",
+      "samples": "7304 sequences",
+      "signers": "168",
+      "domain": "Letters + Char",
+      "collection_source": "Online",
+      "resolution": "640 × 360",
+      "modality": "RGB",
+      "hand_dominance": "Right-handed: 6782, Left-handed: 522, Two-hand: 121",
+      "publication": "American Sign Language fingerspelling recognition in the wild",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://home.ttic.edu/~klivescu/ChicagoFSWild.htm"
+      ]
+    },
+    "readme_summary": {
+      "category": "fingerspelling",
+      "fields": {
+        "dataset": "ChicagoFSWild",
+        "year": "2018",
+        "language": "American",
+        "samples": "7304 sequences",
+        "signers": "168",
+        "domain": "Letters + Char"
+      },
+      "links": {
+        "dataset": [
+          "https://home.ttic.edu/~klivescu/ChicagoFSWild.htm"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 37
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 9
+    }
+  },
+  {
+    "name": "ChicagoFSWild+",
+    "category": "fingerspelling",
+    "fields": {
+      "dataset": "ChicagoFSWild+",
+      "year": "2019",
+      "language": "American",
+      "vocabulary_size": "-",
+      "duration": "-",
+      "samples": "55,232 sequences",
+      "signers": "260",
+      "domain": "Letters + Char",
+      "collection_source": "Online",
+      "resolution": "-",
+      "modality": "RGB",
+      "hand_dominance": "Right-handed: 86.9%, Left-handed: 10.6%, Other: 2.5%",
+      "publication": "Fingerspelling recognition in the wild with iterative visual attention",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://home.ttic.edu/~klivescu/ChicagoFSWild.htm"
+      ]
+    },
+    "readme_summary": {
+      "category": "fingerspelling",
+      "fields": {
+        "dataset": "ChicagoFSWild+",
+        "year": "2019",
+        "language": "American",
+        "samples": "55,232 sequences",
+        "signers": "260",
+        "domain": "Letters + Char"
+      },
+      "links": {
+        "dataset": [
+          "https://home.ttic.edu/~klivescu/ChicagoFSWild.htm"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 38
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 10
+    }
+  },
+  {
+    "name": "ASL Digits",
+    "category": "fingerspelling",
+    "fields": {
+      "dataset": "ASL Digits",
+      "year": "2020",
+      "language": "American",
+      "vocabulary_size": "10",
+      "duration": "-",
+      "samples": "21,800 images",
+      "signers": "218",
+      "domain": "Letters",
+      "collection_source": "Camera",
+      "resolution": "3024×3024",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "A New Dataset and Proposed Convolutional Neural Network Architecture for Classification of American Sign Language Digits",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 11
+    }
+  },
+  {
+    "name": "27 Class ASL",
+    "category": "fingerspelling",
+    "fields": {
+      "dataset": "27 Class ASL",
+      "year": "2022",
+      "language": "American",
+      "vocabulary_size": "27",
+      "duration": "-",
+      "samples": "130 images",
+      "signers": "173",
+      "domain": "Letters",
+      "collection_source": "Camera",
+      "resolution": "3024 × 3024",
+      "modality": "RGB",
+      "hand_dominance": "Right Hand Only",
+      "publication": "A New 27 Class Sign Language Dataset Collected from 173 Individuals",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 12
+    }
+  },
+  {
+    "name": "FSboard",
+    "category": "fingerspelling",
+    "fields": {
+      "dataset": "FSboard",
+      "year": "2023",
+      "language": "American",
+      "vocabulary_size": "~3.2M characters (~30–50 classes)",
+      "duration": "266 hours",
+      "samples": "151,000",
+      "signers": "147",
+      "domain": "Mobile Text Entry",
+      "collection_source": "Smartphones",
+      "resolution": "1944×2592 @30fps",
+      "modality": "RGB Video → Landmark",
+      "hand_dominance": "-",
+      "publication": "FSboard: Over 3 million characters of ASL fingerspelling collected via smartphones",
+      "website": "link",
+      "available": "✅ Yes (CC BY 4.0)",
+      "task": "Fingerspelling Recognition",
+      "baseline_model_accuracy": "11.1% CER (52.9% Top-1 Acc, ByT5-small)"
+    },
+    "links": {
+      "website": [
+        "https://www.kaggle.com/competitions/asl-fingerspelling"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 13
+    }
+  },
+  {
+    "name": "ArASL",
+    "category": "fingerspelling",
+    "fields": {
+      "dataset": "ArASL",
+      "year": "2019",
+      "language": "Arabic",
+      "vocabulary_size": "32",
+      "duration": "-",
+      "samples": "54,049 images",
+      "signers": "40",
+      "domain": "Letters",
+      "collection_source": "Mobile camera",
+      "resolution": "64 × 64",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "ArASL: Arabic Alphabets Sign Language Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://data.mendeley.com/datasets/y7pckrw6z2/1"
+      ]
+    },
+    "readme_summary": {
+      "category": "fingerspelling",
+      "fields": {
+        "dataset": "ArASL",
+        "year": "2019",
+        "language": "Arabic",
+        "samples": "54,049 images",
+        "signers": "40",
+        "domain": "Letters"
+      },
+      "links": {
+        "dataset": [
+          "https://data.mendeley.com/datasets/y7pckrw6z2/1"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 39
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 14
+    }
+  },
+  {
+    "name": "RGB AASL",
+    "category": "fingerspelling",
+    "fields": {
+      "dataset": "RGB AASL",
+      "year": "2023",
+      "language": "Arabic",
+      "vocabulary_size": "31",
+      "duration": "-",
+      "samples": "7,857 images",
+      "signers": "200",
+      "domain": "Letters",
+      "collection_source": "Camera",
+      "resolution": "-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "RGB Arabic Alphabets Sign Language Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://www.kaggle.com/datasets/59761a7132888de252ded8443ced1c7fb21ad28be5598f1f6ca43c663c32b40b"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 15
+    }
+  },
+  {
+    "name": "AzSLD Fingerspelling",
+    "category": "fingerspelling",
+    "fields": {
+      "dataset": "AzSLD Fingerspelling",
+      "year": "2023",
+      "language": "Azerbaijani",
+      "vocabulary_size": "32",
+      "duration": "-",
+      "samples": "10,864 images, 3,587 videos",
+      "signers": "43",
+      "domain": "Letters + Gesture",
+      "collection_source": "Telegram",
+      "resolution": "-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "AzSLD: Azerbaijani Sign Language Dataset for Fingerspelling, Word, and Sentence Translation",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://github.com/ADA-SITE-JML/azsl_dataloader"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 16
+    }
+  },
+  {
+    "name": "IsharaKhobor",
+    "category": "fingerspelling",
+    "fields": {
+      "dataset": "IsharaKhobor",
+      "year": "2012",
+      "language": "Bangla",
+      "vocabulary_size": "37",
+      "duration": "-",
+      "samples": "518 images",
+      "signers": "3",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "-",
+      "modality": "RGB Image + Fingertip Position",
+      "hand_dominance": "-",
+      "publication": "Bangladeshi Sign Language Recognition using Fingertip Position",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "98.99% Accuracy"
+    },
+    "links": {
+      "website": [
+        "https://www.kaggle.com/datasets/hasanssl/isharakhobor"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 17
+    }
+  },
+  {
+    "name": "ISL-HS",
+    "category": "fingerspelling",
+    "fields": {
+      "dataset": "ISL-HS",
+      "year": "2017",
+      "language": "Irish",
+      "vocabulary_size": "23",
+      "duration": "-",
+      "samples": "468 videos, 58,114 images",
+      "signers": "6",
+      "domain": "Letters",
+      "collection_source": "Mobile camera",
+      "resolution": "640 × 480",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "A Dataset for Irish Sign Language Recognition",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "95% Accuracy"
+    },
+    "links": {
+      "website": [
+        "https://github.com/marlondcu/ISL"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 18
+    }
+  },
+  {
+    "name": "RWTH-FingerSpelling",
+    "category": "fingerspelling",
+    "fields": {
+      "dataset": "RWTH-FingerSpelling",
+      "year": "2006",
+      "language": "Germany",
+      "vocabulary_size": "35",
+      "duration": "-",
+      "samples": "1400 image sequences",
+      "signers": "20",
+      "domain": "Letters + Umlauts + Number",
+      "collection_source": "Lab",
+      "resolution": "320×240, 352×288",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Modeling Image Variability in Appearance-Based Gesture Recognition",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "35.7% Error Rate"
+    },
+    "links": {
+      "website": [
+        "https://www-i6.informatik.rwth-aachen.de/aslr/fingerspelling.php"
+      ]
+    },
+    "readme_summary": {
+      "category": "fingerspelling",
+      "fields": {
+        "dataset": "RWTH-FingerSpelling",
+        "year": "2006",
+        "language": "German",
+        "samples": "1,400 image sequences",
+        "signers": "20",
+        "domain": "Letters + Umlauts + Number"
+      },
+      "links": {
+        "dataset": [
+          "https://www-i6.informatik.rwth-aachen.de/aslr/fingerspelling.php"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 40
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 19
+    }
+  },
+  {
+    "name": "Alabib-65",
+    "category": "isolated",
+    "fields": {
+      "dataset": "Alabib-65",
+      "year": "2023",
+      "language": "Algerian",
+      "vocabulary_size": "65",
+      "duration": "\\-",
+      "samples": "6,328 videos",
+      "signers": "29",
+      "domain": "General",
+      "collection_source": "IPad Air",
+      "resolution": "720 x 1,280 or 1,080 x 1,920",
+      "modality": "RGB",
+      "hand_dominance": "Right(Training): 66.3%, Left(Training): 5.5%",
+      "publication": "Alabib-65: A Realistic Dataset for Algerian Sign Language Recognition",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "70.83%"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 25
+    }
+  },
+  {
+    "name": "Purdue RVL-SLLL",
+    "category": "isolated",
+    "fields": {
+      "dataset": "Purdue RVL-SLLL",
+      "year": "2002",
+      "language": "American",
+      "vocabulary_size": "101+",
+      "duration": "\\-",
+      "samples": "2,576 video clips",
+      "signers": "14",
+      "domain": "Motion primitives + Handshapes + General",
+      "collection_source": "Lab",
+      "resolution": "640 x 480",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Purdue RVL-SLLL ASL Database for Automatic Recognition of American Sign Language",
+      "website": "link",
+      "available": "Contact Author",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://engineering.purdue.edu/RVL/Database/ASL/asl-database-front.htm"
+      ]
+    },
+    "readme_summary": {
+      "category": "isolated",
+      "fields": {
+        "dataset": "Purdue RVL-SLLL",
+        "year": "2002",
+        "language": "American",
+        "samples": "2,576 video clips",
+        "signers": "14",
+        "domain": "Motion primitives + Handshapes + General"
+      },
+      "links": {
+        "dataset": [
+          "https://engineering.purdue.edu/RVL/Database/ASL/asl-database-front.htm"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 45
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 26
+    }
+  },
+  {
+    "name": "Boston ASLLVD",
+    "category": "isolated",
+    "fields": {
+      "dataset": "Boston ASLLVD",
+      "year": "2008",
+      "language": "American",
+      "vocabulary_size": "3,314",
+      "duration": "\\-",
+      "samples": "9,800 tokens",
+      "signers": "6",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "The American Sign Language Lexicon Video Dataset",
+      "website": "link",
+      "available": "Partially",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://www.bu.edu/asllrp/av/dai-asllvd.html#vid"
+      ]
+    },
+    "readme_summary": {
+      "category": "isolated",
+      "fields": {
+        "dataset": "Boston ASLLVD",
+        "year": "2008",
+        "language": "American",
+        "samples": "9,800 tokens",
+        "signers": "6",
+        "domain": "General"
+      },
+      "links": {
+        "dataset": [
+          "https://www.bu.edu/asllrp/av/dai-asllvd.html#vid"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 46
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 27
+    }
+  },
+  {
+    "name": "MSR Gesture3D",
+    "category": "isolated",
+    "fields": {
+      "dataset": "MSR Gesture3D",
+      "year": "2017",
+      "language": "American",
+      "vocabulary_size": "12",
+      "duration": "\\-",
+      "samples": "336 sequences",
+      "signers": "10",
+      "domain": "Gesture",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "Action recognition from depth sequences using weighted fusion of 2D and 3D auto-correlation of gradients features",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://sites.google.com/view/wanqingli/data-sets/msr-gesture3d?authuser=0"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 28
+    }
+  },
+  {
+    "name": "MS-ASL",
+    "category": "isolated",
+    "fields": {
+      "dataset": "MS-ASL",
+      "year": "2018",
+      "language": "American",
+      "vocabulary_size": "1,000",
+      "duration": "~25 hours",
+      "samples": "25,513 videos",
+      "signers": "222",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "MS-ASL: A Large-Scale Data Set and Benchmark for Understanding American Sign Language",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR, SLP",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://www.microsoft.com/en-us/research/project/ms-asl/"
+      ]
+    },
+    "readme_summary": {
+      "category": "isolated",
+      "fields": {
+        "dataset": "MS-ASL",
+        "year": "2018",
+        "language": "American",
+        "samples": "25,513 videos",
+        "signers": "222",
+        "domain": "General"
+      },
+      "links": {
+        "dataset": [
+          "https://www.microsoft.com/en-us/research/project/ms-asl/"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 47
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 29
+    }
+  },
+  {
+    "name": "WLASL",
+    "category": "isolated",
+    "fields": {
+      "dataset": "WLASL",
+      "year": "2019",
+      "language": "American",
+      "vocabulary_size": "2,000",
+      "duration": "~14 hours",
+      "samples": "21,083 videos",
+      "signers": "119",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR, SLP",
+      "baseline_model_accuracy": "62.63%"
+    },
+    "links": {
+      "website": [
+        "https://dxli94.github.io/WLASL/"
+      ]
+    },
+    "readme_summary": {
+      "category": "isolated",
+      "fields": {
+        "dataset": "WLASL",
+        "year": "2019",
+        "language": "American",
+        "samples": "21,083 videos",
+        "signers": "119",
+        "domain": "General"
+      },
+      "links": {
+        "dataset": [
+          "https://dxli94.github.io/WLASL/"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 48
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 30
+    }
+  },
+  {
+    "name": "ASL-100-RGBD",
+    "category": "isolated",
+    "fields": {
+      "dataset": "ASL-100-RGBD",
+      "year": "2020",
+      "language": "American",
+      "vocabulary_size": "100",
+      "duration": "\\-",
+      "samples": "~4,150 tokens",
+      "signers": "22",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "1920 x 1080, 512 x 424",
+      "modality": "RGB, Skeleton, Depth and HDface",
+      "hand_dominance": "-",
+      "publication": "An Isolated-Signing RGBD Dataset of 100 American Sign Language Signs Produced by Fluent ASL Signers",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "80.30%"
+    },
+    "links": {
+      "website": [
+        "https://longlong-jing.github.io/ASL-100-RGBD/"
+      ]
+    },
+    "readme_summary": {
+      "category": "isolated",
+      "fields": {
+        "dataset": "ASL-100-RGBD",
+        "year": "2020",
+        "language": "American",
+        "samples": "~4,150 tokens",
+        "signers": "22",
+        "domain": "General"
+      },
+      "links": {
+        "dataset": [
+          "https://longlong-jing.github.io/ASL-100-RGBD/"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 49
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 31
+    }
+  },
+  {
+    "name": "ASL CrowdSourcing",
+    "category": "isolated",
+    "fields": {
+      "dataset": "ASL CrowdSourcing",
+      "year": "2022",
+      "language": "American",
+      "vocabulary_size": "60",
+      "duration": "\\-",
+      "samples": "1,906 videos",
+      "signers": "29",
+      "domain": "General",
+      "collection_source": "Crowd",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Exploring Collection of Sign Language Videos through Crowdsourcing",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 32
+    }
+  },
+  {
+    "name": "ASL-Skeleton3D",
+    "category": "isolated",
+    "fields": {
+      "dataset": "ASL-Skeleton3D",
+      "year": "2022",
+      "language": "American",
+      "vocabulary_size": "\\-",
+      "duration": "\\-",
+      "samples": "9,747 samples",
+      "signers": "6",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "ASL-Skeleton3D and ASL-Phono: Two Novel Datasets for the American Sign Language",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://github.com/amorim-cleison/asl-datasets-gen"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 33
+    }
+  },
+  {
+    "name": "ASL-Phono",
+    "category": "isolated",
+    "fields": {
+      "dataset": "ASL-Phono",
+      "year": "2022",
+      "language": "American",
+      "vocabulary_size": "2,294",
+      "duration": "\\-",
+      "samples": "9,747 samples",
+      "signers": "6",
+      "domain": "Linguistics-based",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "ASL-Skeleton3D and ASL-Phono: Two Novel Datasets for the American Sign Language",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://github.com/amorim-cleison/asl-datasets-gen"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 34
+    }
+  },
+  {
+    "name": "ASLLRP Sign Bank",
+    "category": "isolated",
+    "fields": {
+      "dataset": "ASLLRP Sign Bank",
+      "year": "2022",
+      "language": "American",
+      "vocabulary_size": "6,000",
+      "duration": "\\-",
+      "samples": "41,830 examples of lexical signs",
+      "signers": "\\-",
+      "domain": "Lexical",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "ASL Video Corpora & Sign Bank",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "http://dai.cs.rutgers.edu/dai/s/signbank"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 35
+    }
+  },
+  {
+    "name": "ASL Citizen",
+    "category": "isolated",
+    "fields": {
+      "dataset": "ASL Citizen",
+      "year": "2023",
+      "language": "American",
+      "vocabulary_size": "2,731",
+      "duration": "\\-",
+      "samples": "83,399 videos",
+      "signers": "52",
+      "domain": "General",
+      "collection_source": "Crowd",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "ASL Citizen: A Community-Sourced Dataset for Advancing Isolated Sign Language Recognition",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "Top-10 90.86%"
+    },
+    "links": {
+      "website": [
+        "https://www.microsoft.com/en-us/research/project/asl-citizen/"
+      ]
+    },
+    "readme_summary": {
+      "category": "isolated",
+      "fields": {
+        "dataset": "ASL Citizen",
+        "year": "2023",
+        "language": "American",
+        "samples": "83,399 videos",
+        "signers": "52",
+        "domain": "General"
+      },
+      "links": {
+        "dataset": [
+          "https://www.microsoft.com/en-us/research/project/asl-citizen/"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 50
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 36
+    }
+  },
+  {
+    "name": "PopSign ASL v1.0",
+    "category": "isolated",
+    "fields": {
+      "dataset": "PopSign ASL v1.0",
+      "year": "2024",
+      "language": "American",
+      "vocabulary_size": "250",
+      "duration": "\\-",
+      "samples": "214,326 videos",
+      "signers": "47",
+      "domain": "General",
+      "collection_source": "Smartphone",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "34 right-handed, 13 left-handed",
+      "publication": "PopSign ASL v1.0: An Isolated American Sign Language Dataset Collected via Smartphones",
+      "website": "link",
+      "available": "Contact Author",
+      "task": "SLR",
+      "baseline_model_accuracy": "83.80%"
+    },
+    "links": {
+      "website": [
+        "http://signdata.cc.gatech.edu/view/datasets/index.html"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 37
+    }
+  },
+  {
+    "name": "ArSL corpus",
+    "category": "isolated",
+    "fields": {
+      "dataset": "ArSL corpus",
+      "year": "2010",
+      "language": "Arabic",
+      "vocabulary_size": "710",
+      "duration": "\\-",
+      "samples": "203 sentences",
+      "signers": "\\-",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "640 × 480",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "An Arabic Sign Language Corpus for Instructional Language in School",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://www.arsl.org/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 38
+    }
+  },
+  {
+    "name": "SignsWorld Atlas",
+    "category": "isolated",
+    "fields": {
+      "dataset": "SignsWorld Atlas",
+      "year": "2015",
+      "language": "Arabic",
+      "vocabulary_size": "~500",
+      "duration": "\\-",
+      "samples": "\\-",
+      "signers": "10",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "SignsWorld Atlas",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 39
+    }
+  },
+  {
+    "name": "LSA-64",
+    "category": "isolated",
+    "fields": {
+      "dataset": "LSA-64",
+      "year": "2016",
+      "language": "Argentina",
+      "vocabulary_size": "64",
+      "duration": "\\-",
+      "samples": "3,200 video sequences",
+      "signers": "10",
+      "domain": "Dictionary",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "LSA64: An Argentinian Sign Language Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://facundoq.github.io/datasets/lsa64/"
+      ]
+    },
+    "readme_summary": {
+      "category": "isolated",
+      "fields": {
+        "dataset": "LSA-64",
+        "year": "2016",
+        "language": "Argentina",
+        "samples": "3,200 video sequences",
+        "signers": "10",
+        "domain": "Dictionary"
+      },
+      "links": {
+        "dataset": [
+          "https://facundoq.github.io/datasets/lsa64/"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 51
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 40
+    }
+  },
+  {
+    "name": "ArSLRS",
+    "category": "isolated",
+    "fields": {
+      "dataset": "ArSLRS",
+      "year": "2018",
+      "language": "Arabic",
+      "vocabulary_size": "30",
+      "duration": "\\-",
+      "samples": "450 videos",
+      "signers": "\\-",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "An Automatic Arabic Sign Language Recognition System (ArSLRS)",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "97%"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 41
+    }
+  },
+  {
+    "name": "ArSL for Deaf Drivers",
+    "category": "isolated",
+    "fields": {
+      "dataset": "ArSL for Deaf Drivers",
+      "year": "2021",
+      "language": "Arabic",
+      "vocabulary_size": "215",
+      "duration": "\\-",
+      "samples": "215 videos",
+      "signers": "3",
+      "domain": "Driver",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Towards an Arabic Sign Language corpus for deaf drivers",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "10.23% WER"
+    },
+    "links": {
+      "website": [
+        "https://github.com/sabbas123"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 42
+    }
+  },
+  {
+    "name": "KArSL",
+    "category": "isolated",
+    "fields": {
+      "dataset": "KArSL",
+      "year": "2021",
+      "language": "Arabic",
+      "vocabulary_size": "502",
+      "duration": "\\-",
+      "samples": "75,300 samples",
+      "signers": "3",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "1920 × 1080, 512 × 424",
+      "modality": "RGB-D, Skeleton",
+      "hand_dominance": "-",
+      "publication": "KArSL: Arabic Sign Language Database",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://hamzah-luqman.github.io/KArSL/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 43
+    }
+  },
+  {
+    "name": "MM-WLAuslan",
+    "category": "isolated",
+    "fields": {
+      "dataset": "MM-WLAuslan",
+      "year": "2024",
+      "language": "Australian",
+      "vocabulary_size": "3,215",
+      "duration": "~2,500 hours",
+      "samples": "282,900 videos",
+      "signers": "73",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "Varies",
+      "modality": "RGB-D, Pose data",
+      "hand_dominance": "-",
+      "publication": "MM-WLAuslan",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "Top-1 85%-95%"
+    },
+    "links": {
+      "website": [
+        "https://uq-cvlab.github.io/MM-WLAuslan-Dataset/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 44
+    }
+  },
+  {
+    "name": "AzSLD Words",
+    "category": "isolated",
+    "fields": {
+      "dataset": "AzSLD Words",
+      "year": "2023",
+      "language": "Azerbaijani",
+      "vocabulary_size": "100",
+      "duration": "\\-",
+      "samples": "\\-",
+      "signers": "\\-",
+      "domain": "-",
+      "collection_source": "-",
+      "resolution": "-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "AzSLD Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://github.com/ADA-SITE-JML/azsl_dataloader"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 45
+    }
+  },
+  {
+    "name": "BdSLW60",
+    "category": "isolated",
+    "fields": {
+      "dataset": "BdSLW60",
+      "year": "2021",
+      "language": "Bangla",
+      "vocabulary_size": "60",
+      "duration": "-",
+      "samples": "9,307 videos",
+      "signers": "18",
+      "domain": "General",
+      "collection_source": "Workshop / Lab",
+      "resolution": "-",
+      "modality": "Skeleton",
+      "hand_dominance": "Right-handed: 7673, Left-handed: 1634",
+      "publication": "BdSLW60: A Word-Level Bangla Sign Language Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "75.1% Top-1 Accuracy"
+    },
+    "links": {
+      "website": [
+        "https://www.kaggle.com/datasets/hasaniut/bdslw60"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 46
+    }
+  },
+  {
+    "name": "BDSL 49",
+    "category": "isolated",
+    "fields": {
+      "dataset": "BDSL 49",
+      "year": "2022",
+      "language": "Bangla",
+      "vocabulary_size": "49",
+      "duration": "\\-",
+      "samples": "29,490 images",
+      "signers": "14",
+      "domain": "General",
+      "collection_source": "Smartphone",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "BDSL 49 Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://data.mendeley.com/datasets/k5yk4j8z8s/5"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 47
+    }
+  },
+  {
+    "name": "BdSLW401",
+    "category": "isolated",
+    "fields": {
+      "dataset": "BdSLW401",
+      "year": "2024",
+      "language": "Bangla",
+      "vocabulary_size": "401",
+      "duration": "-",
+      "samples": "102,176 videos (Front: 51,098; Lateral: 51,078)",
+      "signers": "18",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "-",
+      "modality": "Skeleton",
+      "hand_dominance": "Right-handed: 85%, Left-handed: 15%",
+      "publication": "BdSLW401: Transformer-Based Word-Level Bangla Sign Language Recognition Using Relative Quantization Encoding (RQE)",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "49.20 WER (Raw, Combined view)"
+    },
+    "links": {
+      "website": [
+        "https://www.kaggle.com/datasets/hasanssl/bdslw401"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 48
+    }
+  },
+  {
+    "name": "MINDS-Libras",
+    "category": "isolated",
+    "fields": {
+      "dataset": "MINDS-Libras",
+      "year": "2019",
+      "language": "Brazilian",
+      "vocabulary_size": "20",
+      "duration": "\\-",
+      "samples": "1,200 videos",
+      "signers": "12",
+      "domain": "Gesture",
+      "collection_source": "Lab",
+      "resolution": "1920 x 1080",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "-",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://zenodo.org/records/2667329"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 49
+    }
+  },
+  {
+    "name": "BSLDICT",
+    "category": "isolated",
+    "fields": {
+      "dataset": "BSLDICT",
+      "year": "2020",
+      "language": "British",
+      "vocabulary_size": "9,283",
+      "duration": "\\-",
+      "samples": "14,210 videos",
+      "signers": ">28",
+      "domain": "Dictionary",
+      "collection_source": "Website",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Watch, read and lookup",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://github.com/gulvarol/bsldict"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 50
+    }
+  },
+  {
+    "name": "DEVISIGN",
+    "category": "isolated",
+    "fields": {
+      "dataset": "DEVISIGN",
+      "year": "2014",
+      "language": "Chinese",
+      "vocabulary_size": "4414",
+      "duration": "\\-",
+      "samples": "331,050 vocabulary data",
+      "signers": "30",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB-D, Skeleton",
+      "hand_dominance": "-",
+      "publication": "-",
+      "website": "link",
+      "available": "Contact Author",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://vipl.ict.ac.cn/homepage/ksl/data.html"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 51
+    }
+  },
+  {
+    "name": "CSLR-HMM-D1",
+    "category": "isolated",
+    "fields": {
+      "dataset": "CSLR-HMM-D1",
+      "year": "2016",
+      "language": "Chinese",
+      "vocabulary_size": "100",
+      "duration": "\\-",
+      "samples": "500 videos",
+      "signers": "1",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB-D, Skeleton",
+      "hand_dominance": "-",
+      "publication": "CHINESE SIGN LANGUAGE RECOGNITION WITH ADAPTIVE HMM",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 52
+    }
+  },
+  {
+    "name": "CSLR-HMM-D2",
+    "category": "isolated",
+    "fields": {
+      "dataset": "CSLR-HMM-D2",
+      "year": "2016",
+      "language": "Chinese",
+      "vocabulary_size": "500",
+      "duration": "\\-",
+      "samples": "2,500 videos",
+      "signers": "1",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB-D, Skeleton",
+      "hand_dominance": "-",
+      "publication": "CHINESE SIGN LANGUAGE RECOGNITION WITH ADAPTIVE HMM",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 53
+    }
+  },
+  {
+    "name": "SLR500",
+    "category": "isolated",
+    "fields": {
+      "dataset": "SLR500",
+      "year": "2018",
+      "language": "Chinese",
+      "vocabulary_size": "500",
+      "duration": "\\-",
+      "samples": "125,000 videos",
+      "signers": "50",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "-",
+      "modality": "RGB-D, 3D Joints",
+      "hand_dominance": "-",
+      "publication": "Attention-Based 3D-CNNs",
+      "website": "link",
+      "available": "Agreement Needed",
+      "task": "SLR",
+      "baseline_model_accuracy": "76.50%"
+    },
+    "links": {
+      "website": [
+        "https://ustc-slr.github.io/datasets/2015_csl/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 54
+    }
+  },
+  {
+    "name": "NMFs-CSL",
+    "category": "isolated",
+    "fields": {
+      "dataset": "NMFs-CSL",
+      "year": "2020",
+      "language": "Chinese",
+      "vocabulary_size": "1,067",
+      "duration": "\\-",
+      "samples": "32,010 videos",
+      "signers": "10",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Global-Local Enhancement Network",
+      "website": "link",
+      "available": "Agreement Needed",
+      "task": "SLR",
+      "baseline_model_accuracy": "Top-5 90.5%"
+    },
+    "links": {
+      "website": [
+        "https://ustc-slr.github.io/datasets/2020_nmfs_csl/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 55
+    }
+  },
+  {
+    "name": "NCSL",
+    "category": "isolated",
+    "fields": {
+      "dataset": "NCSL",
+      "year": "2022",
+      "language": "Chinese",
+      "vocabulary_size": "300",
+      "duration": "\\-",
+      "samples": "90,000 videos",
+      "signers": "30",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "(2+1)D-SLR",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "Top-1 96.4%"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 56
+    }
+  },
+  {
+    "name": "DGS Kinect 20",
+    "category": "isolated",
+    "fields": {
+      "dataset": "DGS Kinect 20",
+      "year": "2012",
+      "language": "Germany",
+      "vocabulary_size": "20",
+      "duration": "\\-",
+      "samples": "840 samples",
+      "signers": "6",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Sign Language Recognition using Sub-Units",
+      "website": "\\-",
+      "available": "Contact Author",
+      "task": "SLR",
+      "baseline_model_accuracy": "Top-1 76%"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 57
+    }
+  },
+  {
+    "name": "DGS Kinect 40",
+    "category": "isolated",
+    "fields": {
+      "dataset": "DGS Kinect 40",
+      "year": "2012",
+      "language": "Germany",
+      "vocabulary_size": "40",
+      "duration": "\\-",
+      "samples": "3,000 samples",
+      "signers": "15",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Sign Language Recognition using Sub-Units",
+      "website": "\\-",
+      "available": "Contact Author",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 58
+    }
+  },
+  {
+    "name": "DW-DGS",
+    "category": "isolated",
+    "fields": {
+      "dataset": "DW-DGS",
+      "year": "2023",
+      "language": "Germany",
+      "vocabulary_size": "2,061",
+      "duration": "\\-",
+      "samples": "\\-",
+      "signers": "\\-",
+      "domain": "Dictionary",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Introducing the DW-DGS",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://www.sign-lang.uni-hamburg.de/korpusdict/overview/index-dgs.html"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 59
+    }
+  },
+  {
+    "name": "LSFB-isol",
+    "category": "isolated",
+    "fields": {
+      "dataset": "LSFB-isol",
+      "year": "2021",
+      "language": "French Belgian",
+      "vocabulary_size": "395",
+      "duration": "\\-",
+      "samples": "47,551 videos",
+      "signers": "85",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "LSFB-CONT and LSFB-ISOL",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "Top-1 51.5%"
+    },
+    "links": {
+      "website": [
+        "https://lsfb.info.unamur.be/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 60
+    }
+  },
+  {
+    "name": "GSL-isol",
+    "category": "isolated",
+    "fields": {
+      "dataset": "GSL-isol",
+      "year": "2019",
+      "language": "Greek",
+      "vocabulary_size": "310",
+      "duration": "6.44 hours",
+      "samples": "40785 videos",
+      "signers": "7",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "840 x 840",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "Deep Learning-based Methods for SLR",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "89.74%"
+    },
+    "links": {
+      "website": [
+        "https://vcl.iti.gr/dataset/gsl/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 61
+    }
+  },
+  {
+    "name": "IISL Nandy 2010",
+    "category": "isolated",
+    "fields": {
+      "dataset": "IISL Nandy 2010",
+      "year": "2010",
+      "language": "Indian",
+      "vocabulary_size": "22",
+      "duration": "\\-",
+      "samples": "600 samples",
+      "signers": "\\-",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Recognition of Isolated Indian Sign Language Gesture",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 62
+    }
+  },
+  {
+    "name": "INSLR Dataset",
+    "category": "isolated",
+    "fields": {
+      "dataset": "INSLR Dataset",
+      "year": "2012",
+      "language": "Indian",
+      "vocabulary_size": "80",
+      "duration": "\\-",
+      "samples": "1,600 videos",
+      "signers": "10",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "640X480",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Video Based Indian Sign Language Recognition System",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "96%"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 63
+    }
+  },
+  {
+    "name": "INCLUDE",
+    "category": "isolated",
+    "fields": {
+      "dataset": "INCLUDE",
+      "year": "2020",
+      "language": "Indian",
+      "vocabulary_size": "263",
+      "duration": "\\-",
+      "samples": "4,287 videos",
+      "signers": "7",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "1920 x 1080",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "INCLUDE Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://zenodo.org/records/4010759#.YdWkSRNuc-S"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 64
+    }
+  },
+  {
+    "name": "CISLR",
+    "category": "isolated",
+    "fields": {
+      "dataset": "CISLR",
+      "year": "2022",
+      "language": "Indian",
+      "vocabulary_size": "4,765",
+      "duration": "\\-",
+      "samples": "7,050 videos",
+      "signers": "71",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "CISLR Corpus",
+      "website": "link",
+      "available": "Agreement Needed",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://huggingface.co/datasets/Exploration-Lab/CISLR"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 65
+    }
+  },
+  {
+    "name": "IISL2020",
+    "category": "isolated",
+    "fields": {
+      "dataset": "IISL2020",
+      "year": "2022",
+      "language": "Indian",
+      "vocabulary_size": "11",
+      "duration": "\\-",
+      "samples": "~12,100 videos",
+      "signers": "16",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "1920 × 1080",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Deepsign",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "F1-Score 97%"
+    },
+    "links": {
+      "website": [
+        "https://github.com/DeepKothadiya/Custom_ISLDataset/tree/main"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 66
+    }
+  },
+  {
+    "name": "K-RSL",
+    "category": "isolated",
+    "fields": {
+      "dataset": "K-RSL",
+      "year": "2020",
+      "language": "Kazakh-Russian",
+      "vocabulary_size": "20",
+      "duration": "\\-",
+      "samples": "5200 samples",
+      "signers": "5",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB, Skeleton-Keypoints",
+      "hand_dominance": "-",
+      "publication": "Evaluation of Manual and Non-manual Components",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "78.20%"
+    },
+    "links": {
+      "website": [
+        "https://krslproject.github.io/krsl20/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 67
+    }
+  },
+  {
+    "name": "KSL-Dataset",
+    "category": "isolated",
+    "fields": {
+      "dataset": "KSL-Dataset",
+      "year": "2019",
+      "language": "Korean",
+      "vocabulary_size": "77",
+      "duration": "\\-",
+      "samples": "1229 videos",
+      "signers": "22",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "255 × 255",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Korean sign language dataset",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 68
+    }
+  },
+  {
+    "name": "KSL Shin 2023",
+    "category": "isolated",
+    "fields": {
+      "dataset": "KSL Shin 2023",
+      "year": "2023",
+      "language": "Korean",
+      "vocabulary_size": "20",
+      "duration": "~1600 seconds",
+      "samples": "400 videos",
+      "signers": "20",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Korean Sign Language Recognition Using Transformer",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "98.30%"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 69
+    }
+  },
+  {
+    "name": "MSL",
+    "category": "isolated",
+    "fields": {
+      "dataset": "MSL",
+      "year": "2022",
+      "language": "Mexican",
+      "vocabulary_size": "30",
+      "duration": "\\-",
+      "samples": "3,000 samples",
+      "signers": "4",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "4056 × 3040, 1280 × 800",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "Automatic Recognition of Mexican Sign Language",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "96.44%"
+    },
+    "links": {
+      "website": [
+        "https://github.com/ICKMejia/Mexican-Sign-Language-Recognition"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 70
+    }
+  },
+  {
+    "name": "WLPSL",
+    "category": "isolated",
+    "fields": {
+      "dataset": "WLPSL",
+      "year": "\\-",
+      "language": "Pakistani",
+      "vocabulary_size": "31",
+      "duration": "\\-",
+      "samples": "248 videos",
+      "signers": "12",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "WLPSL Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://www.kaggle.com/datasets/jahanzebnaeem/wlpsl"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 71
+    }
+  },
+  {
+    "name": "PSL-30",
+    "category": "isolated",
+    "fields": {
+      "dataset": "PSL-30",
+      "year": "2013",
+      "language": "Polish",
+      "vocabulary_size": "30",
+      "duration": "\\-",
+      "samples": "300 videos",
+      "signers": "1",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "640 × 480",
+      "modality": "RGB-D, Skeleton",
+      "hand_dominance": "-",
+      "publication": "Polish Sign Language Words Recognition",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "98.33%"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 72
+    }
+  },
+  {
+    "name": "KSU-SSL",
+    "category": "isolated",
+    "fields": {
+      "dataset": "KSU-SSL",
+      "year": "2020",
+      "language": "Saudi",
+      "vocabulary_size": "40",
+      "duration": "\\-",
+      "samples": "\\-",
+      "signers": "\\-",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "Varies",
+      "modality": "RGB, Kinect",
+      "hand_dominance": "-",
+      "publication": "Hand Gesture Recognition for Sign Language",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 73
+    }
+  },
+  {
+    "name": "LSE-Sign",
+    "category": "isolated",
+    "fields": {
+      "dataset": "LSE-Sign",
+      "year": "2015",
+      "language": "Spanish",
+      "vocabulary_size": "5,100",
+      "duration": "\\-",
+      "samples": "5,100 entries",
+      "signers": "2",
+      "domain": "Dictionary",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "LSE-Sign",
+      "website": "link",
+      "available": "Agreement Needed",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "http://lse-sign.bcbl.eu/web-busqueda/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 74
+    }
+  },
+  {
+    "name": "SL-Animals-DVS",
+    "category": "isolated",
+    "fields": {
+      "dataset": "SL-Animals-DVS",
+      "year": "2020",
+      "language": "Spanish",
+      "vocabulary_size": "19",
+      "duration": "\\-",
+      "samples": "1,102 recordings",
+      "signers": "58",
+      "domain": "Animal",
+      "collection_source": "Youtube",
+      "resolution": "128 × 128",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Event-Based Sign Language Dataset",
+      "website": "\\-",
+      "available": "-",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 75
+    }
+  },
+  {
+    "name": "SSL Lexicon",
+    "category": "isolated",
+    "fields": {
+      "dataset": "SSL Lexicon",
+      "year": "2012",
+      "language": "Swedish",
+      "vocabulary_size": "21,345",
+      "duration": "\\-",
+      "samples": "\\-",
+      "signers": "\\-",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Swedish Sign Language Corpus",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://teckensprakslexikon.su.se/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 76
+    }
+  },
+  {
+    "name": "SMILE",
+    "category": "isolated",
+    "fields": {
+      "dataset": "SMILE",
+      "year": "2018",
+      "language": "Swiss-German",
+      "vocabulary_size": "100",
+      "duration": "\\-",
+      "samples": "\\-",
+      "signers": "30",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "Vary",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "SMILE Swiss German Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {
+      "website": [
+        "https://www.idiap.ch/project/smile"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 77
+    }
+  },
+  {
+    "name": "BosphorusSign",
+    "category": "isolated",
+    "fields": {
+      "dataset": "BosphorusSign",
+      "year": "2016",
+      "language": "Turkish",
+      "vocabulary_size": "855",
+      "duration": "\\-",
+      "samples": "\\-",
+      "signers": "10",
+      "domain": "Health, Finance, General",
+      "collection_source": "Lab",
+      "resolution": "1920 x 1080",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "BosphorusSign Dataset",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 78
+    }
+  },
+  {
+    "name": "BosphorusSign22k",
+    "category": "isolated",
+    "fields": {
+      "dataset": "BosphorusSign22k",
+      "year": "2020",
+      "language": "Turkish",
+      "vocabulary_size": "744",
+      "duration": "~19 hours",
+      "samples": "22,542 videos",
+      "signers": "6",
+      "domain": "Health, Finance, General",
+      "collection_source": "Lab",
+      "resolution": "1920 x 1080",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "BosphorusSign22k Dataset",
+      "website": "link",
+      "available": "Contact Author",
+      "task": "SLR",
+      "baseline_model_accuracy": "Top-5 94.76 %"
+    },
+    "links": {
+      "website": [
+        "https://ogulcanozdemir.github.io/bosphorussign22k/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 79
+    }
+  },
+  {
+    "name": "AUTSL",
+    "category": "isolated",
+    "fields": {
+      "dataset": "AUTSL",
+      "year": "2020",
+      "language": "Turkish",
+      "vocabulary_size": "226",
+      "duration": "21 hours",
+      "samples": "38,336 samples",
+      "signers": "43",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "512 x 512",
+      "modality": "RGB-D, Skeleton",
+      "hand_dominance": "Right-handed: 41, Left-handed: 2",
+      "publication": "AUTSL Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "Top-5 83.93 %"
+    },
+    "links": {
+      "website": [
+        "https://cvml.ankara.edu.tr/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 80
+    }
+  },
+  {
+    "name": "RWTH-Boston-104",
+    "category": "continuous",
+    "fields": {
+      "dataset": "RWTH-Boston-104",
+      "year": "2007",
+      "language": "American",
+      "vocabulary_size": "104",
+      "duration": "8.7 min",
+      "samples": "201 sentences",
+      "signers": "3",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Speech Recognition Techniques for a Sign Language Recognition System",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "17% WER"
+    },
+    "links": {
+      "website": [
+        "https://www-i6.informatik.rwth-aachen.de/aslr/database-rwth-boston-104.php"
+      ]
+    },
+    "readme_summary": {
+      "category": "continuous",
+      "fields": {
+        "dataset": "RWTH-Boston-104",
+        "year": "2007",
+        "language": "American",
+        "samples": "201 sentences",
+        "signers": "3",
+        "domain": "General"
+      },
+      "links": {
+        "dataset": [
+          "https://www-i6.informatik.rwth-aachen.de/aslr/database-rwth-boston-104.php"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 56
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 86
+    }
+  },
+  {
+    "name": "RWTH-Boston-400",
+    "category": "continuous",
+    "fields": {
+      "dataset": "RWTH-Boston-400",
+      "year": "2008",
+      "language": "American",
+      "vocabulary_size": "~400",
+      "duration": "\\-",
+      "samples": "843 sentences",
+      "signers": "5",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "\\-",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 87
+    }
+  },
+  {
+    "name": "CopyCat",
+    "category": "continuous",
+    "fields": {
+      "dataset": "CopyCat",
+      "year": "2010",
+      "language": "American",
+      "vocabulary_size": "22",
+      "duration": "\\-",
+      "samples": "420 phrases",
+      "signers": "5",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "Right-Handed only",
+      "publication": "A novel approach to American Sign Language (ASL) Phrase Verification using Reversed Signing",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 88
+    }
+  },
+  {
+    "name": "NCSLGR",
+    "category": "continuous",
+    "fields": {
+      "dataset": "NCSLGR",
+      "year": "2012",
+      "language": "American",
+      "vocabulary_size": "1,920",
+      "duration": "\\-",
+      "samples": "1,887 utterances",
+      "signers": "4",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "A New Web Interface to Facilitate Access to Corpora",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://dai.cs.rutgers.edu/dai/s/daioriginal"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 89
+    }
+  },
+  {
+    "name": "ASLG-PC12",
+    "category": "continuous",
+    "fields": {
+      "dataset": "ASLG-PC12",
+      "year": "2012",
+      "language": "American",
+      "vocabulary_size": "\\-",
+      "duration": "\\-",
+      "samples": "100M sentences",
+      "signers": "\\-",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "English-ASL Gloss Parallel Corpus 2012: ASLG-PC12",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://achrafothman.net/site/english-asl-gloss-parallel-corpus-2012-aslg-pc12/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 90
+    }
+  },
+  {
+    "name": "How2Sign",
+    "category": "continuous",
+    "fields": {
+      "dataset": "How2Sign",
+      "year": "2020",
+      "language": "American",
+      "vocabulary_size": "16k",
+      "duration": "79 hours",
+      "samples": "\\>35k sentences",
+      "signers": "11",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "1280x720",
+      "modality": "RGB, RGB-D, 3D Keypoints Information",
+      "hand_dominance": "-",
+      "publication": "How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR, SLT, SLP",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://how2sign.github.io/"
+      ]
+    },
+    "readme_summary": {
+      "category": "continuous",
+      "fields": {
+        "dataset": "How2Sign",
+        "year": "2020",
+        "language": "American",
+        "samples": ">35k sentences",
+        "signers": "11",
+        "domain": "General"
+      },
+      "links": {
+        "dataset": [
+          "https://how2sign.github.io/"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 57
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 91
+    }
+  },
+  {
+    "name": "ASLing",
+    "category": "continuous",
+    "fields": {
+      "dataset": "ASLing",
+      "year": "2021",
+      "language": "American",
+      "vocabulary_size": "\\-",
+      "duration": "\\-",
+      "samples": "1,284 samples",
+      "signers": "7",
+      "domain": "General",
+      "collection_source": "Crowd",
+      "resolution": "450×600",
+      "modality": "RGB",
+      "hand_dominance": "",
+      "publication": "Dynamic Cross-Feature Fusion for American Sign Language Translation",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLT",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 92
+    }
+  },
+  {
+    "name": "OpenASL",
+    "category": "continuous",
+    "fields": {
+      "dataset": "OpenASL",
+      "year": "2022",
+      "language": "American",
+      "vocabulary_size": "33k",
+      "duration": "288 hours",
+      "samples": "\\-",
+      "signers": "~220",
+      "domain": "General",
+      "collection_source": "Web",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "Right-handed: 83%, Left-handed: 17%",
+      "publication": "Open-Domain Sign Language Translation Learned from Online Video",
+      "website": "link",
+      "available": "✅",
+      "task": "SLT",
+      "baseline_model_accuracy": "BLEU4 - 6.72"
+    },
+    "links": {
+      "website": [
+        "https://github.com/chevalierNoir/OpenASL"
+      ]
+    },
+    "readme_summary": {
+      "category": "continuous",
+      "fields": {
+        "dataset": "OpenASL",
+        "year": "2022",
+        "language": "American",
+        "samples": "-",
+        "signers": "~220",
+        "domain": "General"
+      },
+      "links": {
+        "dataset": [
+          "https://github.com/chevalierNoir/OpenASL"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 58
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 93
+    }
+  },
+  {
+    "name": "ASL-Homework-RGBD",
+    "category": "continuous",
+    "fields": {
+      "dataset": "ASL-Homework-RGBD",
+      "year": "2022",
+      "language": "American",
+      "vocabulary_size": "\\-",
+      "duration": "\\-",
+      "samples": "935 samples",
+      "signers": "45",
+      "domain": "General",
+      "collection_source": "ASL Homework",
+      "resolution": "\\-",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "ASL-Homework-RGBD Dataset: An annotated dataset of 45 fluent and non-fluent signers performing American Sign Language homeworks",
+      "website": "link",
+      "available": "✅",
+      "task": "SLT",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://nyu.databrary.org/volume/1249"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 94
+    }
+  },
+  {
+    "name": "YouTube-ASL",
+    "category": "continuous",
+    "fields": {
+      "dataset": "YouTube-ASL",
+      "year": "2023",
+      "language": "American",
+      "vocabulary_size": "60 k",
+      "duration": "~1000 hours",
+      "samples": "\\-",
+      "signers": "\\>2500",
+      "domain": "General",
+      "collection_source": "Web",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "YouTube-ASL: A Large-Scale, Open-Domain American Sign Language-English Parallel Corpus",
+      "website": "link",
+      "available": "✅",
+      "task": "SLT",
+      "baseline_model_accuracy": "BLEU4 - 3.95"
+    },
+    "links": {
+      "website": [
+        "https://github.com/google-research/google-research/tree/master/youtube_asl"
+      ]
+    },
+    "readme_summary": {
+      "category": "continuous",
+      "fields": {
+        "dataset": "YouTube-ASL",
+        "year": "2023",
+        "language": "American",
+        "samples": "-",
+        "signers": ">2500",
+        "domain": "General"
+      },
+      "links": {
+        "dataset": [
+          "https://github.com/google-research/google-research/tree/master/youtube_asl"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 59
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 95
+    }
+  },
+  {
+    "name": "DailyMoth-70h",
+    "category": "continuous",
+    "fields": {
+      "dataset": "DailyMoth-70h",
+      "year": "2024",
+      "language": "American",
+      "vocabulary_size": "19,694",
+      "duration": "75.8 hours",
+      "samples": "48,386 clips",
+      "signers": "1",
+      "domain": "News",
+      "collection_source": "TV",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Towards Privacy-Aware Sign Language Translation at Scale",
+      "website": "link",
+      "available": "✅",
+      "task": "SLT",
+      "baseline_model_accuracy": "BLEU4 - 12.4"
+    },
+    "links": {
+      "website": [
+        "https://github.com/facebookresearch/ssvp_slt"
+      ]
+    },
+    "readme_summary": {
+      "category": "continuous",
+      "fields": {
+        "dataset": "DailyMoth-70h",
+        "year": "2024",
+        "language": "American",
+        "samples": "48,386 clips",
+        "signers": "1",
+        "domain": "News"
+      },
+      "links": {
+        "dataset": [
+          "https://github.com/facebookresearch/ssvp_slt"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 60
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 96
+    }
+  },
+  {
+    "name": "Auslan-Daily Communication",
+    "category": "continuous",
+    "fields": {
+      "dataset": "Auslan-Daily Communication",
+      "year": "2024",
+      "language": "Australian",
+      "vocabulary_size": "3,064",
+      "duration": "\\-",
+      "samples": "14,041 sentences",
+      "signers": "49",
+      "domain": "General",
+      "collection_source": "TV, Web",
+      "resolution": "1920×1080",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Auslan-Daily: Australian Sign Language Translation for Daily Communication and News",
+      "website": "link",
+      "available": "✅",
+      "task": "SLT",
+      "baseline_model_accuracy": "BLEU4 - 9.95"
+    },
+    "links": {
+      "website": [
+        "https://uq-cvlab.github.io/Auslan-Daily-Dataset/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 97
+    }
+  },
+  {
+    "name": "Auslan-Daily News",
+    "category": "continuous",
+    "fields": {
+      "dataset": "Auslan-Daily News",
+      "year": "2024",
+      "language": "Australian",
+      "vocabulary_size": "12,346",
+      "duration": "\\-",
+      "samples": "11065 sentences",
+      "signers": "18",
+      "domain": "General",
+      "collection_source": "TV, Web",
+      "resolution": "1280×720,1920×1080",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Auslan-Daily: Australian Sign Language Translation for Daily Communication and News",
+      "website": "link",
+      "available": "✅",
+      "task": "SLT",
+      "baseline_model_accuracy": "BLEU4 - 2.81"
+    },
+    "links": {
+      "website": [
+        "https://uq-cvlab.github.io/Auslan-Daily-Dataset/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 98
+    }
+  },
+  {
+    "name": "BTVSL",
+    "category": "continuous",
+    "fields": {
+      "dataset": "BTVSL",
+      "year": "2024",
+      "language": "Bangla",
+      "vocabulary_size": "48,623",
+      "duration": "60 hours",
+      "samples": "24,085 sentences",
+      "signers": "22",
+      "domain": "News",
+      "collection_source": "Web",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "BTVSL: A Novel Sentence-Level Annotated Dataset for Bangla Sign Language Translation",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLT",
+      "baseline_model_accuracy": "BLEU4 - 25.16"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 99
+    }
+  },
+  {
+    "name": "LIBRAS-UFOP",
+    "category": "continuous",
+    "fields": {
+      "dataset": "LIBRAS-UFOP",
+      "year": "2021",
+      "language": "Brazilian",
+      "vocabulary_size": "56",
+      "duration": "\\-",
+      "samples": "3,040 sequences",
+      "signers": "5",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB, RGB-D, 3D Keypoints Information",
+      "hand_dominance": "-",
+      "publication": "A multimodal LIBRAS-UFOP Brazilian sign language dataset of minimal pairs using a microsoft Kinect sensor",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 100
+    }
+  },
+  {
+    "name": "BSL-1K",
+    "category": "continuous",
+    "fields": {
+      "dataset": "BSL-1K",
+      "year": "2020",
+      "language": "British",
+      "vocabulary_size": "1,064",
+      "duration": "~1000 hours",
+      "samples": "273K samples",
+      "signers": "40",
+      "domain": "General",
+      "collection_source": "TV",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "BSL-1K: Scaling up co-articulated sign language recognition using mouthing cues",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "TOP-5 88.83%"
+    },
+    "links": {
+      "website": [
+        "https://www.robots.ox.ac.uk/~vgg/research/bsl1k/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 101
+    }
+  },
+  {
+    "name": "BOBSL",
+    "category": "continuous",
+    "fields": {
+      "dataset": "BOBSL",
+      "year": "2021",
+      "language": "British",
+      "vocabulary_size": "2,281 sign, 78K text",
+      "duration": "1,467 hours",
+      "samples": "1.2M sequences",
+      "signers": "39",
+      "domain": "General",
+      "collection_source": "TV",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "BBC-Oxford British Sign Language Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR, SLT",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://www.robots.ox.ac.uk/~vgg/data/bobsl/"
+      ]
+    },
+    "readme_summary": {
+      "category": "continuous",
+      "fields": {
+        "dataset": "BOBSL",
+        "year": "2021",
+        "language": "British",
+        "samples": "1.2M sequences",
+        "signers": "39",
+        "domain": "General"
+      },
+      "links": {
+        "dataset": [
+          "https://www.robots.ox.ac.uk/~vgg/data/bobsl/"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 61
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 102
+    }
+  },
+  {
+    "name": "Video-based CSL",
+    "category": "continuous",
+    "fields": {
+      "dataset": "Video-based CSL",
+      "year": "2018",
+      "language": "Chinese",
+      "vocabulary_size": "178",
+      "duration": "100+ hours",
+      "samples": "25,000 instance",
+      "signers": "50",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "1920 x 1080",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "Video-based Sign Language Recognition without Temporal Segmentation",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 103
+    }
+  },
+  {
+    "name": "CSLD",
+    "category": "continuous",
+    "fields": {
+      "dataset": "CSLD",
+      "year": "2019",
+      "language": "Chinese",
+      "vocabulary_size": "10,000",
+      "duration": "\\-",
+      "samples": "49,708 videos",
+      "signers": "50",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "1920×1080, 512×424",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "Large Scale Sign Language Interpretation",
+      "website": "\\-",
+      "available": "Contact Author",
+      "task": "SLR",
+      "baseline_model_accuracy": "BLEU1 - 14.28"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 104
+    }
+  },
+  {
+    "name": "CSL-Daily",
+    "category": "continuous",
+    "fields": {
+      "dataset": "CSL-Daily",
+      "year": "2021",
+      "language": "Chinese",
+      "vocabulary_size": "2,000",
+      "duration": "\\-",
+      "samples": "20,645 videos",
+      "signers": "10",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "1920 x 1080",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Improving Sign Language Translation with Monolingual Data by Sign Back-Translation",
+      "website": "link",
+      "available": "Agreement Needed",
+      "task": "SLR, SLT",
+      "baseline_model_accuracy": "BLEU4 - 21.34"
+    },
+    "links": {
+      "website": [
+        "https://ustc-slr.github.io/datasets/2021_csl_daily/"
+      ]
+    },
+    "readme_summary": {
+      "category": "continuous",
+      "fields": {
+        "dataset": "CSL-Daily",
+        "year": "2021",
+        "language": "Chinese",
+        "samples": "20,645 videos",
+        "signers": "10",
+        "domain": "General"
+      },
+      "links": {
+        "dataset": [
+          "https://ustc-slr.github.io/datasets/2021_csl_daily/"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 62
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 105
+    }
+  },
+  {
+    "name": "CSL-News",
+    "category": "continuous",
+    "fields": {
+      "dataset": "CSL-News",
+      "year": "2025",
+      "language": "Chinese",
+      "vocabulary_size": "4,875",
+      "duration": "1,985 hours",
+      "samples": "751,320 pairs",
+      "signers": "\\-",
+      "domain": "News",
+      "collection_source": "TV",
+      "resolution": "Vary",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Uni-Sign: Toward Unified Sign Language Understanding at Scale",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR, SLT",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 106
+    }
+  },
+  {
+    "name": "CoL-SLTD",
+    "category": "continuous",
+    "fields": {
+      "dataset": "CoL-SLTD",
+      "year": "2020",
+      "language": "Colombian",
+      "vocabulary_size": "\\-",
+      "duration": "\\-",
+      "samples": "1,020 videos",
+      "signers": "13",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "448×448",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Understanding Motion in Sign Language: A New Structured Translation Dataset",
+      "website": "\\-",
+      "available": "\\-",
+      "task": "SLT",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 107
+    }
+  },
+  {
+    "name": "S-pot",
+    "category": "continuous",
+    "fields": {
+      "dataset": "S-pot",
+      "year": "2014",
+      "language": "Finnish",
+      "vocabulary_size": "1,211",
+      "duration": "\\-",
+      "samples": "5,539 videos",
+      "signers": "5",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "720 × 576",
+      "modality": "RGB",
+      "hand_dominance": "Right-handed: 4, Left-handed: 1",
+      "publication": "S-pot - a benchmark in spotting signs within continuous signing",
+      "website": "link",
+      "available": "Contact Author",
+      "task": "SLR",
+      "baseline_model_accuracy": "47.70%"
+    },
+    "links": {
+      "website": [
+        "https://research.cs.aalto.fi//cbir/data/s-pot/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 108
+    }
+  },
+  {
+    "name": "VRT-NEWS",
+    "category": "continuous",
+    "fields": {
+      "dataset": "VRT-NEWS",
+      "year": "2021",
+      "language": "Flemish",
+      "vocabulary_size": "6,875",
+      "duration": "~9 hours",
+      "samples": "7,174 sequences",
+      "signers": "9",
+      "domain": "News",
+      "collection_source": "TV",
+      "resolution": "1280x720",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Content4All Open Research Sign Language Translation Datasets",
+      "website": "link",
+      "available": "✅",
+      "task": "SLT",
+      "baseline_model_accuracy": "BLEU4 - 0.36"
+    },
+    "links": {
+      "website": [
+        "https://www.cvssp.org/data/c4a-news-corpus/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 109
+    }
+  },
+  {
+    "name": "Corpus VGT",
+    "category": "continuous",
+    "fields": {
+      "dataset": "Corpus VGT",
+      "year": "\\-",
+      "language": "Flemish",
+      "vocabulary_size": "\\-",
+      "duration": "140 hours",
+      "samples": "\\-",
+      "signers": "120",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "\\-",
+      "website": "link",
+      "available": "✅",
+      "task": "\\-",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://www.corpusvgt.ugent.be/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 110
+    }
+  },
+  {
+    "name": "Mediapi-RGB",
+    "category": "continuous",
+    "fields": {
+      "dataset": "Mediapi-RGB",
+      "year": "2024",
+      "language": "French",
+      "vocabulary_size": "27,343",
+      "duration": "86 hours",
+      "samples": "1,230 videos",
+      "signers": "\\>10",
+      "domain": "General",
+      "collection_source": "Online Media",
+      "resolution": "Vary",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Mediapi-RGB: Enabling Technological Breakthroughs in French Sign Language (LSF) Research through an Extensive Video-Text Corpus",
+      "website": "link",
+      "available": "✅",
+      "task": "SLT",
+      "baseline_model_accuracy": "BLEU4 - 4.14"
+    },
+    "links": {
+      "website": [
+        "https://www.ortolang.fr/market/corpora/mediapi-rgb?lang=en"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 111
+    }
+  },
+  {
+    "name": "LSFB-CONT",
+    "category": "continuous",
+    "fields": {
+      "dataset": "LSFB-CONT",
+      "year": "2021",
+      "language": "French Belgian",
+      "vocabulary_size": "6,883",
+      "duration": "\\-",
+      "samples": "85,132 videos",
+      "signers": "100",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "Right-handed: 74.0%, Left-handed: 14.0%, Ambidextrous: 7.0%, Unknown: 5.0%",
+      "publication": "LSFB-CONT and LSFB-ISOL: Two New Datasets for Vision-Based Sign Language Recognition",
+      "website": "link",
+      "available": "✅",
+      "task": "\\-",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://lsfb.info.unamur.be/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 112
+    }
+  },
+  {
+    "name": "SIGNUM",
+    "category": "continuous",
+    "fields": {
+      "dataset": "SIGNUM",
+      "year": "2008",
+      "language": "Germany",
+      "vocabulary_size": "450",
+      "duration": "55.3 hours",
+      "samples": "33,210 sequences",
+      "signers": "25",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "776 × 578",
+      "modality": "RGB",
+      "hand_dominance": "Right-handed: 23, Left-handed: 2",
+      "publication": "SIGNUM Database: Video Corpus for Signer-Independent Continuous Sign Language Recognition",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://www.phonetik.uni-muenchen.de/forschung/Bas/SIGNUM/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 113
+    }
+  },
+  {
+    "name": "RWTH-PHOENIX 2012",
+    "category": "continuous",
+    "fields": {
+      "dataset": "RWTH-PHOENIX 2012",
+      "year": "2012",
+      "language": "Germany",
+      "vocabulary_size": "911",
+      "duration": "3.25 hours",
+      "samples": "1,980 sentences",
+      "signers": "7",
+      "domain": "Weather",
+      "collection_source": "TV",
+      "resolution": "210 × 260",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "RWTH-PHOENIX-Weather: A large vocabulary sign language recognition and translation corpus",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR, SLT",
+      "baseline_model_accuracy": ""
+    },
+    "links": {
+      "website": [
+        "https://www-i6.informatik.rwth-aachen.de/web/Software/Databases/Signlanguage/details/rwth-phoenix/index.php"
+      ]
+    },
+    "readme_summary": {
+      "category": "continuous",
+      "fields": {
+        "dataset": "RWTH-PHOENIX 2012",
+        "year": "2012",
+        "language": "Germany",
+        "samples": "1,980 sentences",
+        "signers": "7",
+        "domain": "Weather"
+      },
+      "links": {
+        "dataset": [
+          "https://www-i6.informatik.rwth-aachen.de/web/Software/Databases/Signlanguage/details/rwth-phoenix/index.php"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 63
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 114
+    }
+  },
+  {
+    "name": "RWTH-PHOENIX 2014",
+    "category": "continuous",
+    "fields": {
+      "dataset": "RWTH-PHOENIX 2014",
+      "year": "2014",
+      "language": "Germany",
+      "vocabulary_size": "1,558",
+      "duration": "10.73 hours",
+      "samples": "6,861 sentences",
+      "signers": "9",
+      "domain": "Weather",
+      "collection_source": "TV",
+      "resolution": "210 × 260",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Extensions of the Sign Language Recognition and Translation Corpus RWTH-PHOENIX-Weather",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR, SLT",
+      "baseline_model_accuracy": ""
+    },
+    "links": {
+      "website": [
+        "https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/"
+      ]
+    },
+    "readme_summary": {
+      "category": "continuous",
+      "fields": {
+        "dataset": "RWTH-PHOENIX 2014",
+        "year": "2014",
+        "language": "Germany",
+        "samples": "6,861 sentences",
+        "signers": "9",
+        "domain": "Weather"
+      },
+      "links": {
+        "dataset": [
+          "https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 64
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 115
+    }
+  },
+  {
+    "name": "Public DGS Corpus",
+    "category": "continuous",
+    "fields": {
+      "dataset": "Public DGS Corpus",
+      "year": "2018",
+      "language": "Germany",
+      "vocabulary_size": "\\-",
+      "duration": "\\>50 hours",
+      "samples": "\\-",
+      "signers": "327",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "640x360",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Publishing DGS corpus data: Different Formats for Different Needs",
+      "website": "link",
+      "available": "✅",
+      "task": "\\-",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://www.sign-lang.uni-hamburg.de/dgs-korpus/public-dgs-corpus.html"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 116
+    }
+  },
+  {
+    "name": "RWTH-PHOENIX14T",
+    "category": "continuous",
+    "fields": {
+      "dataset": "RWTH-PHOENIX14T",
+      "year": "2020",
+      "language": "Germany",
+      "vocabulary_size": "2,887",
+      "duration": "~10.5 hours",
+      "samples": "8,257 sentences",
+      "signers": "9",
+      "domain": "Weather",
+      "collection_source": "TV",
+      "resolution": "210 × 260",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR, SLT",
+      "baseline_model_accuracy": "WER - 24.59, BLEU4 - 18.13"
+    },
+    "links": {
+      "website": [
+        "https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/"
+      ]
+    },
+    "readme_summary": {
+      "category": "continuous",
+      "fields": {
+        "dataset": "RWTH-PHOENIX14T",
+        "year": "2020",
+        "language": "Germany",
+        "samples": "8,257 sentences",
+        "signers": "9",
+        "domain": "Weather"
+      },
+      "links": {
+        "dataset": [
+          "https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/"
+        ]
+      },
+      "source": {
+        "file": "README.md",
+        "line": 65
+      }
+    },
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 117
+    }
+  },
+  {
+    "name": "SWISSTXT-WEATHER",
+    "category": "continuous",
+    "fields": {
+      "dataset": "SWISSTXT-WEATHER",
+      "year": "2021",
+      "language": "Germany",
+      "vocabulary_size": "1,248",
+      "duration": "~1 hours",
+      "samples": "811 sequences",
+      "signers": "1",
+      "domain": "Weather",
+      "collection_source": "TV",
+      "resolution": "1280x720",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Content4All Open Research Sign Language Translation Datasets",
+      "website": "link",
+      "available": "✅",
+      "task": "\\-",
+      "baseline_model_accuracy": ""
+    },
+    "links": {
+      "website": [
+        "https://www.cvssp.org/data/c4a-news-corpus/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 118
+    }
+  },
+  {
+    "name": "SWISSTXT-NEWS",
+    "category": "continuous",
+    "fields": {
+      "dataset": "SWISSTXT-NEWS",
+      "year": "2021",
+      "language": "Germany",
+      "vocabulary_size": "10,561",
+      "duration": "~9.5 hours",
+      "samples": "6,031 sequences",
+      "signers": "9",
+      "domain": "News",
+      "collection_source": "TV",
+      "resolution": "1280x720",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Content4All Open Research Sign Language Translation Datasets",
+      "website": "link",
+      "available": "✅",
+      "task": "SLT",
+      "baseline_model_accuracy": "BLEU4 - 0.41"
+    },
+    "links": {
+      "website": [
+        "https://www.cvssp.org/data/c4a-news-corpus/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 119
+    }
+  },
+  {
+    "name": "PHOENIX-News",
+    "category": "continuous",
+    "fields": {
+      "dataset": "PHOENIX-News",
+      "year": "2024",
+      "language": "Germany",
+      "vocabulary_size": "190k",
+      "duration": "486 hours",
+      "samples": "\\-",
+      "signers": "11",
+      "domain": "News",
+      "collection_source": "TV",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text",
+      "website": "link",
+      "available": "Contact Author",
+      "task": "SLP",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://t2sgpt-demo.yinaoxiong.cn/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 120
+    }
+  },
+  {
+    "name": "GRSL",
+    "category": "continuous",
+    "fields": {
+      "dataset": "GRSL",
+      "year": "2020",
+      "language": "Greek",
+      "vocabulary_size": "≥1,500",
+      "duration": "\\-",
+      "samples": "≥4,000 sentences",
+      "signers": "≥15",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "1920×1080, 1232×1028, 512×524",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "Towards a visual Sign Language dataset for home care services",
+      "website": "\\-",
+      "available": "\\-",
+      "task": "\\-",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 121
+    }
+  },
+  {
+    "name": "GSL SD",
+    "category": "continuous",
+    "fields": {
+      "dataset": "GSL SD",
+      "year": "2021",
+      "language": "Greek",
+      "vocabulary_size": "310",
+      "duration": "9.59 hours",
+      "samples": "10,295 videos",
+      "signers": "7",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "848x480",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "A Comprehensive Study on Deep Learning-based Methods for Sign Language Recognition",
+      "website": "link",
+      "available": "✅",
+      "task": "\\-",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://vcl.iti.gr/dataset/gsl/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 122
+    }
+  },
+  {
+    "name": "GSL SI",
+    "category": "continuous",
+    "fields": {
+      "dataset": "GSL SI",
+      "year": "2021",
+      "language": "Greek",
+      "vocabulary_size": "310",
+      "duration": "9.59 hours",
+      "samples": "10,295 videos",
+      "signers": "7",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "848x480",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "A Comprehensive Study on Deep Learning-based Methods for Sign Language Recognition",
+      "website": "link",
+      "available": "✅",
+      "task": "\\-",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://vcl.iti.gr/dataset/gsl/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 123
+    }
+  },
+  {
+    "name": "Elementary23",
+    "category": "continuous",
+    "fields": {
+      "dataset": "Elementary23",
+      "year": "2023",
+      "language": "Greek",
+      "vocabulary_size": "23204",
+      "duration": "71 hours",
+      "samples": "29,653 videos",
+      "signers": "9",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "1280×720",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "A New Dataset for End-to-End Sign Language Translation: The Greek Elementary School Dataset",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLT",
+      "baseline_model_accuracy": "BLEU4 - 6.67"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 124
+    }
+  },
+  {
+    "name": "TVB-HKSL-News",
+    "category": "continuous",
+    "fields": {
+      "dataset": "TVB-HKSL-News",
+      "year": "2024",
+      "language": "Hong Kong",
+      "vocabulary_size": "SLR 6,515, SLT 2,850",
+      "duration": "16.07 hours",
+      "samples": "7k videos",
+      "signers": "2",
+      "domain": "News",
+      "collection_source": "TV",
+      "resolution": "248×360",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News",
+      "website": "link",
+      "available": "Contact Author",
+      "task": "SLR, SLT",
+      "baseline_model_accuracy": "WER 34.08%, BLEU4 - 23.58​"
+    },
+    "links": {
+      "website": [
+        "https://tvb-hksl-news.github.io/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 125
+    }
+  },
+  {
+    "name": "ISL-CSLTR",
+    "category": "continuous",
+    "fields": {
+      "dataset": "ISL-CSLTR",
+      "year": "2021",
+      "language": "Indian",
+      "vocabulary_size": "\\-",
+      "duration": "\\-",
+      "samples": "700 videos",
+      "signers": "7",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "\\-",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR, SLT",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://data.mendeley.com/datasets/kcmpdxky7p/1"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 126
+    }
+  },
+  {
+    "name": "ISLTranslate",
+    "category": "continuous",
+    "fields": {
+      "dataset": "ISLTranslate",
+      "year": "2023",
+      "language": "Indian",
+      "vocabulary_size": "11k",
+      "duration": "\\-",
+      "samples": "31k",
+      "signers": "\\-",
+      "domain": "General",
+      "collection_source": "DEF,ISLRTC",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "ISLTranslate: Dataset for Translating Indian Sign Language",
+      "website": "link",
+      "available": "✅",
+      "task": "SLT",
+      "baseline_model_accuracy": "BLEU4 -6.09"
+    },
+    "links": {
+      "website": [
+        "https://github.com/Exploration-Lab/ISLTranslate"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 127
+    }
+  },
+  {
+    "name": "iSign",
+    "category": "continuous",
+    "fields": {
+      "dataset": "iSign",
+      "year": "2024",
+      "language": "Indian",
+      "vocabulary_size": "40k",
+      "duration": "252 hours",
+      "samples": "118k sentences",
+      "signers": "\\-",
+      "domain": "General",
+      "collection_source": "Web, News",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "iSign: A Benchmark for Indian Sign Language Processing",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR, SLT",
+      "baseline_model_accuracy": "Top5 - 20.04%, BLEU4 - 1.47"
+    },
+    "links": {
+      "website": [
+        "https://exploration-lab.github.io/iSign/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 128
+    }
+  },
+  {
+    "name": "Deep JSLC",
+    "category": "continuous",
+    "fields": {
+      "dataset": "Deep JSLC",
+      "year": "2018",
+      "language": "Japanese",
+      "vocabulary_size": "197",
+      "duration": "\\-",
+      "samples": "931 sentences",
+      "signers": "1",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "Deep JSLC: A Multimodal Corpus Collection for Data-driven Generation of Japanese Sign Language Expressions",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLP",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 129
+    }
+  },
+  {
+    "name": "KETI",
+    "category": "continuous",
+    "fields": {
+      "dataset": "KETI",
+      "year": "2018",
+      "language": "Korean",
+      "vocabulary_size": "524",
+      "duration": "20.05 hours",
+      "samples": "14,672 videos",
+      "signers": "14",
+      "domain": "Emergency",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Neural Sign Language Translation based on Human Keypoint Estimation",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLT",
+      "baseline_model_accuracy": "55.28%"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 130
+    }
+  },
+  {
+    "name": "Corpus NGT",
+    "category": "continuous",
+    "fields": {
+      "dataset": "Corpus NGT",
+      "year": "2008",
+      "language": "Netherlands",
+      "vocabulary_size": "3,300",
+      "duration": "12 hours",
+      "samples": "160 videos",
+      "signers": "100",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "The Corpus NGT: an online corpus for professionals and laymen",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://www.sign-lang.uni-hamburg.de/lr/compendium/corpus/corpusngt.html"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 131
+    }
+  },
+  {
+    "name": "RKS-PERSIANSIGN",
+    "category": "continuous",
+    "fields": {
+      "dataset": "RKS-PERSIANSIGN",
+      "year": "2020",
+      "language": "Persian",
+      "vocabulary_size": "100",
+      "duration": "\\-",
+      "samples": "10,000 videos",
+      "signers": "10",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Hand sign language recognition using multi-view hand skeleton",
+      "website": "\\-",
+      "available": "❌",
+      "task": "SLR",
+      "baseline_model_accuracy": "99.80%"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 132
+    }
+  },
+  {
+    "name": "PeruSIL",
+    "category": "continuous",
+    "fields": {
+      "dataset": "PeruSIL",
+      "year": "2022",
+      "language": "Peruvian",
+      "vocabulary_size": "\\>500",
+      "duration": "\\-",
+      "samples": "\\>150 sentences",
+      "signers": "\\-",
+      "domain": "General",
+      "collection_source": "Web",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "PeruSIL: A Framework to Build a Continuous Peruvian Sign Language Interpretation Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://github.com/gissemari/PeruvianSignLanguage"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 133
+    }
+  },
+  {
+    "name": "TheRuSLan",
+    "category": "continuous",
+    "fields": {
+      "dataset": "TheRuSLan",
+      "year": "2020",
+      "language": "Russian",
+      "vocabulary_size": "164",
+      "duration": "\\>8 hours",
+      "samples": "\\>10,660 samples",
+      "signers": "13",
+      "domain": "Supermarket",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "PeruSIL: A Framework to Build a Continuous Peruvian Sign Language Interpretation Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://github.com/gissemari/PeruvianSignLanguage"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 134
+    }
+  },
+  {
+    "name": "Slovo",
+    "category": "continuous",
+    "fields": {
+      "dataset": "Slovo",
+      "year": "2023",
+      "language": "Russian",
+      "vocabulary_size": "1,000",
+      "duration": "19.81 hours",
+      "samples": "20,000 videos",
+      "signers": "194",
+      "domain": "General",
+      "collection_source": "Crowdsourcing",
+      "resolution": "-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Slovo: Russian Sign Language Dataset",
+      "website": "link",
+      "available": "✅",
+      "task": "SLR",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://github.com/hukenovs/slovo"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 135
+    }
+  },
+  {
+    "name": "LSA-T",
+    "category": "continuous",
+    "fields": {
+      "dataset": "LSA-T",
+      "year": "2022",
+      "language": "Spanish",
+      "vocabulary_size": "14,239",
+      "duration": "21.78 hours",
+      "samples": "14,880 sentences",
+      "signers": "103",
+      "domain": "General",
+      "collection_source": "Web",
+      "resolution": "1920 x 1080",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "LSA-T: The first continuous Argentinian Sign Language dataset for Sign Language Translation",
+      "website": "link",
+      "available": "✅",
+      "task": "SLT",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://github.com/midusi/LSA-T"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 136
+    }
+  },
+  {
+    "name": "SSLC",
+    "category": "continuous",
+    "fields": {
+      "dataset": "SSLC",
+      "year": "2012",
+      "language": "Swedish",
+      "vocabulary_size": "3,600",
+      "duration": "\\-",
+      "samples": "42 videos",
+      "signers": "42",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "Sign Language Resources in Sweden : Dictionary and Corpus",
+      "website": "link",
+      "available": "Partially",
+      "task": "SLR",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://github.com/UniversalDependencies/UD_Swedish_Sign_Language-SSLC"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 137
+    }
+  },
+  {
+    "name": "STS-korpus",
+    "category": "continuous",
+    "fields": {
+      "dataset": "STS-korpus",
+      "year": "2020",
+      "language": "Swedish",
+      "vocabulary_size": "\\-",
+      "duration": "\\-",
+      "samples": "\\-",
+      "signers": "42",
+      "domain": "Teaching",
+      "collection_source": "Lab",
+      "resolution": "768 x 288",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "STS-korpus: A Sign Language Web Corpus Tool for Teaching and Public Use",
+      "website": "link",
+      "available": "Free to visit",
+      "task": "\\-",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {
+      "website": [
+        "https://teckensprakskorpus.su.se/"
+      ]
+    },
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 138
+    }
+  },
+  {
+    "name": "ATIS",
+    "category": "continuous",
+    "fields": {
+      "dataset": "ATIS",
+      "year": "2008",
+      "language": "Multi",
+      "vocabulary_size": "\\-",
+      "duration": "\\-",
+      "samples": "595 sentences",
+      "signers": "\\-",
+      "domain": "General",
+      "collection_source": "Lab",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "The ATIS Sign Language Corpus",
+      "website": "\\-",
+      "available": "❌",
+      "task": "\\-",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 139
+    }
+  },
+  {
+    "name": "Dicta-Sign",
+    "category": "continuous",
+    "fields": {
+      "dataset": "Dicta-Sign",
+      "year": "2012",
+      "language": "Multi",
+      "vocabulary_size": "~1,000",
+      "duration": "\\-",
+      "samples": "\\-",
+      "signers": "14~16 per lang",
+      "domain": "General",
+      "collection_source": "\\-",
+      "resolution": "\\-",
+      "modality": "RGB-D",
+      "hand_dominance": "-",
+      "publication": "Dicta-Sign – Building a Multilingual Sign Language Corpus",
+      "website": "\\-",
+      "available": "❌",
+      "task": "\\-",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 140
+    }
+  },
+  {
+    "name": "AFRISIGN",
+    "category": "continuous",
+    "fields": {
+      "dataset": "AFRISIGN",
+      "year": "2023",
+      "language": "Multi",
+      "vocabulary_size": "20k",
+      "duration": "152 hours",
+      "samples": "\\-",
+      "signers": "\\-",
+      "domain": "General",
+      "collection_source": "Web",
+      "resolution": "\\-",
+      "modality": "RGB",
+      "hand_dominance": "-",
+      "publication": "AFRISIGN: MACHINE TRANSLATION FOR AFRICAN SIGN LANGUAGES",
+      "website": "\\-",
+      "available": "❌",
+      "task": "\\-",
+      "baseline_model_accuracy": "\\-"
+    },
+    "links": {},
+    "readme_summary": null,
+    "source": {
+      "file": "helper/datasets.md",
+      "line": 141
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "generator": "scripts/parse.py",
+  "sources": {
+    "README.md": {
+      "sha256": "76d223ec7b18520012dad978d16477faef853594e26e0b49dff83d174ebefa51",
+      "lines": 1150
+    },
+    "helper/datasets.md": {
+      "sha256": "d6eb9ebf98d14756d3368a3610fa24af85e2eb84b91f86fbe99d1d0419a2a2a0",
+      "lines": 142
+    }
+  },
+  "counts": {
+    "papers": 330,
+    "papers_without_links": 1,
+    "leaderboard_rows": 259,
+    "leaderboard_rows_by_task": {
+      "SLR": 133,
+      "SLT": 98,
+      "SLP": 28
+    },
+    "datasets": 123,
+    "readme_summary_rows": 21,
+    "readme_summary_rows_not_in_datasets_md": [],
+    "parse_warnings": 1
+  },
+  "parse_warnings": [
+    {
+      "file": "README.md",
+      "line": 1137,
+      "code": "column-count",
+      "message": "row has 8 cells, header has 7"
+    }
+  ]
+}
